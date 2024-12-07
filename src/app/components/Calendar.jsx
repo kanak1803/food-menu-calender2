@@ -61,12 +61,22 @@ const FoodMenuCalendar = () => {
           <tbody>
             {['breakfast', 'lunch', 'dinner'].map((mealType) => (
               <React.Fragment key={mealType}>
-                {/* Meal Type Header */}
+                {/* Meal Type Header with Font Awesome Icon */}
                 <tr>
                   <td
                     colSpan={2}
                     className="border border-gray-300 p-2 font-bold text-center bg-gray-100"
                   >
+                    {/* Add Icons based on Meal Type */}
+                    {mealType === 'breakfast' && (
+                      <i className="fas fa-coffee mr-2 text-yellow-500"></i> // Coffee Icon for Breakfast
+                    )}
+                    {mealType === 'lunch' && (
+                      <i className="fas fa-utensils mr-2 text-blue-500"></i> // Utensils Icon for Lunch
+                    )}
+                    {mealType === 'dinner' && (
+                      <i className="fas fa-drumstick-bite mr-2 text-red-500"></i> // Drumstick Icon for Dinner
+                    )}
                     {mealType.charAt(0).toUpperCase() + mealType.slice(1)}
                   </td>
                   <td colSpan={showFullWeek ? 14 : 7} className="border border-gray-300 p-2 bg-gray-100"></td>
