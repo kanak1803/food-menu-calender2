@@ -37,22 +37,27 @@ const FoodMenuCalendar = () => {
 
   return (
     <div className="p-5">
-      <div className="overflow-x-auto mx-auto"> {/* Centering the table */}
-        <table className="table-auto min-w-max border-collapse border border-gray-300">
+      <div className="overflow-x-auto mx-auto shadow-md rounded-lg border border-[#0D584F]">
+        <table className="table-auto min-w-full border-separate border-spacing-0">
           {/* Main Header */}
-          <thead>
+          <thead className="bg-[#0D584F] text-white">
             <tr>
-              <th className="border border-gray-300 p-2">
+              <th className="border border-[#0D584F] p-4 text-center font-bold">
                 <button
-                  className="font-bold text-center w-full"
+                  className="font-bold text-white hover:text-[#FE6B68] transition"
                   onClick={toggleWeek}
                 >
                   {showFullWeek ? 'Cycle 1 Week 2' : 'Cycle 1 Week 1'}
                 </button>
               </th>
-              <th className="border border-gray-300 p-2 w-20">Meal Cost</th>
+              <th className="border border-[#0D584F] p-4 font-bold">Meal Cost</th>
               {days.slice(0, showFullWeek ? 14 : 7).map((day, index) => (
-                <th key={index} className="border border-gray-300 p-2">{day}</th>
+                <th
+                  key={index}
+                  className="border border-[#0D584F] p-4 font-bold text-center"
+                >
+                  {day}
+                </th>
               ))}
             </tr>
           </thead>
@@ -61,46 +66,41 @@ const FoodMenuCalendar = () => {
           <tbody>
             {['breakfast', 'lunch', 'dinner'].map((mealType) => (
               <React.Fragment key={mealType}>
-                {/* Meal Type Header with Font Awesome Icon */}
-                <tr>
+                {/* Meal Type Header */}
+                <tr className="bg-[#0D584F] text-white">
                   <td
                     colSpan={2}
-                    className="border border-gray-300 p-2 font-bold text-center bg-gray-100"
+                    className="border border-[#0D584F] p-4 font-bold text-center"
                   >
-                    {/* Add Icons based on Meal Type */}
-                    {mealType === 'breakfast' && (
-                      <i className="fas fa-coffee mr-2 text-yellow-500"></i> // Coffee Icon for Breakfast
-                    )}
-                    {mealType === 'lunch' && (
-                      <i className="fas fa-utensils mr-2 text-blue-500"></i> // Utensils Icon for Lunch
-                    )}
-                    {mealType === 'dinner' && (
-                      <i className="fas fa-drumstick-bite mr-2 text-red-500"></i> // Drumstick Icon for Dinner
-                    )}
                     {mealType.charAt(0).toUpperCase() + mealType.slice(1)}
                   </td>
-                  <td colSpan={showFullWeek ? 14 : 7} className="border border-gray-300 p-2 bg-gray-100"></td>
+                  <td
+                    colSpan={showFullWeek ? 14 : 7}
+                    className="border border-[#0D584F] p-4"
+                  ></td>
                 </tr>
 
                 {/* Meal Data Rows */}
                 {mealData[mealType].map((meal, rowIndex) => (
-                  <tr key={`${mealType}-${rowIndex}`}>
-                    <td className="border border-gray-300 p-2 font-bold">
+                  <tr
+                    key={`${mealType}-${rowIndex}`}
+                    className={rowIndex % 2 === 0 ? 'bg-white' : 'bg-[#F8F9FA]'}
+                  >
+                    <td className="border border-[#0D584F] p-4 font-semibold text-gray-600 text-center">
                       {meal.meal}
                     </td>
-                    <td className="border border-gray-300 p-2 w-20">
-                      <input
-                        type="text"
-                        placeholder={meal.cost}
-                        className="w-full"
-                        readOnly
-                      />
+                    <td className="border border-[#0D584F] p-4 text-center text-gray-600">
+                      {meal.cost}
                     </td>
                     {days.slice(0, showFullWeek ? 14 : 7).map((_, colIndex) => (
-                      <td key={colIndex} className="border border-gray-300 p-2">
-                        {/* Show meal name and price */}
+                      <td
+                        key={colIndex}
+                        className="border border-[#0D584F] p-4 text-center text-gray-600"
+                      >
                         <div>{meal.meal}</div>
-                        <div className="text-sm text-gray-500">{meal.cost}</div> {/* Price below the meal */}
+                        <div className="text-sm text-[#FE6B68] font-medium">
+                          {meal.cost}
+                        </div>
                       </td>
                     ))}
                   </tr>
