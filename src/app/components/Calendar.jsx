@@ -66,17 +66,17 @@ const FoodMenuCalendar = () => {
           <tbody>
             {['breakfast', 'lunch', 'dinner'].map((mealType) => (
               <React.Fragment key={mealType}>
-                {/* Meal Type Header */}
-                <tr className="bg-[#0D584F] text-white">
+                {/* Meal Type Header with lighter teal background */}
+                <tr className="bg-[#3C7A74] text-white">
                   <td
                     colSpan={2}
-                    className="border border-[#0D584F] p-4 font-bold text-center"
+                    className="border border-[#3C7A74] p-4 font-bold text-center"
                   >
                     {mealType.charAt(0).toUpperCase() + mealType.slice(1)}
                   </td>
                   <td
                     colSpan={showFullWeek ? 14 : 7}
-                    className="border border-[#0D584F] p-4"
+                    className="border border-[#3C7A74] p-4"
                   ></td>
                 </tr>
 
@@ -86,16 +86,16 @@ const FoodMenuCalendar = () => {
                     key={`${mealType}-${rowIndex}`}
                     className={rowIndex % 2 === 0 ? 'bg-white' : 'bg-[#F8F9FA]'}
                   >
-                    <td className="border border-[#0D584F] p-4 font-semibold text-gray-600 text-center">
+                    <td className="border border-[#3C7A74] p-4 font-semibold text-gray-600 text-center">
                       {meal.meal}
                     </td>
-                    <td className="border border-[#0D584F] p-4 text-center text-gray-600">
+                    <td className="border border-[#3C7A74] p-4 text-center text-gray-600">
                       {meal.cost}
                     </td>
                     {days.slice(0, showFullWeek ? 14 : 7).map((_, colIndex) => (
                       <td
                         key={colIndex}
-                        className="border border-[#0D584F] p-4 text-center text-gray-600"
+                        className="border border-[#3C7A74] p-4 text-center text-gray-600"
                       >
                         <div>{meal.meal}</div>
                         <div className="text-sm text-[#FE6B68] font-medium">

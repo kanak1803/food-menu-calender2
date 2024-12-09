@@ -1,0 +1,478 @@
+[
+    {
+      "Meal_period": "Breakfast",
+      "Section": "Sandwiches - Wraps - Rolls",
+      "Date": "01-01-2025",
+      "Day": "Monday",
+      "Recipes": [
+        {
+          "Recipe_ID": 1028096,
+          "Recipe_Name": "ESS OR - Proxy Recipe - Buy in Sandwiches",
+          "Unit_Cost": 0.23
+        },
+        {
+          "Recipe_ID": 1075168,
+          "Recipe_Name": "ESS OR - BBQ Pulled Beef with Slaw Wrap",
+          "Unit_Cost": 0.54
+        }
+      ],
+      "total_unit_cost": 0.77
+    },
+    {
+      "Meal_period": "Breakfast",
+      "Section": "Sandwiches - Wraps - Rolls",
+      "Date": "02-01-2025",
+      "Day": "Tuesday",
+      "Recipes": [
+        {
+          "Recipe_ID": 219872,
+          "Recipe_Name": "ESS OR - Proxy Recipe - Buy in Sandwiches",
+          "Unit_Cost": 0.23
+        },
+        {
+          "Recipe_ID": 202560,
+          "Recipe_Name": "ESS OR - BLT wrap with ice berg and paprika mayo",
+          "Unit_Cost": 0.26
+        }
+      ],
+      "total_unit_cost": 0.48
+    },
+    {
+      "Meal_period": "Breakfast",
+      "Section": "Sandwiches - Wraps - Rolls",
+      "Date": "03-01-2025",
+      "Day": "Wednesday",
+      "Recipes": [
+        {
+          "Recipe_ID": 1075184,
+          "Recipe_Name": "ESS OR-Ham ,Cheese and tomato relish Wrap",
+          "Unit_Cost": 0.29
+        },
+        {
+          "Recipe_ID": 191120,
+          "Recipe_Name": "ESS OR - Falafel, Tomato, Cucumber, Red Onion, Cos and Tzatziki Multigrain Wrap",
+          "Unit_Cost": 0.26
+        }
+      ],
+      "total_unit_cost": 0.55
+    },
+    {
+      "Meal_period": "Breakfast",
+      "Section": "Sandwiches - Wraps - Rolls",
+      "Date": "04-01-2025",
+      "Day": "Thursday",
+      "Recipes": [
+        {
+          "Recipe_ID": 1028096,
+          "Recipe_Name": "ESS OR - Proxy Recipe - Buy in Sandwiches",
+          "Unit_Cost": 0.23
+        },
+        {
+          "Recipe_ID": 1075168,
+          "Recipe_Name": "ESS OR - BBQ Pulled Beef with Slaw Wrap",
+          "Unit_Cost": 0.54
+        }
+      ],
+      "total_unit_cost": 0.77
+    },
+    {
+      "Meal_period": "Breakfast",
+      "Section": "Sandwiches - Wraps - Rolls",
+      "Date": "05-01-2025",
+      "Day": "Friday",
+      "Recipes": [
+        {
+          "Recipe_ID": 219872,
+          "Recipe_Name": "ESS OR - Proxy Recipe - Buy in Sandwiches",
+          "Unit_Cost": 0.23
+        },
+        {
+          "Recipe_ID": 202560,
+          "Recipe_Name": "ESS OR - BLT wrap with ice berg and paprika mayo",
+          "Unit_Cost": 0.26
+        }
+      ],
+      "total_unit_cost": 0.48
+    },
+    {
+      "Meal_period": "Breakfast",
+      "Section": "Sandwiches - Wraps - Rolls",
+      "Date": "06-01-2025",
+      "Day": "Saturday",
+      "Recipes": [
+        {
+          "Recipe_ID": 1075184,
+          "Recipe_Name": "ESS OR-Ham ,Cheese and tomato relish Wrap",
+          "Unit_Cost": 0.29
+        },
+        {
+          "Recipe_ID": 191120,
+          "Recipe_Name": "ESS OR - Falafel, Tomato, Cucumber, Red Onion, Cos and Tzatziki Multigrain Wrap",
+          "Unit_Cost": 0.26
+        }
+      ],
+      "total_unit_cost": 0.55
+    },
+    {
+      "Meal_period": "Breakfast",
+      "Section": "Sandwiches - Wraps - Rolls",
+      "Date": "07-01-2025",
+      "Day": "Sunday",
+      "Recipes": [
+        {
+          "Recipe_ID": 1028096,
+          "Recipe_Name": "ESS OR - Proxy Recipe - Buy in Sandwiches",
+          "Unit_Cost": 0.23
+        },
+        {
+          "Recipe_ID": 1075168,
+          "Recipe_Name": "ESS OR - BBQ Pulled Beef with Slaw Wrap",
+          "Unit_Cost": 0.54
+        }
+      ],
+      "total_unit_cost": 0.77
+    },
+    {
+      "Meal_period": "Breakfast",
+      "Section": "Sandwiches - Wraps - Rolls",
+      "Date": "08-01-2025",
+      "Day": "Monday",
+      "Recipes": [
+        {
+          "Recipe_ID": 219872,
+          "Recipe_Name": "ESS OR - Proxy Recipe - Buy in Sandwiches",
+          "Unit_Cost": 0.23
+        },
+        {
+          "Recipe_ID": 202560,
+          "Recipe_Name": "ESS OR - BLT wrap with ice berg and paprika mayo",
+          "Unit_Cost": 0.26
+        }
+      ],
+      "total_unit_cost": 0.48
+    },
+    {
+      "Meal_period": "Breakfast",
+      "Section": "Sandwiches - Wraps - Rolls",
+      "Date": "09-01-2025",
+      "Day": "Tuesday",
+      "Recipes": [
+        {
+          "Recipe_ID": 1075184,
+          "Recipe_Name": "ESS OR-Ham ,Cheese and tomato relish Wrap",
+          "Unit_Cost": 0.29
+        },
+        {
+          "Recipe_ID": 191120,
+          "Recipe_Name": "ESS OR - Falafel, Tomato, Cucumber, Red Onion, Cos and Tzatziki Multigrain Wrap",
+          "Unit_Cost": 0.26
+        }
+      ],
+      "total_unit_cost": 0.55
+    },
+    {
+      "Meal_period": "Breakfast",
+      "Section": "Sandwiches - Wraps - Rolls",
+      "Date": "10-01-2025",
+      "Day": "Wednesday",
+      "Recipes": [
+        {
+          "Recipe_ID": 1028096,
+          "Recipe_Name": "ESS OR - Proxy Recipe - Buy in Sandwiches",
+          "Unit_Cost": 0.23
+        },
+        {
+          "Recipe_ID": 1075168,
+          "Recipe_Name": "ESS OR - BBQ Pulled Beef with Slaw Wrap",
+          "Unit_Cost": 0.54
+        }
+      ],
+      "total_unit_cost": 0.77
+    },
+    {
+      "Meal_period": "Breakfast",
+      "Section": "Sandwiches - Wraps - Rolls",
+      "Date": "11-01-2025",
+      "Day": "Thursday",
+      "Recipes": [
+        {
+          "Recipe_ID": 219872,
+          "Recipe_Name": "ESS OR - Proxy Recipe - Buy in Sandwiches",
+          "Unit_Cost": 0.23
+        },
+        {
+          "Recipe_ID": 202560,
+          "Recipe_Name": "ESS OR - BLT wrap with ice berg and paprika mayo",
+          "Unit_Cost": 0.26
+        }
+      ],
+      "total_unit_cost": 0.48
+    },
+    {
+      "Meal_period": "Breakfast",
+      "Section": "Sandwiches - Wraps - Rolls",
+      "Date": "12-01-2025",
+      "Day": "Friday",
+      "Recipes": [
+        {
+          "Recipe_ID": 1075184,
+          "Recipe_Name": "ESS OR-Ham ,Cheese and tomato relish Wrap",
+          "Unit_Cost": 0.29
+        },
+        {
+          "Recipe_ID": 191120,
+          "Recipe_Name": "ESS OR - Falafel, Tomato, Cucumber, Red Onion, Cos and Tzatziki Multigrain Wrap",
+          "Unit_Cost": 0.26
+        }
+      ],
+      "total_unit_cost": 0.55
+    },
+    {
+      "Meal_period": "Breakfast",
+      "Section": "Sandwiches - Wraps - Rolls",
+      "Date": "13-01-2025",
+      "Day": "Saturday",
+      "Recipes": [
+        {
+          "Recipe_ID": 1028096,
+          "Recipe_Name": "ESS OR - Proxy Recipe - Buy in Sandwiches",
+          "Unit_Cost": 0.23
+        },
+        {
+          "Recipe_ID": 1075168,
+          "Recipe_Name": "ESS OR - BBQ Pulled Beef with Slaw Wrap",
+          "Unit_Cost": 0.54
+        }
+      ],
+      "total_unit_cost": 0.77
+    },
+    {
+      "Meal_period": "Breakfast",
+      "Section": "Sandwiches - Wraps - Rolls",
+      "Date": "14-01-2025",
+      "Day": "Sunday",
+      "Recipes": [
+        {
+          "Recipe_ID": 219872,
+          "Recipe_Name": "ESS OR - Proxy Recipe - Buy in Sandwiches",
+          "Unit_Cost": 0.23
+        },
+        {
+          "Recipe_ID": 202560,
+          "Recipe_Name": "ESS OR - BLT wrap with ice berg and paprika mayo",
+          "Unit_Cost": 0.26
+        }
+      ],
+      "total_unit_cost": 0.48
+    },
+    {
+        "Meal_period": "Lunch",
+        "Section": "Pasta - Salads",
+        "Date": "01-01-2025",
+        "Day": "Monday",
+        "Recipes": [
+          {
+            "Recipe_ID": 300101,
+            "Recipe_Name": "ESS OR - Classic Caesar Salad",
+            "Unit_Cost": 1.25
+          },
+          {
+            "Recipe_ID": 300102,
+            "Recipe_Name": "ESS OR - Spaghetti Bolognese",
+            "Unit_Cost": 2.75
+          }
+        ],
+        "total_unit_cost": 4.00
+      },
+      {
+        "Meal_period": "Lunch",
+        "Section": "Pasta - Salads",
+        "Date": "02-01-2025",
+        "Day": "Tuesday",
+        "Recipes": [
+          {
+            "Recipe_ID": 300201,
+            "Recipe_Name": "ESS OR - Greek Salad with Feta",
+            "Unit_Cost": 1.50
+          },
+          {
+            "Recipe_ID": 300202,
+            "Recipe_Name": "ESS OR - Penne Arrabbiata",
+            "Unit_Cost": 2.50
+          }
+        ],
+        "total_unit_cost": 4.00
+      },
+      {
+        "Meal_period": "Lunch",
+        "Section": "Pasta - Salads",
+        "Date": "03-01-2025",
+        "Day": "Wednesday",
+        "Recipes": [
+          {
+            "Recipe_ID": 300301,
+            "Recipe_Name": "ESS OR - Quinoa Salad with Lemon Dressing",
+            "Unit_Cost": 1.75
+          },
+          {
+            "Recipe_ID": 300302,
+            "Recipe_Name": "ESS OR - Fettuccine Alfredo",
+            "Unit_Cost": 2.80
+          }
+        ],
+        "total_unit_cost": 4.55
+      },
+      {
+        "Meal_period": "Lunch",
+        "Section": "Pasta - Salads",
+        "Date": "04-01-2025",
+        "Day": "Thursday",
+        "Recipes": [
+          {
+            "Recipe_ID": 300401,
+            "Recipe_Name": "ESS OR - Caprese Salad with Basil",
+            "Unit_Cost": 1.60
+          },
+          {
+            "Recipe_ID": 300402,
+            "Recipe_Name": "ESS OR - Lasagna with Ricotta",
+            "Unit_Cost": 3.00
+          }
+        ],
+        "total_unit_cost": 4.60
+      },
+      {
+        "Meal_period": "Lunch",
+        "Section": "Pasta - Salads",
+        "Date": "05-01-2025",
+        "Day": "Friday",
+        "Recipes": [
+          {
+            "Recipe_ID": 300501,
+            "Recipe_Name": "ESS OR - Kale Salad with Walnuts",
+            "Unit_Cost": 1.85
+          },
+          {
+            "Recipe_ID": 300502,
+            "Recipe_Name": "ESS OR - Macaroni and Cheese",
+            "Unit_Cost": 2.40
+          }
+        ],
+        "total_unit_cost": 4.25
+      },
+      {
+        "Meal_period": "Lunch",
+        "Section": "Pasta - Salads",
+        "Date": "06-01-2025",
+        "Day": "Saturday",
+        "Recipes": [
+          {
+            "Recipe_ID": 300601,
+            "Recipe_Name": "ESS OR - Couscous Salad with Pomegranate",
+            "Unit_Cost": 1.90
+          },
+          {
+            "Recipe_ID": 300602,
+            "Recipe_Name": "ESS OR - Carbonara Pasta",
+            "Unit_Cost": 2.60
+          }
+        ],
+        "total_unit_cost": 4.50
+      },
+      {
+        "Meal_period": "Lunch",
+        "Section": "Pasta - Salads",
+        "Date": "07-01-2025",
+        "Day": "Sunday",
+        "Recipes": [
+          {
+            "Recipe_ID": 300701,
+            "Recipe_Name": "ESS OR - Roasted Beetroot Salad",
+            "Unit_Cost": 1.75
+          },
+          {
+            "Recipe_ID": 300702,
+            "Recipe_Name": "ESS OR - Gnocchi with Tomato Sauce",
+            "Unit_Cost": 2.50
+          }
+        ],
+        "total_unit_cost": 4.25
+      },
+      {
+        "Meal_period": "Dinner",
+        "Section": "Main Courses - Grills",
+        "Date": "01-01-2025",
+        "Day": "Monday",
+        "Recipes": [
+          {
+            "Recipe_ID": 400101,
+            "Recipe_Name": "ESS OR - Grilled Salmon with Lemon Butter",
+            "Unit_Cost": 5.50
+          },
+          {
+            "Recipe_ID": 400102,
+            "Recipe_Name": "ESS OR - Roasted Vegetables with Herbs",
+            "Unit_Cost": 2.00
+          }
+        ],
+        "total_unit_cost": 7.50
+      },
+      {
+        "Meal_period": "Dinner",
+        "Section": "Main Courses - Grills",
+        "Date": "02-01-2025",
+        "Day": "Tuesday",
+        "Recipes": [
+          {
+            "Recipe_ID": 400201,
+            "Recipe_Name": "ESS OR - Beef Steak with Peppercorn Sauce",
+            "Unit_Cost": 6.00
+          },
+          {
+            "Recipe_ID": 400202,
+            "Recipe_Name": "ESS OR - Mashed Potatoes with Chives",
+            "Unit_Cost": 1.50
+          }
+        ],
+        "total_unit_cost": 7.50
+      },
+      {
+        "Meal_period": "Dinner",
+        "Section": "Main Courses - Grills",
+        "Date": "03-01-2025",
+        "Day": "Wednesday",
+        "Recipes": [
+          {
+            "Recipe_ID": 400301,
+            "Recipe_Name": "ESS OR - Grilled Chicken with Garlic Sauce",
+            "Unit_Cost": 4.50
+          },
+          {
+            "Recipe_ID": 400302,
+            "Recipe_Name": "ESS OR - Baked Sweet Potatoes",
+            "Unit_Cost": 2.25
+          }
+        ],
+        "total_unit_cost": 6.75
+      },
+      {
+        "Meal_period": "Dinner",
+        "Section": "Main Courses - Grills",
+        "Date": "04-01-2025",
+        "Day": "Thursday",
+        "Recipes": [
+          {
+            "Recipe_ID": 400401,
+            "Recipe_Name": "ESS OR - Herb-Crusted Pork Chops",
+            "Unit_Cost": 5.00
+          },
+          {
+            "Recipe_ID": 400402,
+            "Recipe_Name": "ESS OR - Garlic Mashed Potatoes",
+            "Unit_Cost": 1.75
+          }
+        ],
+        "total_unit_cost": 6.75
+      }
+  ]
+  
