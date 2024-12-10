@@ -1,0 +1,1272 @@
+[
+    [
+        {
+            "Meal_period": "Crib",
+            "Section": "Salad Bar",
+            "Date": "01-01-2025",
+            "Day": "Monday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 185696,
+                    "Recipe_Name": "ESS OR - 3 * Salad Leaves - BHP Crib",
+                    "Unit_Cost": 1.44
+                },
+                {
+                    "Recipe_ID": 1075136,
+                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
+                    "Unit_Cost": 1.16
+                }
+            ],
+            "total_unit_cost": 2.6
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Salad Bar",
+            "Date": "02-01-2025",
+            "Day": "Tuesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 185696,
+                    "Recipe_Name": "ESS OR - 3 * Salad Leaves - BHP Crib",
+                    "Unit_Cost": 1.44
+                },
+                {
+                    "Recipe_ID": 1075136,
+                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
+                    "Unit_Cost": 1.16
+                }
+            ],
+            "total_unit_cost": 2.6
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Salad Bar",
+            "Date": "03-01-2025",
+            "Day": "Wednesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 185696,
+                    "Recipe_Name": "ESS OR - 3 * Salad Leaves - BHP Crib",
+                    "Unit_Cost": 1.44
+                },
+                {
+                    "Recipe_ID": 1075136,
+                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
+                    "Unit_Cost": 1.16
+                }
+            ],
+            "total_unit_cost": 2.6
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Salad Bar",
+            "Date": "04-01-2025",
+            "Day": "Thursday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 185696,
+                    "Recipe_Name": "ESS OR - 3 * Salad Leaves - BHP Crib",
+                    "Unit_Cost": 1.44
+                },
+                {
+                    "Recipe_ID": 1075136,
+                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
+                    "Unit_Cost": 1.16
+                }
+            ],
+            "total_unit_cost": 2.6
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Salad Bar",
+            "Date": "05-01-2025",
+            "Day": "Friday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 185696,
+                    "Recipe_Name": "ESS OR - 3 * Salad Leaves - BHP Crib",
+                    "Unit_Cost": 1.44
+                },
+                {
+                    "Recipe_ID": 1075136,
+                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
+                    "Unit_Cost": 1.16
+                }
+            ],
+            "total_unit_cost": 2.6
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Salad Bar",
+            "Date": "06-01-2025",
+            "Day": "Saturday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 185696,
+                    "Recipe_Name": "ESS OR - 3 * Salad Leaves - BHP Crib",
+                    "Unit_Cost": 1.44
+                },
+                {
+                    "Recipe_ID": 1075136,
+                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
+                    "Unit_Cost": 1.16
+                }
+            ],
+            "total_unit_cost": 2.6
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Salad Bar",
+            "Date": "07-01-2025",
+            "Day": "Sunday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 185696,
+                    "Recipe_Name": "ESS OR - 3 * Salad Leaves - BHP Crib",
+                    "Unit_Cost": 1.44
+                },
+                {
+                    "Recipe_ID": 1075136,
+                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
+                    "Unit_Cost": 1.16
+                }
+            ],
+            "total_unit_cost": 2.6
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Salad Bar",
+            "Date": "08-01-2025",
+            "Day": "Monday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 185696,
+                    "Recipe_Name": "ESS OR - 3 * Salad Leaves - BHP Crib",
+                    "Unit_Cost": 1.44
+                },
+                {
+                    "Recipe_ID": 1075136,
+                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
+                    "Unit_Cost": 1.16
+                }
+            ],
+            "total_unit_cost": 2.6
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Salad Bar",
+            "Date": "09-01-2025",
+            "Day": "Tuesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 185696,
+                    "Recipe_Name": "ESS OR - 3 * Salad Leaves - BHP Crib",
+                    "Unit_Cost": 1.44
+                },
+                {
+                    "Recipe_ID": 1075136,
+                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
+                    "Unit_Cost": 1.16
+                }
+            ],
+            "total_unit_cost": 2.6
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Salad Bar",
+            "Date": "10-01-2025",
+            "Day": "Wednesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 185696,
+                    "Recipe_Name": "ESS OR - 3 * Salad Leaves - BHP Crib",
+                    "Unit_Cost": 1.44
+                },
+                {
+                    "Recipe_ID": 1075136,
+                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
+                    "Unit_Cost": 1.16
+                }
+            ],
+            "total_unit_cost": 2.6
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Salad Bar",
+            "Date": "11-01-2025",
+            "Day": "Thursday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 185696,
+                    "Recipe_Name": "ESS OR - 3 * Salad Leaves - BHP Crib",
+                    "Unit_Cost": 1.44
+                },
+                {
+                    "Recipe_ID": 1075136,
+                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
+                    "Unit_Cost": 1.16
+                }
+            ],
+            "total_unit_cost": 2.6
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Salad Bar",
+            "Date": "12-01-2025",
+            "Day": "Friday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 185696,
+                    "Recipe_Name": "ESS OR - 3 * Salad Leaves - BHP Crib",
+                    "Unit_Cost": 1.44
+                },
+                {
+                    "Recipe_ID": 1075136,
+                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
+                    "Unit_Cost": 1.16
+                }
+            ],
+            "total_unit_cost": 2.6
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Salad Bar",
+            "Date": "13-01-2025",
+            "Day": "Saturday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 185696,
+                    "Recipe_Name": "ESS OR - 3 * Salad Leaves - BHP Crib",
+                    "Unit_Cost": 1.44
+                },
+                {
+                    "Recipe_ID": 1075136,
+                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
+                    "Unit_Cost": 1.16
+                }
+            ],
+            "total_unit_cost": 2.6
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Salad Bar",
+            "Date": "14-01-2025",
+            "Day": "Sunday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 185696,
+                    "Recipe_Name": "ESS OR - 3 * Salad Leaves - BHP Crib",
+                    "Unit_Cost": 1.44
+                },
+                {
+                    "Recipe_ID": 1075136,
+                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
+                    "Unit_Cost": 1.16
+                }
+            ],
+            "total_unit_cost": 2.6
+        }
+    ],
+    [
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "01-01-2025",
+            "Day": "Monday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 201760,
+                    "Recipe_Name": "ESS OR - Tomato, Bacon and Cheese Quiche with Short crust Pastry",
+                    "Unit_Cost": 0.61
+                },
+                {
+                    "Recipe_ID": 189408,
+                    "Recipe_Name": "ESS OR - Three Cheese and Spinach Quiche with Short crust Pastry",
+                    "Unit_Cost": 0.51
+                }
+            ],
+            "total_unit_cost": 1.11
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "02-01-2025",
+            "Day": "Tuesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 202048,
+                    "Recipe_Name": "ESS OR - Roasted Corn and Bacon quiche with Short crust Pastry",
+                    "Unit_Cost": 0.55
+                },
+                {
+                    "Recipe_ID": 149648,
+                    "Recipe_Name": "ESS OR - Chorizo Quiche",
+                    "Unit_Cost": 0.51
+                }
+            ],
+            "total_unit_cost": 1.06
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "03-01-2025",
+            "Day": "Wednesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 201760,
+                    "Recipe_Name": "ESS OR - Tomato, Bacon and Cheese Quiche with Short crust Pastry",
+                    "Unit_Cost": 0.61
+                },
+                {
+                    "Recipe_ID": 189408,
+                    "Recipe_Name": "ESS OR - Three Cheese and Spinach Quiche with Short crust Pastry",
+                    "Unit_Cost": 0.51
+                }
+            ],
+            "total_unit_cost": 1.11
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "04-01-2025",
+            "Day": "Thursday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 202048,
+                    "Recipe_Name": "ESS OR - Roasted Corn and Bacon quiche with Short crust Pastry",
+                    "Unit_Cost": 0.55
+                },
+                {
+                    "Recipe_ID": 149648,
+                    "Recipe_Name": "ESS OR - Chorizo Quiche",
+                    "Unit_Cost": 0.51
+                }
+            ],
+            "total_unit_cost": 1.06
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "05-01-2025",
+            "Day": "Friday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 201760,
+                    "Recipe_Name": "ESS OR - Tomato, Bacon and Cheese Quiche with Short crust Pastry",
+                    "Unit_Cost": 0.61
+                },
+                {
+                    "Recipe_ID": 189408,
+                    "Recipe_Name": "ESS OR - Three Cheese and Spinach Quiche with Short crust Pastry",
+                    "Unit_Cost": 0.51
+                }
+            ],
+            "total_unit_cost": 1.11
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "06-01-2025",
+            "Day": "Saturday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 202048,
+                    "Recipe_Name": "ESS OR - Roasted Corn and Bacon quiche with Short crust Pastry",
+                    "Unit_Cost": 0.55
+                },
+                {
+                    "Recipe_ID": 149648,
+                    "Recipe_Name": "ESS OR - Chorizo Quiche",
+                    "Unit_Cost": 0.51
+                }
+            ],
+            "total_unit_cost": 1.06
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "07-01-2025",
+            "Day": "Sunday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 201760,
+                    "Recipe_Name": "ESS OR - Tomato, Bacon and Cheese Quiche with Short crust Pastry",
+                    "Unit_Cost": 0.61
+                },
+                {
+                    "Recipe_ID": 189408,
+                    "Recipe_Name": "ESS OR - Three Cheese and Spinach Quiche with Short crust Pastry",
+                    "Unit_Cost": 0.51
+                }
+            ],
+            "total_unit_cost": 1.11
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "08-01-2025",
+            "Day": "Monday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 202048,
+                    "Recipe_Name": "ESS OR - Roasted Corn and Bacon quiche with Short crust Pastry",
+                    "Unit_Cost": 0.55
+                },
+                {
+                    "Recipe_ID": 149648,
+                    "Recipe_Name": "ESS OR - Chorizo Quiche",
+                    "Unit_Cost": 0.51
+                }
+            ],
+            "total_unit_cost": 1.06
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "09-01-2025",
+            "Day": "Tuesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 201760,
+                    "Recipe_Name": "ESS OR - Tomato, Bacon and Cheese Quiche with Short crust Pastry",
+                    "Unit_Cost": 0.61
+                },
+                {
+                    "Recipe_ID": 189408,
+                    "Recipe_Name": "ESS OR - Three Cheese and Spinach Quiche with Short crust Pastry",
+                    "Unit_Cost": 0.51
+                }
+            ],
+            "total_unit_cost": 1.11
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "10-01-2025",
+            "Day": "Wednesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 202048,
+                    "Recipe_Name": "ESS OR - Roasted Corn and Bacon quiche with Short crust Pastry",
+                    "Unit_Cost": 0.55
+                },
+                {
+                    "Recipe_ID": 149648,
+                    "Recipe_Name": "ESS OR - Chorizo Quiche",
+                    "Unit_Cost": 0.51
+                }
+            ],
+            "total_unit_cost": 1.06
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "11-01-2025",
+            "Day": "Thursday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 201760,
+                    "Recipe_Name": "ESS OR - Tomato, Bacon and Cheese Quiche with Short crust Pastry",
+                    "Unit_Cost": 0.61
+                },
+                {
+                    "Recipe_ID": 189408,
+                    "Recipe_Name": "ESS OR - Three Cheese and Spinach Quiche with Short crust Pastry",
+                    "Unit_Cost": 0.51
+                }
+            ],
+            "total_unit_cost": 1.11
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "12-01-2025",
+            "Day": "Friday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 202048,
+                    "Recipe_Name": "ESS OR - Roasted Corn and Bacon quiche with Short crust Pastry",
+                    "Unit_Cost": 0.55
+                },
+                {
+                    "Recipe_ID": 149648,
+                    "Recipe_Name": "ESS OR - Chorizo Quiche",
+                    "Unit_Cost": 0.51
+                }
+            ],
+            "total_unit_cost": 1.06
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "13-01-2025",
+            "Day": "Saturday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 201760,
+                    "Recipe_Name": "ESS OR - Tomato, Bacon and Cheese Quiche with Short crust Pastry",
+                    "Unit_Cost": 0.61
+                },
+                {
+                    "Recipe_ID": 189408,
+                    "Recipe_Name": "ESS OR - Three Cheese and Spinach Quiche with Short crust Pastry",
+                    "Unit_Cost": 0.51
+                }
+            ],
+            "total_unit_cost": 1.11
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "14-01-2025",
+            "Day": "Sunday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 202048,
+                    "Recipe_Name": "ESS OR - Roasted Corn and Bacon quiche with Short crust Pastry",
+                    "Unit_Cost": 0.55
+                },
+                {
+                    "Recipe_ID": 149648,
+                    "Recipe_Name": "ESS OR - Chorizo Quiche",
+                    "Unit_Cost": 0.51
+                }
+            ],
+            "total_unit_cost": 1.06
+        }
+    ],
+    [
+        {
+            "Meal_period": "Crib",
+            "Section": "Sweet",
+            "Date": "01-01-2025",
+            "Day": "Monday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 152496,
+                    "Recipe_Name": "ESS OR - Iced Utility cake - Crib",
+                    "Unit_Cost": 1.98
+                },
+                {
+                    "Recipe_ID": 160592,
+                    "Recipe_Name": "ESS OR - Chocolate mud cake - Crib",
+                    "Unit_Cost": 2.03
+                }
+            ],
+            "total_unit_cost": 4.01
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Sweet",
+            "Date": "02-01-2025",
+            "Day": "Tuesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 152496,
+                    "Recipe_Name": "ESS OR - Iced Utility cake - Crib",
+                    "Unit_Cost": 1.98
+                },
+                {
+                    "Recipe_ID": 160592,
+                    "Recipe_Name": "ESS OR - Chocolate mud cake - Crib",
+                    "Unit_Cost": 2.03
+                }
+            ],
+            "total_unit_cost": 4.01
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Sweet",
+            "Date": "03-01-2025",
+            "Day": "Wednesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 152496,
+                    "Recipe_Name": "ESS OR - Iced Utility cake - Crib",
+                    "Unit_Cost": 1.98
+                },
+                {
+                    "Recipe_ID": 160592,
+                    "Recipe_Name": "ESS OR - Chocolate mud cake - Crib",
+                    "Unit_Cost": 2.03
+                }
+            ],
+            "total_unit_cost": 4.01
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Sweet",
+            "Date": "04-01-2025",
+            "Day": "Thursday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 152496,
+                    "Recipe_Name": "ESS OR - Iced Utility cake - Crib",
+                    "Unit_Cost": 1.98
+                },
+                {
+                    "Recipe_ID": 160592,
+                    "Recipe_Name": "ESS OR - Chocolate mud cake - Crib",
+                    "Unit_Cost": 2.03
+                }
+            ],
+            "total_unit_cost": 4.01
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Sweet",
+            "Date": "05-01-2025",
+            "Day": "Friday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 152496,
+                    "Recipe_Name": "ESS OR - Iced Utility cake - Crib",
+                    "Unit_Cost": 1.98
+                },
+                {
+                    "Recipe_ID": 160592,
+                    "Recipe_Name": "ESS OR - Chocolate mud cake - Crib",
+                    "Unit_Cost": 2.03
+                }
+            ],
+            "total_unit_cost": 4.01
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Sweet",
+            "Date": "06-01-2025",
+            "Day": "Saturday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 152496,
+                    "Recipe_Name": "ESS OR - Iced Utility cake - Crib",
+                    "Unit_Cost": 1.98
+                },
+                {
+                    "Recipe_ID": 160592,
+                    "Recipe_Name": "ESS OR - Chocolate mud cake - Crib",
+                    "Unit_Cost": 2.03
+                }
+            ],
+            "total_unit_cost": 4.01
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Sweet",
+            "Date": "07-01-2025",
+            "Day": "Sunday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 152496,
+                    "Recipe_Name": "ESS OR - Iced Utility cake - Crib",
+                    "Unit_Cost": 1.98
+                },
+                {
+                    "Recipe_ID": 160592,
+                    "Recipe_Name": "ESS OR - Chocolate mud cake - Crib",
+                    "Unit_Cost": 2.03
+                }
+            ],
+            "total_unit_cost": 4.01
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Sweet",
+            "Date": "08-01-2025",
+            "Day": "Monday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 152496,
+                    "Recipe_Name": "ESS OR - Iced Utility cake - Crib",
+                    "Unit_Cost": 1.98
+                },
+                {
+                    "Recipe_ID": 160592,
+                    "Recipe_Name": "ESS OR - Chocolate mud cake - Crib",
+                    "Unit_Cost": 2.03
+                }
+            ],
+            "total_unit_cost": 4.01
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Sweet",
+            "Date": "09-01-2025",
+            "Day": "Tuesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 152496,
+                    "Recipe_Name": "ESS OR - Iced Utility cake - Crib",
+                    "Unit_Cost": 1.98
+                },
+                {
+                    "Recipe_ID": 160592,
+                    "Recipe_Name": "ESS OR - Chocolate mud cake - Crib",
+                    "Unit_Cost": 2.03
+                }
+            ],
+            "total_unit_cost": 4.01
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Sweet",
+            "Date": "10-01-2025",
+            "Day": "Wednesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 152496,
+                    "Recipe_Name": "ESS OR - Iced Utility cake - Crib",
+                    "Unit_Cost": 1.98
+                },
+                {
+                    "Recipe_ID": 160592,
+                    "Recipe_Name": "ESS OR - Chocolate mud cake - Crib",
+                    "Unit_Cost": 2.03
+                }
+            ],
+            "total_unit_cost": 4.01
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Sweet",
+            "Date": "11-01-2025",
+            "Day": "Thursday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 152496,
+                    "Recipe_Name": "ESS OR - Iced Utility cake - Crib",
+                    "Unit_Cost": 1.98
+                },
+                {
+                    "Recipe_ID": 160592,
+                    "Recipe_Name": "ESS OR - Chocolate mud cake - Crib",
+                    "Unit_Cost": 2.03
+                }
+            ],
+            "total_unit_cost": 4.01
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Sweet",
+            "Date": "12-01-2025",
+            "Day": "Friday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 152496,
+                    "Recipe_Name": "ESS OR - Iced Utility cake - Crib",
+                    "Unit_Cost": 1.98
+                },
+                {
+                    "Recipe_ID": 160592,
+                    "Recipe_Name": "ESS OR - Chocolate mud cake - Crib",
+                    "Unit_Cost": 2.03
+                }
+            ],
+            "total_unit_cost": 4.01
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Sweet",
+            "Date": "13-01-2025",
+            "Day": "Saturday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 152496,
+                    "Recipe_Name": "ESS OR - Iced Utility cake - Crib",
+                    "Unit_Cost": 1.98
+                },
+                {
+                    "Recipe_ID": 160592,
+                    "Recipe_Name": "ESS OR - Chocolate mud cake - Crib",
+                    "Unit_Cost": 2.03
+                }
+            ],
+            "total_unit_cost": 4.01
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Sweet",
+            "Date": "14-01-2025",
+            "Day": "Sunday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 152496,
+                    "Recipe_Name": "ESS OR - Iced Utility cake - Crib",
+                    "Unit_Cost": 1.98
+                },
+                {
+                    "Recipe_ID": 160592,
+                    "Recipe_Name": "ESS OR - Chocolate mud cake - Crib",
+                    "Unit_Cost": 2.03
+                }
+            ],
+            "total_unit_cost": 4.01
+        }
+    ],
+    [
+        {
+            "Meal_period": "Crib",
+            "Section": "Bakery",
+            "Date": "01-01-2025",
+            "Day": "Monday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 216320,
+                    "Recipe_Name": "ESS OR - Whole loaves and rolls - Crib Bread",
+                    "Unit_Cost": 0.77
+                }
+            ],
+            "total_unit_cost": 0.77
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Bakery",
+            "Date": "02-01-2025",
+            "Day": "Tuesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 216320,
+                    "Recipe_Name": "ESS OR - Whole loaves and rolls - Crib Bread",
+                    "Unit_Cost": 0.77
+                }
+            ],
+            "total_unit_cost": 0.77
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Bakery",
+            "Date": "03-01-2025",
+            "Day": "Wednesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 216320,
+                    "Recipe_Name": "ESS OR - Whole loaves and rolls - Crib Bread",
+                    "Unit_Cost": 0.77
+                }
+            ],
+            "total_unit_cost": 0.77
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Bakery",
+            "Date": "04-01-2025",
+            "Day": "Thursday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 216320,
+                    "Recipe_Name": "ESS OR - Whole loaves and rolls - Crib Bread",
+                    "Unit_Cost": 0.77
+                }
+            ],
+            "total_unit_cost": 0.77
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Bakery",
+            "Date": "05-01-2025",
+            "Day": "Friday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 216320,
+                    "Recipe_Name": "ESS OR - Whole loaves and rolls - Crib Bread",
+                    "Unit_Cost": 0.77
+                }
+            ],
+            "total_unit_cost": 0.77
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Bakery",
+            "Date": "06-01-2025",
+            "Day": "Saturday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 216320,
+                    "Recipe_Name": "ESS OR - Whole loaves and rolls - Crib Bread",
+                    "Unit_Cost": 0.77
+                }
+            ],
+            "total_unit_cost": 0.77
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Bakery",
+            "Date": "07-01-2025",
+            "Day": "Sunday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 216320,
+                    "Recipe_Name": "ESS OR - Whole loaves and rolls - Crib Bread",
+                    "Unit_Cost": 0.77
+                }
+            ],
+            "total_unit_cost": 0.77
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Bakery",
+            "Date": "08-01-2025",
+            "Day": "Monday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 216320,
+                    "Recipe_Name": "ESS OR - Whole loaves and rolls - Crib Bread",
+                    "Unit_Cost": 0.77
+                }
+            ],
+            "total_unit_cost": 0.77
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Bakery",
+            "Date": "09-01-2025",
+            "Day": "Tuesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 216320,
+                    "Recipe_Name": "ESS OR - Whole loaves and rolls - Crib Bread",
+                    "Unit_Cost": 0.77
+                }
+            ],
+            "total_unit_cost": 0.77
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Bakery",
+            "Date": "10-01-2025",
+            "Day": "Wednesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 216320,
+                    "Recipe_Name": "ESS OR - Whole loaves and rolls - Crib Bread",
+                    "Unit_Cost": 0.77
+                }
+            ],
+            "total_unit_cost": 0.77
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Bakery",
+            "Date": "11-01-2025",
+            "Day": "Thursday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 216320,
+                    "Recipe_Name": "ESS OR - Whole loaves and rolls - Crib Bread",
+                    "Unit_Cost": 0.77
+                }
+            ],
+            "total_unit_cost": 0.77
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Bakery",
+            "Date": "12-01-2025",
+            "Day": "Friday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 216320,
+                    "Recipe_Name": "ESS OR - Whole loaves and rolls - Crib Bread",
+                    "Unit_Cost": 0.77
+                }
+            ],
+            "total_unit_cost": 0.77
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Bakery",
+            "Date": "13-01-2025",
+            "Day": "Saturday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 216320,
+                    "Recipe_Name": "ESS OR - Whole loaves and rolls - Crib Bread",
+                    "Unit_Cost": 0.77
+                }
+            ],
+            "total_unit_cost": 0.77
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Bakery",
+            "Date": "14-01-2025",
+            "Day": "Sunday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 216320,
+                    "Recipe_Name": "ESS OR - Whole loaves and rolls - Crib Bread",
+                    "Unit_Cost": 0.77
+                }
+            ],
+            "total_unit_cost": 0.77
+        }
+    ],
+    [
+        {
+            "Meal_period": "Crib",
+            "Section": "Fruits - Whole",
+            "Date": "01-01-2025",
+            "Day": "Monday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 216096,
+                    "Recipe_Name": "ESS OR - Whole Fruit - Pear",
+                    "Unit_Cost": 0.94
+                },
+                {
+                    "Recipe_ID": 216080,
+                    "Recipe_Name": "ESS OR - Whole Fruit - Green Apple",
+                    "Unit_Cost": 1.14
+                }
+            ],
+            "total_unit_cost": 2.08
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Fruits - Whole",
+            "Date": "02-01-2025",
+            "Day": "Tuesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 216096,
+                    "Recipe_Name": "ESS OR - Whole Fruit - Pear",
+                    "Unit_Cost": 0.94
+                },
+                {
+                    "Recipe_ID": 216080,
+                    "Recipe_Name": "ESS OR - Whole Fruit - Green Apple",
+                    "Unit_Cost": 1.14
+                }
+            ],
+            "total_unit_cost": 2.08
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Fruits - Whole",
+            "Date": "03-01-2025",
+            "Day": "Wednesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 216096,
+                    "Recipe_Name": "ESS OR - Whole Fruit - Pear",
+                    "Unit_Cost": 0.94
+                },
+                {
+                    "Recipe_ID": 216080,
+                    "Recipe_Name": "ESS OR - Whole Fruit - Green Apple",
+                    "Unit_Cost": 1.14
+                }
+            ],
+            "total_unit_cost": 2.08
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Fruits - Whole",
+            "Date": "04-01-2025",
+            "Day": "Thursday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 216096,
+                    "Recipe_Name": "ESS OR - Whole Fruit - Pear",
+                    "Unit_Cost": 0.94
+                },
+                {
+                    "Recipe_ID": 216080,
+                    "Recipe_Name": "ESS OR - Whole Fruit - Green Apple",
+                    "Unit_Cost": 1.14
+                }
+            ],
+            "total_unit_cost": 2.08
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Fruits - Whole",
+            "Date": "05-01-2025",
+            "Day": "Friday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 216096,
+                    "Recipe_Name": "ESS OR - Whole Fruit - Pear",
+                    "Unit_Cost": 0.94
+                },
+                {
+                    "Recipe_ID": 216080,
+                    "Recipe_Name": "ESS OR - Whole Fruit - Green Apple",
+                    "Unit_Cost": 1.14
+                }
+            ],
+            "total_unit_cost": 2.08
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Fruits - Whole",
+            "Date": "06-01-2025",
+            "Day": "Saturday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 216096,
+                    "Recipe_Name": "ESS OR - Whole Fruit - Pear",
+                    "Unit_Cost": 0.94
+                },
+                {
+                    "Recipe_ID": 216080,
+                    "Recipe_Name": "ESS OR - Whole Fruit - Green Apple",
+                    "Unit_Cost": 1.14
+                }
+            ],
+            "total_unit_cost": 2.08
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Fruits - Whole",
+            "Date": "07-01-2025",
+            "Day": "Sunday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 216096,
+                    "Recipe_Name": "ESS OR - Whole Fruit - Pear",
+                    "Unit_Cost": 0.94
+                },
+                {
+                    "Recipe_ID": 216080,
+                    "Recipe_Name": "ESS OR - Whole Fruit - Green Apple",
+                    "Unit_Cost": 1.14
+                }
+            ],
+            "total_unit_cost": 2.08
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Fruits - Whole",
+            "Date": "08-01-2025",
+            "Day": "Monday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 216096,
+                    "Recipe_Name": "ESS OR - Whole Fruit - Pear",
+                    "Unit_Cost": 0.94
+                },
+                {
+                    "Recipe_ID": 216080,
+                    "Recipe_Name": "ESS OR - Whole Fruit - Green Apple",
+                    "Unit_Cost": 1.14
+                }
+            ],
+            "total_unit_cost": 2.08
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Fruits - Whole",
+            "Date": "09-01-2025",
+            "Day": "Tuesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 216096,
+                    "Recipe_Name": "ESS OR - Whole Fruit - Pear",
+                    "Unit_Cost": 0.94
+                },
+                {
+                    "Recipe_ID": 216080,
+                    "Recipe_Name": "ESS OR - Whole Fruit - Green Apple",
+                    "Unit_Cost": 1.14
+                }
+            ],
+            "total_unit_cost": 2.08
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Fruits - Whole",
+            "Date": "10-01-2025",
+            "Day": "Wednesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 216096,
+                    "Recipe_Name": "ESS OR - Whole Fruit - Pear",
+                    "Unit_Cost": 0.94
+                },
+                {
+                    "Recipe_ID": 216080,
+                    "Recipe_Name": "ESS OR - Whole Fruit - Green Apple",
+                    "Unit_Cost": 1.14
+                }
+            ],
+            "total_unit_cost": 2.08
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Fruits - Whole",
+            "Date": "11-01-2025",
+            "Day": "Thursday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 216096,
+                    "Recipe_Name": "ESS OR - Whole Fruit - Pear",
+                    "Unit_Cost": 0.94
+                },
+                {
+                    "Recipe_ID": 216080,
+                    "Recipe_Name": "ESS OR - Whole Fruit - Green Apple",
+                    "Unit_Cost": 1.14
+                }
+            ],
+            "total_unit_cost": 2.08
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Fruits - Whole",
+            "Date": "12-01-2025",
+            "Day": "Friday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 216096,
+                    "Recipe_Name": "ESS OR - Whole Fruit - Pear",
+                    "Unit_Cost": 0.94
+                },
+                {
+                    "Recipe_ID": 216080,
+                    "Recipe_Name": "ESS OR - Whole Fruit - Green Apple",
+                    "Unit_Cost": 1.14
+                }
+            ],
+            "total_unit_cost": 2.08
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Fruits - Whole",
+            "Date": "13-01-2025",
+            "Day": "Saturday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 216096,
+                    "Recipe_Name": "ESS OR - Whole Fruit - Pear",
+                    "Unit_Cost": 0.94
+                },
+                {
+                    "Recipe_ID": 216080,
+                    "Recipe_Name": "ESS OR - Whole Fruit - Green Apple",
+                    "Unit_Cost": 1.14
+                }
+            ],
+            "total_unit_cost": 2.08
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Fruits - Whole",
+            "Date": "14-01-2025",
+            "Day": "Sunday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 216096,
+                    "Recipe_Name": "ESS OR - Whole Fruit - Pear",
+                    "Unit_Cost": 0.94
+                },
+                {
+                    "Recipe_ID": 216080,
+                    "Recipe_Name": "ESS OR - Whole Fruit - Green Apple",
+                    "Unit_Cost": 1.14
+                }
+            ],
+            "total_unit_cost": 2.08
+        }
+    ]
+]

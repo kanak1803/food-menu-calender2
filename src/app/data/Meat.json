@@ -1,0 +1,410 @@
+[
+    [
+        {
+            "Meal_period": "Crib",
+            "Section": "Hot Selection Served Cold",
+            "Date": "01-01-2025",
+            "Day": "Monday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 1084800,
+                    "Recipe_Name": "ESS OR - Chicken Breast, Rice and Broccoli  BHP",
+                    "Unit_Cost": 0.18
+                },
+                {
+                    "Recipe_ID": 1081248,
+                    "Recipe_Name": "ESS OR - Beef Lasagne BHP",
+                    "Unit_Cost": 0.24
+                },
+                {
+                    "Recipe_ID": 1184480,
+                    "Recipe_Name": "BHP WAIO Minute Steak, Corn Kernels + Roasted Potato",
+                    "Unit_Cost": 0.02
+                },
+                {
+                    "Recipe_ID": 1081344,
+                    "Recipe_Name": "ESS OR - Roast Beef, Gravy, Roast Potatoes, Carrots and Peas BHP",
+                    "Unit_Cost": 0.21
+                }
+            ],
+            "total_unit_cost": 0.64
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Hot Selection Served Cold",
+            "Date": "02-01-2025",
+            "Day": "Tuesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 1081392,
+                    "Recipe_Name": "ESS OR - Chicken Schnitzel, Peas, Corn and Roasted Potatoes BHP",
+                    "Unit_Cost": 0.24
+                },
+                {
+                    "Recipe_ID": 100848,
+                    "Recipe_Name": "ESS OR - Butter Chicken (nut free)",
+                    "Unit_Cost": 0.21
+                },
+                {
+                    "Recipe_ID": 1184464,
+                    "Recipe_Name": "BHP WAIO Chicken Schnitzel, Glazed Carrots + Roasted Potato",
+                    "Unit_Cost": 0.14
+                },
+                {
+                    "Recipe_ID": 100272,
+                    "Recipe_Name": "ESS OR - Beef Bourguignon / Burgundy",
+                    "Unit_Cost": 0.24
+                }
+            ],
+            "total_unit_cost": 0.84
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Hot Selection Served Cold",
+            "Date": "03-01-2025",
+            "Day": "Wednesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 1084800,
+                    "Recipe_Name": "ESS OR - Chicken Breast, Rice and Broccoli  BHP",
+                    "Unit_Cost": 0.18
+                },
+                {
+                    "Recipe_ID": 1081248,
+                    "Recipe_Name": "ESS OR - Beef Lasagne BHP",
+                    "Unit_Cost": 0.24
+                },
+                {
+                    "Recipe_ID": 178544,
+                    "Recipe_Name": "ESS OR - Chicken Stroganoff with Mushrooms and sour cream",
+                    "Unit_Cost": 0.34
+                },
+                {
+                    "Recipe_ID": 1081344,
+                    "Recipe_Name": "ESS OR - Roast Beef, Gravy, Roast Potatoes, Carrots and Peas BHP",
+                    "Unit_Cost": 0.21
+                }
+            ],
+            "total_unit_cost": 0.97
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Hot Selection Served Cold",
+            "Date": "04-01-2025",
+            "Day": "Thursday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 1081392,
+                    "Recipe_Name": "ESS OR - Chicken Schnitzel, Peas, Corn and Roasted Potatoes BHP",
+                    "Unit_Cost": 0.24
+                },
+                {
+                    "Recipe_ID": 1184464,
+                    "Recipe_Name": "BHP WAIO Chicken Schnitzel, Glazed Carrots + Roasted Potato",
+                    "Unit_Cost": 0.14
+                },
+                {
+                    "Recipe_ID": 1184480,
+                    "Recipe_Name": "BHP WAIO Minute Steak, Corn Kernels + Roasted Potato",
+                    "Unit_Cost": 0.02
+                },
+                {
+                    "Recipe_ID": 100272,
+                    "Recipe_Name": "ESS OR - Beef Bourguignon / Burgundy",
+                    "Unit_Cost": 0.24
+                }
+            ],
+            "total_unit_cost": 0.64
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Hot Selection Served Cold",
+            "Date": "05-01-2025",
+            "Day": "Friday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 100848,
+                    "Recipe_Name": "ESS OR - Butter Chicken (nut free)",
+                    "Unit_Cost": 0.21
+                },
+                {
+                    "Recipe_ID": 1081248,
+                    "Recipe_Name": "ESS OR - Beef Lasagne BHP",
+                    "Unit_Cost": 0.24
+                },
+                {
+                    "Recipe_ID": 178544,
+                    "Recipe_Name": "ESS OR - Chicken Stroganoff with Mushrooms and sour cream",
+                    "Unit_Cost": 0.34
+                },
+                {
+                    "Recipe_ID": 1081344,
+                    "Recipe_Name": "ESS OR - Roast Beef, Gravy, Roast Potatoes, Carrots and Peas BHP",
+                    "Unit_Cost": 0.21
+                }
+            ],
+            "total_unit_cost": 1.0
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Hot Selection Served Cold",
+            "Date": "06-01-2025",
+            "Day": "Saturday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 1081392,
+                    "Recipe_Name": "ESS OR - Chicken Schnitzel, Peas, Corn and Roasted Potatoes BHP",
+                    "Unit_Cost": 0.24
+                },
+                {
+                    "Recipe_ID": 1084800,
+                    "Recipe_Name": "ESS OR - Chicken Breast, Rice and Broccoli  BHP",
+                    "Unit_Cost": 0.18
+                },
+                {
+                    "Recipe_ID": 1184480,
+                    "Recipe_Name": "BHP WAIO Minute Steak, Corn Kernels + Roasted Potato",
+                    "Unit_Cost": 0.02
+                },
+                {
+                    "Recipe_ID": 100272,
+                    "Recipe_Name": "ESS OR - Beef Bourguignon / Burgundy",
+                    "Unit_Cost": 0.24
+                }
+            ],
+            "total_unit_cost": 0.68
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Hot Selection Served Cold",
+            "Date": "07-01-2025",
+            "Day": "Sunday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 100848,
+                    "Recipe_Name": "ESS OR - Butter Chicken (nut free)",
+                    "Unit_Cost": 0.21
+                },
+                {
+                    "Recipe_ID": 1184464,
+                    "Recipe_Name": "BHP WAIO Chicken Schnitzel, Glazed Carrots + Roasted Potato",
+                    "Unit_Cost": 0.14
+                },
+                {
+                    "Recipe_ID": 178544,
+                    "Recipe_Name": "ESS OR - Chicken Stroganoff with Mushrooms and sour cream",
+                    "Unit_Cost": 0.34
+                },
+                {
+                    "Recipe_ID": 1081344,
+                    "Recipe_Name": "ESS OR - Roast Beef, Gravy, Roast Potatoes, Carrots and Peas BHP",
+                    "Unit_Cost": 0.21
+                }
+            ],
+            "total_unit_cost": 0.91
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Hot Selection Served Cold",
+            "Date": "08-01-2025",
+            "Day": "Monday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 1081392,
+                    "Recipe_Name": "ESS OR - Chicken Schnitzel, Peas, Corn and Roasted Potatoes BHP",
+                    "Unit_Cost": 0.24
+                },
+                {
+                    "Recipe_ID": 1084800,
+                    "Recipe_Name": "ESS OR - Chicken Breast, Rice and Broccoli  BHP",
+                    "Unit_Cost": 0.18
+                },
+                {
+                    "Recipe_ID": 1081248,
+                    "Recipe_Name": "ESS OR - Beef Lasagne BHP",
+                    "Unit_Cost": 0.24
+                },
+                {
+                    "Recipe_ID": 1184480,
+                    "Recipe_Name": "BHP WAIO Minute Steak, Corn Kernels + Roasted Potato",
+                    "Unit_Cost": 0.02
+                }
+            ],
+            "total_unit_cost": 0.68
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Hot Selection Served Cold",
+            "Date": "09-01-2025",
+            "Day": "Tuesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 100848,
+                    "Recipe_Name": "ESS OR - Butter Chicken (nut free)",
+                    "Unit_Cost": 0.21
+                },
+                {
+                    "Recipe_ID": 1184464,
+                    "Recipe_Name": "BHP WAIO Chicken Schnitzel, Glazed Carrots + Roasted Potato",
+                    "Unit_Cost": 0.14
+                },
+                {
+                    "Recipe_ID": 178544,
+                    "Recipe_Name": "ESS OR - Chicken Stroganoff with Mushrooms and sour cream",
+                    "Unit_Cost": 0.34
+                },
+                {
+                    "Recipe_ID": 100272,
+                    "Recipe_Name": "ESS OR - Beef Bourguignon / Burgundy",
+                    "Unit_Cost": 0.24
+                }
+            ],
+            "total_unit_cost": 0.93
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Hot Selection Served Cold",
+            "Date": "10-01-2025",
+            "Day": "Wednesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 1084800,
+                    "Recipe_Name": "ESS OR - Chicken Breast, Rice and Broccoli  BHP",
+                    "Unit_Cost": 0.18
+                },
+                {
+                    "Recipe_ID": 1081248,
+                    "Recipe_Name": "ESS OR - Beef Lasagne BHP",
+                    "Unit_Cost": 0.24
+                },
+                {
+                    "Recipe_ID": 1184480,
+                    "Recipe_Name": "BHP WAIO Minute Steak, Corn Kernels + Roasted Potato",
+                    "Unit_Cost": 0.02
+                },
+                {
+                    "Recipe_ID": 1081344,
+                    "Recipe_Name": "ESS OR - Roast Beef, Gravy, Roast Potatoes, Carrots and Peas BHP",
+                    "Unit_Cost": 0.21
+                }
+            ],
+            "total_unit_cost": 0.64
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Hot Selection Served Cold",
+            "Date": "11-01-2025",
+            "Day": "Thursday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 1081392,
+                    "Recipe_Name": "ESS OR - Chicken Schnitzel, Peas, Corn and Roasted Potatoes BHP",
+                    "Unit_Cost": 0.24
+                },
+                {
+                    "Recipe_ID": 100848,
+                    "Recipe_Name": "ESS OR - Butter Chicken (nut free)",
+                    "Unit_Cost": 0.21
+                },
+                {
+                    "Recipe_ID": 1184464,
+                    "Recipe_Name": "BHP WAIO Chicken Schnitzel, Glazed Carrots + Roasted Potato",
+                    "Unit_Cost": 0.14
+                },
+                {
+                    "Recipe_ID": 100272,
+                    "Recipe_Name": "ESS OR - Beef Bourguignon / Burgundy",
+                    "Unit_Cost": 0.24
+                }
+            ],
+            "total_unit_cost": 0.84
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Hot Selection Served Cold",
+            "Date": "12-01-2025",
+            "Day": "Friday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 1084800,
+                    "Recipe_Name": "ESS OR - Chicken Breast, Rice and Broccoli  BHP",
+                    "Unit_Cost": 0.18
+                },
+                {
+                    "Recipe_ID": 1081248,
+                    "Recipe_Name": "ESS OR - Beef Lasagne BHP",
+                    "Unit_Cost": 0.24
+                },
+                {
+                    "Recipe_ID": 178544,
+                    "Recipe_Name": "ESS OR - Chicken Stroganoff with Mushrooms and sour cream",
+                    "Unit_Cost": 0.34
+                },
+                {
+                    "Recipe_ID": 1081344,
+                    "Recipe_Name": "ESS OR - Roast Beef, Gravy, Roast Potatoes, Carrots and Peas BHP",
+                    "Unit_Cost": 0.21
+                }
+            ],
+            "total_unit_cost": 0.97
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Hot Selection Served Cold",
+            "Date": "13-01-2025",
+            "Day": "Saturday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 1081392,
+                    "Recipe_Name": "ESS OR - Chicken Schnitzel, Peas, Corn and Roasted Potatoes BHP",
+                    "Unit_Cost": 0.24
+                },
+                {
+                    "Recipe_ID": 1184464,
+                    "Recipe_Name": "BHP WAIO Chicken Schnitzel, Glazed Carrots + Roasted Potato",
+                    "Unit_Cost": 0.14
+                },
+                {
+                    "Recipe_ID": 1184480,
+                    "Recipe_Name": "BHP WAIO Minute Steak, Corn Kernels + Roasted Potato",
+                    "Unit_Cost": 0.02
+                },
+                {
+                    "Recipe_ID": 100272,
+                    "Recipe_Name": "ESS OR - Beef Bourguignon / Burgundy",
+                    "Unit_Cost": 0.24
+                }
+            ],
+            "total_unit_cost": 0.64
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Hot Selection Served Cold",
+            "Date": "14-01-2025",
+            "Day": "Sunday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 100848,
+                    "Recipe_Name": "ESS OR - Butter Chicken (nut free)",
+                    "Unit_Cost": 0.21
+                },
+                {
+                    "Recipe_ID": 1081248,
+                    "Recipe_Name": "ESS OR - Beef Lasagne BHP",
+                    "Unit_Cost": 0.24
+                },
+                {
+                    "Recipe_ID": 178544,
+                    "Recipe_Name": "ESS OR - Chicken Stroganoff with Mushrooms and sour cream",
+                    "Unit_Cost": 0.34
+                },
+                {
+                    "Recipe_ID": 1081344,
+                    "Recipe_Name": "ESS OR - Roast Beef, Gravy, Roast Potatoes, Carrots and Peas BHP",
+                    "Unit_Cost": 0.21
+                }
+            ],
+            "total_unit_cost": 1.0
+        }
+    ]
+]

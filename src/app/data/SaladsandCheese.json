@@ -1,0 +1,538 @@
+[
+    [
+        {
+            "Meal_period": "Crib",
+            "Section": "Salad Bar",
+            "Date": "01-01-2025",
+            "Day": "Monday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 185696,
+                    "Recipe_Name": "ESS OR - 3 * Salad Leaves - BHP Crib",
+                    "Unit_Cost": 1.44
+                },
+                {
+                    "Recipe_ID": 123152,
+                    "Recipe_Name": "ESS OR - Cold display Rice/Pasta/Noodle/Grain - BHP Crib",
+                    "Unit_Cost": 1.76
+                },
+                {
+                    "Recipe_ID": 1075136,
+                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
+                    "Unit_Cost": 1.16
+                }
+            ],
+            "total_unit_cost": 4.36
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Salad Bar",
+            "Date": "02-01-2025",
+            "Day": "Tuesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 185696,
+                    "Recipe_Name": "ESS OR - 3 * Salad Leaves - BHP Crib",
+                    "Unit_Cost": 1.44
+                },
+                {
+                    "Recipe_ID": 123152,
+                    "Recipe_Name": "ESS OR - Cold display Rice/Pasta/Noodle/Grain - BHP Crib",
+                    "Unit_Cost": 1.76
+                },
+                {
+                    "Recipe_ID": 1075136,
+                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
+                    "Unit_Cost": 1.16
+                }
+            ],
+            "total_unit_cost": 4.36
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Salad Bar",
+            "Date": "03-01-2025",
+            "Day": "Wednesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 185696,
+                    "Recipe_Name": "ESS OR - 3 * Salad Leaves - BHP Crib",
+                    "Unit_Cost": 1.44
+                },
+                {
+                    "Recipe_ID": 123152,
+                    "Recipe_Name": "ESS OR - Cold display Rice/Pasta/Noodle/Grain - BHP Crib",
+                    "Unit_Cost": 1.76
+                },
+                {
+                    "Recipe_ID": 1075136,
+                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
+                    "Unit_Cost": 1.16
+                }
+            ],
+            "total_unit_cost": 4.36
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Salad Bar",
+            "Date": "04-01-2025",
+            "Day": "Thursday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 185696,
+                    "Recipe_Name": "ESS OR - 3 * Salad Leaves - BHP Crib",
+                    "Unit_Cost": 1.44
+                },
+                {
+                    "Recipe_ID": 123152,
+                    "Recipe_Name": "ESS OR - Cold display Rice/Pasta/Noodle/Grain - BHP Crib",
+                    "Unit_Cost": 1.76
+                },
+                {
+                    "Recipe_ID": 1075136,
+                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
+                    "Unit_Cost": 1.16
+                }
+            ],
+            "total_unit_cost": 4.36
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Salad Bar",
+            "Date": "05-01-2025",
+            "Day": "Friday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 185696,
+                    "Recipe_Name": "ESS OR - 3 * Salad Leaves - BHP Crib",
+                    "Unit_Cost": 1.44
+                },
+                {
+                    "Recipe_ID": 123152,
+                    "Recipe_Name": "ESS OR - Cold display Rice/Pasta/Noodle/Grain - BHP Crib",
+                    "Unit_Cost": 1.76
+                },
+                {
+                    "Recipe_ID": 1075136,
+                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
+                    "Unit_Cost": 1.16
+                }
+            ],
+            "total_unit_cost": 4.36
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Salad Bar",
+            "Date": "06-01-2025",
+            "Day": "Saturday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 185696,
+                    "Recipe_Name": "ESS OR - 3 * Salad Leaves - BHP Crib",
+                    "Unit_Cost": 1.44
+                },
+                {
+                    "Recipe_ID": 123152,
+                    "Recipe_Name": "ESS OR - Cold display Rice/Pasta/Noodle/Grain - BHP Crib",
+                    "Unit_Cost": 1.76
+                },
+                {
+                    "Recipe_ID": 1075136,
+                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
+                    "Unit_Cost": 1.16
+                }
+            ],
+            "total_unit_cost": 4.36
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Salad Bar",
+            "Date": "07-01-2025",
+            "Day": "Sunday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 185696,
+                    "Recipe_Name": "ESS OR - 3 * Salad Leaves - BHP Crib",
+                    "Unit_Cost": 1.44
+                },
+                {
+                    "Recipe_ID": 123152,
+                    "Recipe_Name": "ESS OR - Cold display Rice/Pasta/Noodle/Grain - BHP Crib",
+                    "Unit_Cost": 1.76
+                },
+                {
+                    "Recipe_ID": 1075136,
+                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
+                    "Unit_Cost": 1.16
+                }
+            ],
+            "total_unit_cost": 4.36
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Salad Bar",
+            "Date": "08-01-2025",
+            "Day": "Monday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 185696,
+                    "Recipe_Name": "ESS OR - 3 * Salad Leaves - BHP Crib",
+                    "Unit_Cost": 1.44
+                },
+                {
+                    "Recipe_ID": 123152,
+                    "Recipe_Name": "ESS OR - Cold display Rice/Pasta/Noodle/Grain - BHP Crib",
+                    "Unit_Cost": 1.76
+                },
+                {
+                    "Recipe_ID": 1075136,
+                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
+                    "Unit_Cost": 1.16
+                }
+            ],
+            "total_unit_cost": 4.36
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Salad Bar",
+            "Date": "09-01-2025",
+            "Day": "Tuesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 185696,
+                    "Recipe_Name": "ESS OR - 3 * Salad Leaves - BHP Crib",
+                    "Unit_Cost": 1.44
+                },
+                {
+                    "Recipe_ID": 123152,
+                    "Recipe_Name": "ESS OR - Cold display Rice/Pasta/Noodle/Grain - BHP Crib",
+                    "Unit_Cost": 1.76
+                },
+                {
+                    "Recipe_ID": 1075136,
+                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
+                    "Unit_Cost": 1.16
+                }
+            ],
+            "total_unit_cost": 4.36
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Salad Bar",
+            "Date": "10-01-2025",
+            "Day": "Wednesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 185696,
+                    "Recipe_Name": "ESS OR - 3 * Salad Leaves - BHP Crib",
+                    "Unit_Cost": 1.44
+                },
+                {
+                    "Recipe_ID": 123152,
+                    "Recipe_Name": "ESS OR - Cold display Rice/Pasta/Noodle/Grain - BHP Crib",
+                    "Unit_Cost": 1.76
+                },
+                {
+                    "Recipe_ID": 1075136,
+                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
+                    "Unit_Cost": 1.16
+                }
+            ],
+            "total_unit_cost": 4.36
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Salad Bar",
+            "Date": "11-01-2025",
+            "Day": "Thursday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 185696,
+                    "Recipe_Name": "ESS OR - 3 * Salad Leaves - BHP Crib",
+                    "Unit_Cost": 1.44
+                },
+                {
+                    "Recipe_ID": 123152,
+                    "Recipe_Name": "ESS OR - Cold display Rice/Pasta/Noodle/Grain - BHP Crib",
+                    "Unit_Cost": 1.76
+                },
+                {
+                    "Recipe_ID": 1075136,
+                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
+                    "Unit_Cost": 1.16
+                }
+            ],
+            "total_unit_cost": 4.36
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Salad Bar",
+            "Date": "12-01-2025",
+            "Day": "Friday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 185696,
+                    "Recipe_Name": "ESS OR - 3 * Salad Leaves - BHP Crib",
+                    "Unit_Cost": 1.44
+                },
+                {
+                    "Recipe_ID": 123152,
+                    "Recipe_Name": "ESS OR - Cold display Rice/Pasta/Noodle/Grain - BHP Crib",
+                    "Unit_Cost": 1.76
+                },
+                {
+                    "Recipe_ID": 1075136,
+                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
+                    "Unit_Cost": 1.16
+                }
+            ],
+            "total_unit_cost": 4.36
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Salad Bar",
+            "Date": "13-01-2025",
+            "Day": "Saturday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 185696,
+                    "Recipe_Name": "ESS OR - 3 * Salad Leaves - BHP Crib",
+                    "Unit_Cost": 1.44
+                },
+                {
+                    "Recipe_ID": 123152,
+                    "Recipe_Name": "ESS OR - Cold display Rice/Pasta/Noodle/Grain - BHP Crib",
+                    "Unit_Cost": 1.76
+                },
+                {
+                    "Recipe_ID": 1075136,
+                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
+                    "Unit_Cost": 1.16
+                }
+            ],
+            "total_unit_cost": 4.36
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Salad Bar",
+            "Date": "14-01-2025",
+            "Day": "Sunday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 185696,
+                    "Recipe_Name": "ESS OR - 3 * Salad Leaves - BHP Crib",
+                    "Unit_Cost": 1.44
+                },
+                {
+                    "Recipe_ID": 123152,
+                    "Recipe_Name": "ESS OR - Cold display Rice/Pasta/Noodle/Grain - BHP Crib",
+                    "Unit_Cost": 1.76
+                },
+                {
+                    "Recipe_ID": 1075136,
+                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
+                    "Unit_Cost": 1.16
+                }
+            ],
+            "total_unit_cost": 4.36
+        }
+    ],
+    [
+        {
+            "Meal_period": "Crib",
+            "Section": "Cheese",
+            "Date": "01-01-2025",
+            "Day": "Monday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 1076464,
+                    "Recipe_Name": "Cheese for Crib Rotating Daily - BHP cheeses",
+                    "Unit_Cost": 0.82
+                }
+            ],
+            "total_unit_cost": 0.82
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Cheese",
+            "Date": "02-01-2025",
+            "Day": "Tuesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 1076464,
+                    "Recipe_Name": "Cheese for Crib Rotating Daily - BHP cheeses",
+                    "Unit_Cost": 0.82
+                }
+            ],
+            "total_unit_cost": 0.82
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Cheese",
+            "Date": "03-01-2025",
+            "Day": "Wednesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 1076464,
+                    "Recipe_Name": "Cheese for Crib Rotating Daily - BHP cheeses",
+                    "Unit_Cost": 0.82
+                }
+            ],
+            "total_unit_cost": 0.82
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Cheese",
+            "Date": "04-01-2025",
+            "Day": "Thursday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 1076464,
+                    "Recipe_Name": "Cheese for Crib Rotating Daily - BHP cheeses",
+                    "Unit_Cost": 0.82
+                }
+            ],
+            "total_unit_cost": 0.82
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Cheese",
+            "Date": "05-01-2025",
+            "Day": "Friday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 1076464,
+                    "Recipe_Name": "Cheese for Crib Rotating Daily - BHP cheeses",
+                    "Unit_Cost": 0.82
+                }
+            ],
+            "total_unit_cost": 0.82
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Cheese",
+            "Date": "06-01-2025",
+            "Day": "Saturday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 1076464,
+                    "Recipe_Name": "Cheese for Crib Rotating Daily - BHP cheeses",
+                    "Unit_Cost": 0.82
+                }
+            ],
+            "total_unit_cost": 0.82
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Cheese",
+            "Date": "07-01-2025",
+            "Day": "Sunday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 1076464,
+                    "Recipe_Name": "Cheese for Crib Rotating Daily - BHP cheeses",
+                    "Unit_Cost": 0.82
+                }
+            ],
+            "total_unit_cost": 0.82
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Cheese",
+            "Date": "08-01-2025",
+            "Day": "Monday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 1076464,
+                    "Recipe_Name": "Cheese for Crib Rotating Daily - BHP cheeses",
+                    "Unit_Cost": 0.82
+                }
+            ],
+            "total_unit_cost": 0.82
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Cheese",
+            "Date": "09-01-2025",
+            "Day": "Tuesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 1076464,
+                    "Recipe_Name": "Cheese for Crib Rotating Daily - BHP cheeses",
+                    "Unit_Cost": 0.82
+                }
+            ],
+            "total_unit_cost": 0.82
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Cheese",
+            "Date": "10-01-2025",
+            "Day": "Wednesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 1076464,
+                    "Recipe_Name": "Cheese for Crib Rotating Daily - BHP cheeses",
+                    "Unit_Cost": 0.82
+                }
+            ],
+            "total_unit_cost": 0.82
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Cheese",
+            "Date": "11-01-2025",
+            "Day": "Thursday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 1076464,
+                    "Recipe_Name": "Cheese for Crib Rotating Daily - BHP cheeses",
+                    "Unit_Cost": 0.82
+                }
+            ],
+            "total_unit_cost": 0.82
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Cheese",
+            "Date": "12-01-2025",
+            "Day": "Friday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 1076464,
+                    "Recipe_Name": "Cheese for Crib Rotating Daily - BHP cheeses",
+                    "Unit_Cost": 0.82
+                }
+            ],
+            "total_unit_cost": 0.82
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Cheese",
+            "Date": "13-01-2025",
+            "Day": "Saturday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 1076464,
+                    "Recipe_Name": "Cheese for Crib Rotating Daily - BHP cheeses",
+                    "Unit_Cost": 0.82
+                }
+            ],
+            "total_unit_cost": 0.82
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Cheese",
+            "Date": "14-01-2025",
+            "Day": "Sunday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 1076464,
+                    "Recipe_Name": "Cheese for Crib Rotating Daily - BHP cheeses",
+                    "Unit_Cost": 0.82
+                }
+            ],
+            "total_unit_cost": 0.82
+        }
+    ]
+]

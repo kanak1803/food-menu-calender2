@@ -1,0 +1,1004 @@
+[
+    [
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "01-01-2025",
+            "Day": "Monday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 215904,
+                    "Recipe_Name": "ESS OR - Chicken and Leek Pie - Mrs Macs or Premium",
+                    "Unit_Cost": 0.37
+                },
+                {
+                    "Recipe_ID": 215872,
+                    "Recipe_Name": "ESS OR - Beef and Mushroom Pie - Mrs Macs or Premium",
+                    "Unit_Cost": 0.65
+                }
+            ],
+            "total_unit_cost": 1.01
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "02-01-2025",
+            "Day": "Tuesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 215856,
+                    "Recipe_Name": "ESS OR - Beef Pie - Mrs Macs or Premium",
+                    "Unit_Cost": 0.65
+                },
+                {
+                    "Recipe_ID": 215872,
+                    "Recipe_Name": "ESS OR - Beef and Mushroom Pie - Mrs Macs or Premium",
+                    "Unit_Cost": 0.65
+                }
+            ],
+            "total_unit_cost": 1.3
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "03-01-2025",
+            "Day": "Wednesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 215856,
+                    "Recipe_Name": "ESS OR - Beef Pie - Mrs Macs or Premium",
+                    "Unit_Cost": 0.65
+                },
+                {
+                    "Recipe_ID": 215904,
+                    "Recipe_Name": "ESS OR - Chicken and Leek Pie - Mrs Macs or Premium",
+                    "Unit_Cost": 0.37
+                }
+            ],
+            "total_unit_cost": 1.01
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "04-01-2025",
+            "Day": "Thursday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 215904,
+                    "Recipe_Name": "ESS OR - Chicken and Leek Pie - Mrs Macs or Premium",
+                    "Unit_Cost": 0.37
+                },
+                {
+                    "Recipe_ID": 215872,
+                    "Recipe_Name": "ESS OR - Beef and Mushroom Pie - Mrs Macs or Premium",
+                    "Unit_Cost": 0.65
+                }
+            ],
+            "total_unit_cost": 1.01
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "05-01-2025",
+            "Day": "Friday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 215856,
+                    "Recipe_Name": "ESS OR - Beef Pie - Mrs Macs or Premium",
+                    "Unit_Cost": 0.65
+                },
+                {
+                    "Recipe_ID": 215872,
+                    "Recipe_Name": "ESS OR - Beef and Mushroom Pie - Mrs Macs or Premium",
+                    "Unit_Cost": 0.65
+                }
+            ],
+            "total_unit_cost": 1.3
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "06-01-2025",
+            "Day": "Saturday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 215856,
+                    "Recipe_Name": "ESS OR - Beef Pie - Mrs Macs or Premium",
+                    "Unit_Cost": 0.65
+                },
+                {
+                    "Recipe_ID": 215904,
+                    "Recipe_Name": "ESS OR - Chicken and Leek Pie - Mrs Macs or Premium",
+                    "Unit_Cost": 0.37
+                }
+            ],
+            "total_unit_cost": 1.01
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "07-01-2025",
+            "Day": "Sunday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 215904,
+                    "Recipe_Name": "ESS OR - Chicken and Leek Pie - Mrs Macs or Premium",
+                    "Unit_Cost": 0.37
+                },
+                {
+                    "Recipe_ID": 215872,
+                    "Recipe_Name": "ESS OR - Beef and Mushroom Pie - Mrs Macs or Premium",
+                    "Unit_Cost": 0.65
+                }
+            ],
+            "total_unit_cost": 1.01
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "08-01-2025",
+            "Day": "Monday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 215856,
+                    "Recipe_Name": "ESS OR - Beef Pie - Mrs Macs or Premium",
+                    "Unit_Cost": 0.65
+                },
+                {
+                    "Recipe_ID": 215872,
+                    "Recipe_Name": "ESS OR - Beef and Mushroom Pie - Mrs Macs or Premium",
+                    "Unit_Cost": 0.65
+                }
+            ],
+            "total_unit_cost": 1.3
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "09-01-2025",
+            "Day": "Tuesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 215856,
+                    "Recipe_Name": "ESS OR - Beef Pie - Mrs Macs or Premium",
+                    "Unit_Cost": 0.65
+                },
+                {
+                    "Recipe_ID": 215904,
+                    "Recipe_Name": "ESS OR - Chicken and Leek Pie - Mrs Macs or Premium",
+                    "Unit_Cost": 0.37
+                }
+            ],
+            "total_unit_cost": 1.01
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "10-01-2025",
+            "Day": "Wednesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 215904,
+                    "Recipe_Name": "ESS OR - Chicken and Leek Pie - Mrs Macs or Premium",
+                    "Unit_Cost": 0.37
+                },
+                {
+                    "Recipe_ID": 215872,
+                    "Recipe_Name": "ESS OR - Beef and Mushroom Pie - Mrs Macs or Premium",
+                    "Unit_Cost": 0.65
+                }
+            ],
+            "total_unit_cost": 1.01
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "11-01-2025",
+            "Day": "Thursday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 215856,
+                    "Recipe_Name": "ESS OR - Beef Pie - Mrs Macs or Premium",
+                    "Unit_Cost": 0.65
+                },
+                {
+                    "Recipe_ID": 215872,
+                    "Recipe_Name": "ESS OR - Beef and Mushroom Pie - Mrs Macs or Premium",
+                    "Unit_Cost": 0.65
+                }
+            ],
+            "total_unit_cost": 1.3
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "12-01-2025",
+            "Day": "Friday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 215856,
+                    "Recipe_Name": "ESS OR - Beef Pie - Mrs Macs or Premium",
+                    "Unit_Cost": 0.65
+                },
+                {
+                    "Recipe_ID": 215904,
+                    "Recipe_Name": "ESS OR - Chicken and Leek Pie - Mrs Macs or Premium",
+                    "Unit_Cost": 0.37
+                }
+            ],
+            "total_unit_cost": 1.01
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "13-01-2025",
+            "Day": "Saturday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 215904,
+                    "Recipe_Name": "ESS OR - Chicken and Leek Pie - Mrs Macs or Premium",
+                    "Unit_Cost": 0.37
+                },
+                {
+                    "Recipe_ID": 215872,
+                    "Recipe_Name": "ESS OR - Beef and Mushroom Pie - Mrs Macs or Premium",
+                    "Unit_Cost": 0.65
+                }
+            ],
+            "total_unit_cost": 1.01
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "14-01-2025",
+            "Day": "Sunday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 215856,
+                    "Recipe_Name": "ESS OR - Beef Pie - Mrs Macs or Premium",
+                    "Unit_Cost": 0.65
+                },
+                {
+                    "Recipe_ID": 215872,
+                    "Recipe_Name": "ESS OR - Beef and Mushroom Pie - Mrs Macs or Premium",
+                    "Unit_Cost": 0.65
+                }
+            ],
+            "total_unit_cost": 1.3
+        }
+    ],
+    [
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "01-01-2025",
+            "Day": "Monday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 215840,
+                    "Recipe_Name": "ESS OR - Sausage Rolls - Mrs Macs or Premium",
+                    "Unit_Cost": 0.49
+                }
+            ],
+            "total_unit_cost": 0.49
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "02-01-2025",
+            "Day": "Tuesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 215840,
+                    "Recipe_Name": "ESS OR - Sausage Rolls - Mrs Macs or Premium",
+                    "Unit_Cost": 0.49
+                }
+            ],
+            "total_unit_cost": 0.49
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "03-01-2025",
+            "Day": "Wednesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 215840,
+                    "Recipe_Name": "ESS OR - Sausage Rolls - Mrs Macs or Premium",
+                    "Unit_Cost": 0.49
+                }
+            ],
+            "total_unit_cost": 0.49
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "04-01-2025",
+            "Day": "Thursday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 215840,
+                    "Recipe_Name": "ESS OR - Sausage Rolls - Mrs Macs or Premium",
+                    "Unit_Cost": 0.49
+                }
+            ],
+            "total_unit_cost": 0.49
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "05-01-2025",
+            "Day": "Friday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 215840,
+                    "Recipe_Name": "ESS OR - Sausage Rolls - Mrs Macs or Premium",
+                    "Unit_Cost": 0.49
+                }
+            ],
+            "total_unit_cost": 0.49
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "06-01-2025",
+            "Day": "Saturday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 215840,
+                    "Recipe_Name": "ESS OR - Sausage Rolls - Mrs Macs or Premium",
+                    "Unit_Cost": 0.49
+                }
+            ],
+            "total_unit_cost": 0.49
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "07-01-2025",
+            "Day": "Sunday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 215840,
+                    "Recipe_Name": "ESS OR - Sausage Rolls - Mrs Macs or Premium",
+                    "Unit_Cost": 0.49
+                }
+            ],
+            "total_unit_cost": 0.49
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "08-01-2025",
+            "Day": "Monday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 215840,
+                    "Recipe_Name": "ESS OR - Sausage Rolls - Mrs Macs or Premium",
+                    "Unit_Cost": 0.49
+                }
+            ],
+            "total_unit_cost": 0.49
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "09-01-2025",
+            "Day": "Tuesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 215840,
+                    "Recipe_Name": "ESS OR - Sausage Rolls - Mrs Macs or Premium",
+                    "Unit_Cost": 0.49
+                }
+            ],
+            "total_unit_cost": 0.49
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "10-01-2025",
+            "Day": "Wednesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 215840,
+                    "Recipe_Name": "ESS OR - Sausage Rolls - Mrs Macs or Premium",
+                    "Unit_Cost": 0.49
+                }
+            ],
+            "total_unit_cost": 0.49
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "11-01-2025",
+            "Day": "Thursday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 215840,
+                    "Recipe_Name": "ESS OR - Sausage Rolls - Mrs Macs or Premium",
+                    "Unit_Cost": 0.49
+                }
+            ],
+            "total_unit_cost": 0.49
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "12-01-2025",
+            "Day": "Friday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 215840,
+                    "Recipe_Name": "ESS OR - Sausage Rolls - Mrs Macs or Premium",
+                    "Unit_Cost": 0.49
+                }
+            ],
+            "total_unit_cost": 0.49
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "13-01-2025",
+            "Day": "Saturday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 215840,
+                    "Recipe_Name": "ESS OR - Sausage Rolls - Mrs Macs or Premium",
+                    "Unit_Cost": 0.49
+                }
+            ],
+            "total_unit_cost": 0.49
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "14-01-2025",
+            "Day": "Sunday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 215840,
+                    "Recipe_Name": "ESS OR - Sausage Rolls - Mrs Macs or Premium",
+                    "Unit_Cost": 0.49
+                }
+            ],
+            "total_unit_cost": 0.49
+        }
+    ],
+    [
+        {
+            "Meal_period": "Crib",
+            "Section": "Deli Meats",
+            "Date": "01-01-2025",
+            "Day": "Monday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 143968,
+                    "Recipe_Name": "ESS OR - Salami - Crib",
+                    "Unit_Cost": 0.83
+                },
+                {
+                    "Recipe_ID": 194304,
+                    "Recipe_Name": "ESS OR - Mortadella - Crib",
+                    "Unit_Cost": 1.58
+                }
+            ],
+            "total_unit_cost": 2.4
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Deli Meats",
+            "Date": "02-01-2025",
+            "Day": "Tuesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 144032,
+                    "Recipe_Name": "ESS OR - Hot Pepperoni - Crib",
+                    "Unit_Cost": 0.8
+                },
+                {
+                    "Recipe_ID": 144000,
+                    "Recipe_Name": "ESS OR - Pastrami Crib",
+                    "Unit_Cost": 0.66
+                }
+            ],
+            "total_unit_cost": 1.46
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Deli Meats",
+            "Date": "03-01-2025",
+            "Day": "Wednesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 179872,
+                    "Recipe_Name": "ESS OR - Fleischwurst Sliced Sausage - Crib",
+                    "Unit_Cost": 0.48
+                },
+                {
+                    "Recipe_ID": 158992,
+                    "Recipe_Name": "ESS OR - Turkey Processed - Crib (32Gm)",
+                    "Unit_Cost": 0.6
+                }
+            ],
+            "total_unit_cost": 1.09
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Deli Meats",
+            "Date": "04-01-2025",
+            "Day": "Thursday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 194304,
+                    "Recipe_Name": "ESS OR - Mortadella - Crib",
+                    "Unit_Cost": 1.58
+                },
+                {
+                    "Recipe_ID": 144048,
+                    "Recipe_Name": "ESS OR - Ham - Crib",
+                    "Unit_Cost": 0.74
+                }
+            ],
+            "total_unit_cost": 2.32
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Deli Meats",
+            "Date": "05-01-2025",
+            "Day": "Friday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 143968,
+                    "Recipe_Name": "ESS OR - Salami - Crib",
+                    "Unit_Cost": 0.83
+                },
+                {
+                    "Recipe_ID": 144000,
+                    "Recipe_Name": "ESS OR - Pastrami Crib",
+                    "Unit_Cost": 0.66
+                }
+            ],
+            "total_unit_cost": 1.49
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Deli Meats",
+            "Date": "06-01-2025",
+            "Day": "Saturday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 144032,
+                    "Recipe_Name": "ESS OR - Hot Pepperoni - Crib",
+                    "Unit_Cost": 0.8
+                },
+                {
+                    "Recipe_ID": 179872,
+                    "Recipe_Name": "ESS OR - Fleischwurst Sliced Sausage - Crib",
+                    "Unit_Cost": 0.48
+                }
+            ],
+            "total_unit_cost": 1.29
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Deli Meats",
+            "Date": "07-01-2025",
+            "Day": "Sunday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 144048,
+                    "Recipe_Name": "ESS OR - Ham - Crib",
+                    "Unit_Cost": 0.74
+                },
+                {
+                    "Recipe_ID": 158992,
+                    "Recipe_Name": "ESS OR - Turkey Processed - Crib (32Gm)",
+                    "Unit_Cost": 0.6
+                }
+            ],
+            "total_unit_cost": 1.35
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Deli Meats",
+            "Date": "08-01-2025",
+            "Day": "Monday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 143968,
+                    "Recipe_Name": "ESS OR - Salami - Crib",
+                    "Unit_Cost": 0.83
+                },
+                {
+                    "Recipe_ID": 194304,
+                    "Recipe_Name": "ESS OR - Mortadella - Crib",
+                    "Unit_Cost": 1.58
+                }
+            ],
+            "total_unit_cost": 2.4
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Deli Meats",
+            "Date": "09-01-2025",
+            "Day": "Tuesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 144032,
+                    "Recipe_Name": "ESS OR - Hot Pepperoni - Crib",
+                    "Unit_Cost": 0.8
+                },
+                {
+                    "Recipe_ID": 144000,
+                    "Recipe_Name": "ESS OR - Pastrami Crib",
+                    "Unit_Cost": 0.66
+                }
+            ],
+            "total_unit_cost": 1.46
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Deli Meats",
+            "Date": "10-01-2025",
+            "Day": "Wednesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 179872,
+                    "Recipe_Name": "ESS OR - Fleischwurst Sliced Sausage - Crib",
+                    "Unit_Cost": 0.48
+                },
+                {
+                    "Recipe_ID": 158992,
+                    "Recipe_Name": "ESS OR - Turkey Processed - Crib (32Gm)",
+                    "Unit_Cost": 0.6
+                }
+            ],
+            "total_unit_cost": 1.09
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Deli Meats",
+            "Date": "11-01-2025",
+            "Day": "Thursday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 194304,
+                    "Recipe_Name": "ESS OR - Mortadella - Crib",
+                    "Unit_Cost": 1.58
+                },
+                {
+                    "Recipe_ID": 144048,
+                    "Recipe_Name": "ESS OR - Ham - Crib",
+                    "Unit_Cost": 0.74
+                }
+            ],
+            "total_unit_cost": 2.32
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Deli Meats",
+            "Date": "12-01-2025",
+            "Day": "Friday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 143968,
+                    "Recipe_Name": "ESS OR - Salami - Crib",
+                    "Unit_Cost": 0.83
+                },
+                {
+                    "Recipe_ID": 144000,
+                    "Recipe_Name": "ESS OR - Pastrami Crib",
+                    "Unit_Cost": 0.66
+                }
+            ],
+            "total_unit_cost": 1.49
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Deli Meats",
+            "Date": "13-01-2025",
+            "Day": "Saturday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 144032,
+                    "Recipe_Name": "ESS OR - Hot Pepperoni - Crib",
+                    "Unit_Cost": 0.8
+                },
+                {
+                    "Recipe_ID": 179872,
+                    "Recipe_Name": "ESS OR - Fleischwurst Sliced Sausage - Crib",
+                    "Unit_Cost": 0.48
+                }
+            ],
+            "total_unit_cost": 1.29
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Deli Meats",
+            "Date": "14-01-2025",
+            "Day": "Sunday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 144048,
+                    "Recipe_Name": "ESS OR - Ham - Crib",
+                    "Unit_Cost": 0.74
+                },
+                {
+                    "Recipe_ID": 158992,
+                    "Recipe_Name": "ESS OR - Turkey Processed - Crib (32Gm)",
+                    "Unit_Cost": 0.6
+                }
+            ],
+            "total_unit_cost": 1.35
+        }
+    ],
+    [
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "01-01-2025",
+            "Day": "Monday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 201760,
+                    "Recipe_Name": "ESS OR - Tomato, Bacon and Cheese Quiche with Short crust Pastry",
+                    "Unit_Cost": 0.61
+                },
+                {
+                    "Recipe_ID": 202048,
+                    "Recipe_Name": "ESS OR - Roasted Corn and Bacon quiche with Short crust Pastry",
+                    "Unit_Cost": 0.55
+                }
+            ],
+            "total_unit_cost": 1.15
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "02-01-2025",
+            "Day": "Tuesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 1186976,
+                    "Recipe_Name": "BHP WAIO Sweet Potato, Rocket and Haloumi Quiche",
+                    "Unit_Cost": 0.35
+                },
+                {
+                    "Recipe_ID": 215056,
+                    "Recipe_Name": "ESS OR - Broccoli and Cheese Quiche with Puff Pastry and Spring Onion (vege)",
+                    "Unit_Cost": 0.44
+                }
+            ],
+            "total_unit_cost": 0.78
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "03-01-2025",
+            "Day": "Wednesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 201760,
+                    "Recipe_Name": "ESS OR - Tomato, Bacon and Cheese Quiche with Short crust Pastry",
+                    "Unit_Cost": 0.61
+                },
+                {
+                    "Recipe_ID": 149648,
+                    "Recipe_Name": "ESS OR - Chorizo Quiche",
+                    "Unit_Cost": 0.51
+                }
+            ],
+            "total_unit_cost": 1.12
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "04-01-2025",
+            "Day": "Thursday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 1186976,
+                    "Recipe_Name": "BHP WAIO Sweet Potato, Rocket and Haloumi Quiche",
+                    "Unit_Cost": 0.35
+                },
+                {
+                    "Recipe_ID": 202048,
+                    "Recipe_Name": "ESS OR - Roasted Corn and Bacon quiche with Short crust Pastry",
+                    "Unit_Cost": 0.55
+                }
+            ],
+            "total_unit_cost": 0.89
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "05-01-2025",
+            "Day": "Friday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 215056,
+                    "Recipe_Name": "ESS OR - Broccoli and Cheese Quiche with Puff Pastry and Spring Onion (vege)",
+                    "Unit_Cost": 0.44
+                },
+                {
+                    "Recipe_ID": 149648,
+                    "Recipe_Name": "ESS OR - Chorizo Quiche",
+                    "Unit_Cost": 0.51
+                }
+            ],
+            "total_unit_cost": 0.95
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "06-01-2025",
+            "Day": "Saturday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 201760,
+                    "Recipe_Name": "ESS OR - Tomato, Bacon and Cheese Quiche with Short crust Pastry",
+                    "Unit_Cost": 0.61
+                },
+                {
+                    "Recipe_ID": 202048,
+                    "Recipe_Name": "ESS OR - Roasted Corn and Bacon quiche with Short crust Pastry",
+                    "Unit_Cost": 0.55
+                }
+            ],
+            "total_unit_cost": 1.15
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "07-01-2025",
+            "Day": "Sunday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 1186976,
+                    "Recipe_Name": "BHP WAIO Sweet Potato, Rocket and Haloumi Quiche",
+                    "Unit_Cost": 0.35
+                },
+                {
+                    "Recipe_ID": 215056,
+                    "Recipe_Name": "ESS OR - Broccoli and Cheese Quiche with Puff Pastry and Spring Onion (vege)",
+                    "Unit_Cost": 0.44
+                }
+            ],
+            "total_unit_cost": 0.78
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "08-01-2025",
+            "Day": "Monday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 201760,
+                    "Recipe_Name": "ESS OR - Tomato, Bacon and Cheese Quiche with Short crust Pastry",
+                    "Unit_Cost": 0.61
+                },
+                {
+                    "Recipe_ID": 149648,
+                    "Recipe_Name": "ESS OR - Chorizo Quiche",
+                    "Unit_Cost": 0.51
+                }
+            ],
+            "total_unit_cost": 1.12
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "09-01-2025",
+            "Day": "Tuesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 1186976,
+                    "Recipe_Name": "BHP WAIO Sweet Potato, Rocket and Haloumi Quiche",
+                    "Unit_Cost": 0.35
+                },
+                {
+                    "Recipe_ID": 202048,
+                    "Recipe_Name": "ESS OR - Roasted Corn and Bacon quiche with Short crust Pastry",
+                    "Unit_Cost": 0.55
+                }
+            ],
+            "total_unit_cost": 0.89
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "10-01-2025",
+            "Day": "Wednesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 215056,
+                    "Recipe_Name": "ESS OR - Broccoli and Cheese Quiche with Puff Pastry and Spring Onion (vege)",
+                    "Unit_Cost": 0.44
+                },
+                {
+                    "Recipe_ID": 149648,
+                    "Recipe_Name": "ESS OR - Chorizo Quiche",
+                    "Unit_Cost": 0.51
+                }
+            ],
+            "total_unit_cost": 0.95
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "11-01-2025",
+            "Day": "Thursday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 201760,
+                    "Recipe_Name": "ESS OR - Tomato, Bacon and Cheese Quiche with Short crust Pastry",
+                    "Unit_Cost": 0.61
+                },
+                {
+                    "Recipe_ID": 202048,
+                    "Recipe_Name": "ESS OR - Roasted Corn and Bacon quiche with Short crust Pastry",
+                    "Unit_Cost": 0.55
+                }
+            ],
+            "total_unit_cost": 1.15
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "12-01-2025",
+            "Day": "Friday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 1186976,
+                    "Recipe_Name": "BHP WAIO Sweet Potato, Rocket and Haloumi Quiche",
+                    "Unit_Cost": 0.35
+                },
+                {
+                    "Recipe_ID": 215056,
+                    "Recipe_Name": "ESS OR - Broccoli and Cheese Quiche with Puff Pastry and Spring Onion (vege)",
+                    "Unit_Cost": 0.44
+                }
+            ],
+            "total_unit_cost": 0.78
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "13-01-2025",
+            "Day": "Saturday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 201760,
+                    "Recipe_Name": "ESS OR - Tomato, Bacon and Cheese Quiche with Short crust Pastry",
+                    "Unit_Cost": 0.61
+                },
+                {
+                    "Recipe_ID": 149648,
+                    "Recipe_Name": "ESS OR - Chorizo Quiche",
+                    "Unit_Cost": 0.51
+                }
+            ],
+            "total_unit_cost": 1.12
+        },
+        {
+            "Meal_period": "Crib",
+            "Section": "Savoury",
+            "Date": "14-01-2025",
+            "Day": "Sunday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 1186976,
+                    "Recipe_Name": "BHP WAIO Sweet Potato, Rocket and Haloumi Quiche",
+                    "Unit_Cost": 0.35
+                },
+                {
+                    "Recipe_ID": 202048,
+                    "Recipe_Name": "ESS OR - Roasted Corn and Bacon quiche with Short crust Pastry",
+                    "Unit_Cost": 0.55
+                }
+            ],
+            "total_unit_cost": 0.89
+        }
+    ]
+]
