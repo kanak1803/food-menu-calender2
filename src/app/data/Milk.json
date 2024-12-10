@@ -1,0 +1,478 @@
+[
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Hot Beverages",
+        "Date": "01-01-2025",
+        "Day": "Monday",
+        "Recipes": [
+            {
+                "Recipe_ID": 215712,
+                "Recipe_Name": "ESS OR - Low Fat Milk For T and C",
+                "Unit_Cost": 11.73
+            },
+            {
+                "Recipe_ID": 215680,
+                "Recipe_Name": "ESS OR - Full Cream Milk For T and C",
+                "Unit_Cost": 12.82
+            },
+            {
+                "Recipe_ID": 215696,
+                "Recipe_Name": "ESS OR - Lactose Free Milk For T and C",
+                "Unit_Cost": 8.28
+            },
+            {
+                "Recipe_ID": 215728,
+                "Recipe_Name": "ESS OR - Soy Milk For T and C",
+                "Unit_Cost": 8.28
+            },
+            {
+                "Recipe_ID": 216368,
+                "Recipe_Name": "ESS OR - Almond Milk For T and C",
+                "Unit_Cost": 8.28
+            }
+        ],
+        "total_unit_cost": 49.39
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Hot Beverages",
+        "Date": "02-01-2025",
+        "Day": "Tuesday",
+        "Recipes": [
+            {
+                "Recipe_ID": 215712,
+                "Recipe_Name": "ESS OR - Low Fat Milk For T and C",
+                "Unit_Cost": 11.73
+            },
+            {
+                "Recipe_ID": 215680,
+                "Recipe_Name": "ESS OR - Full Cream Milk For T and C",
+                "Unit_Cost": 12.82
+            },
+            {
+                "Recipe_ID": 215696,
+                "Recipe_Name": "ESS OR - Lactose Free Milk For T and C",
+                "Unit_Cost": 8.28
+            },
+            {
+                "Recipe_ID": 215728,
+                "Recipe_Name": "ESS OR - Soy Milk For T and C",
+                "Unit_Cost": 8.28
+            },
+            {
+                "Recipe_ID": 216368,
+                "Recipe_Name": "ESS OR - Almond Milk For T and C",
+                "Unit_Cost": 8.28
+            }
+        ],
+        "total_unit_cost": 49.39
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Hot Beverages",
+        "Date": "03-01-2025",
+        "Day": "Wednesday",
+        "Recipes": [
+            {
+                "Recipe_ID": 215712,
+                "Recipe_Name": "ESS OR - Low Fat Milk For T and C",
+                "Unit_Cost": 11.73
+            },
+            {
+                "Recipe_ID": 215680,
+                "Recipe_Name": "ESS OR - Full Cream Milk For T and C",
+                "Unit_Cost": 12.82
+            },
+            {
+                "Recipe_ID": 215696,
+                "Recipe_Name": "ESS OR - Lactose Free Milk For T and C",
+                "Unit_Cost": 8.28
+            },
+            {
+                "Recipe_ID": 215728,
+                "Recipe_Name": "ESS OR - Soy Milk For T and C",
+                "Unit_Cost": 8.28
+            },
+            {
+                "Recipe_ID": 216368,
+                "Recipe_Name": "ESS OR - Almond Milk For T and C",
+                "Unit_Cost": 8.28
+            }
+        ],
+        "total_unit_cost": 49.39
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Hot Beverages",
+        "Date": "04-01-2025",
+        "Day": "Thursday",
+        "Recipes": [
+            {
+                "Recipe_ID": 215712,
+                "Recipe_Name": "ESS OR - Low Fat Milk For T and C",
+                "Unit_Cost": 11.73
+            },
+            {
+                "Recipe_ID": 215680,
+                "Recipe_Name": "ESS OR - Full Cream Milk For T and C",
+                "Unit_Cost": 12.82
+            },
+            {
+                "Recipe_ID": 215696,
+                "Recipe_Name": "ESS OR - Lactose Free Milk For T and C",
+                "Unit_Cost": 8.28
+            },
+            {
+                "Recipe_ID": 215728,
+                "Recipe_Name": "ESS OR - Soy Milk For T and C",
+                "Unit_Cost": 8.28
+            },
+            {
+                "Recipe_ID": 216368,
+                "Recipe_Name": "ESS OR - Almond Milk For T and C",
+                "Unit_Cost": 8.28
+            }
+        ],
+        "total_unit_cost": 49.39
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Hot Beverages",
+        "Date": "05-01-2025",
+        "Day": "Friday",
+        "Recipes": [
+            {
+                "Recipe_ID": 215712,
+                "Recipe_Name": "ESS OR - Low Fat Milk For T and C",
+                "Unit_Cost": 11.73
+            },
+            {
+                "Recipe_ID": 215680,
+                "Recipe_Name": "ESS OR - Full Cream Milk For T and C",
+                "Unit_Cost": 12.82
+            },
+            {
+                "Recipe_ID": 215696,
+                "Recipe_Name": "ESS OR - Lactose Free Milk For T and C",
+                "Unit_Cost": 8.28
+            },
+            {
+                "Recipe_ID": 215728,
+                "Recipe_Name": "ESS OR - Soy Milk For T and C",
+                "Unit_Cost": 8.28
+            },
+            {
+                "Recipe_ID": 216368,
+                "Recipe_Name": "ESS OR - Almond Milk For T and C",
+                "Unit_Cost": 8.28
+            }
+        ],
+        "total_unit_cost": 49.39
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Hot Beverages",
+        "Date": "06-01-2025",
+        "Day": "Saturday",
+        "Recipes": [
+            {
+                "Recipe_ID": 215712,
+                "Recipe_Name": "ESS OR - Low Fat Milk For T and C",
+                "Unit_Cost": 11.73
+            },
+            {
+                "Recipe_ID": 215680,
+                "Recipe_Name": "ESS OR - Full Cream Milk For T and C",
+                "Unit_Cost": 12.82
+            },
+            {
+                "Recipe_ID": 215696,
+                "Recipe_Name": "ESS OR - Lactose Free Milk For T and C",
+                "Unit_Cost": 8.28
+            },
+            {
+                "Recipe_ID": 215728,
+                "Recipe_Name": "ESS OR - Soy Milk For T and C",
+                "Unit_Cost": 8.28
+            },
+            {
+                "Recipe_ID": 216368,
+                "Recipe_Name": "ESS OR - Almond Milk For T and C",
+                "Unit_Cost": 8.28
+            }
+        ],
+        "total_unit_cost": 49.39
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Hot Beverages",
+        "Date": "07-01-2025",
+        "Day": "Sunday",
+        "Recipes": [
+            {
+                "Recipe_ID": 215712,
+                "Recipe_Name": "ESS OR - Low Fat Milk For T and C",
+                "Unit_Cost": 11.73
+            },
+            {
+                "Recipe_ID": 215680,
+                "Recipe_Name": "ESS OR - Full Cream Milk For T and C",
+                "Unit_Cost": 12.82
+            },
+            {
+                "Recipe_ID": 215696,
+                "Recipe_Name": "ESS OR - Lactose Free Milk For T and C",
+                "Unit_Cost": 8.28
+            },
+            {
+                "Recipe_ID": 215728,
+                "Recipe_Name": "ESS OR - Soy Milk For T and C",
+                "Unit_Cost": 8.28
+            },
+            {
+                "Recipe_ID": 216368,
+                "Recipe_Name": "ESS OR - Almond Milk For T and C",
+                "Unit_Cost": 8.28
+            }
+        ],
+        "total_unit_cost": 49.39
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Hot Beverages",
+        "Date": "08-01-2025",
+        "Day": "Monday",
+        "Recipes": [
+            {
+                "Recipe_ID": 215712,
+                "Recipe_Name": "ESS OR - Low Fat Milk For T and C",
+                "Unit_Cost": 11.73
+            },
+            {
+                "Recipe_ID": 215680,
+                "Recipe_Name": "ESS OR - Full Cream Milk For T and C",
+                "Unit_Cost": 12.82
+            },
+            {
+                "Recipe_ID": 215696,
+                "Recipe_Name": "ESS OR - Lactose Free Milk For T and C",
+                "Unit_Cost": 8.28
+            },
+            {
+                "Recipe_ID": 215728,
+                "Recipe_Name": "ESS OR - Soy Milk For T and C",
+                "Unit_Cost": 8.28
+            },
+            {
+                "Recipe_ID": 216368,
+                "Recipe_Name": "ESS OR - Almond Milk For T and C",
+                "Unit_Cost": 8.28
+            }
+        ],
+        "total_unit_cost": 49.39
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Hot Beverages",
+        "Date": "09-01-2025",
+        "Day": "Tuesday",
+        "Recipes": [
+            {
+                "Recipe_ID": 215712,
+                "Recipe_Name": "ESS OR - Low Fat Milk For T and C",
+                "Unit_Cost": 11.73
+            },
+            {
+                "Recipe_ID": 215680,
+                "Recipe_Name": "ESS OR - Full Cream Milk For T and C",
+                "Unit_Cost": 12.82
+            },
+            {
+                "Recipe_ID": 215696,
+                "Recipe_Name": "ESS OR - Lactose Free Milk For T and C",
+                "Unit_Cost": 8.28
+            },
+            {
+                "Recipe_ID": 215728,
+                "Recipe_Name": "ESS OR - Soy Milk For T and C",
+                "Unit_Cost": 8.28
+            },
+            {
+                "Recipe_ID": 216368,
+                "Recipe_Name": "ESS OR - Almond Milk For T and C",
+                "Unit_Cost": 8.28
+            }
+        ],
+        "total_unit_cost": 49.39
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Hot Beverages",
+        "Date": "10-01-2025",
+        "Day": "Wednesday",
+        "Recipes": [
+            {
+                "Recipe_ID": 215712,
+                "Recipe_Name": "ESS OR - Low Fat Milk For T and C",
+                "Unit_Cost": 11.73
+            },
+            {
+                "Recipe_ID": 215680,
+                "Recipe_Name": "ESS OR - Full Cream Milk For T and C",
+                "Unit_Cost": 12.82
+            },
+            {
+                "Recipe_ID": 215696,
+                "Recipe_Name": "ESS OR - Lactose Free Milk For T and C",
+                "Unit_Cost": 8.28
+            },
+            {
+                "Recipe_ID": 215728,
+                "Recipe_Name": "ESS OR - Soy Milk For T and C",
+                "Unit_Cost": 8.28
+            },
+            {
+                "Recipe_ID": 216368,
+                "Recipe_Name": "ESS OR - Almond Milk For T and C",
+                "Unit_Cost": 8.28
+            }
+        ],
+        "total_unit_cost": 49.39
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Hot Beverages",
+        "Date": "11-01-2025",
+        "Day": "Thursday",
+        "Recipes": [
+            {
+                "Recipe_ID": 215712,
+                "Recipe_Name": "ESS OR - Low Fat Milk For T and C",
+                "Unit_Cost": 11.73
+            },
+            {
+                "Recipe_ID": 215680,
+                "Recipe_Name": "ESS OR - Full Cream Milk For T and C",
+                "Unit_Cost": 12.82
+            },
+            {
+                "Recipe_ID": 215696,
+                "Recipe_Name": "ESS OR - Lactose Free Milk For T and C",
+                "Unit_Cost": 8.28
+            },
+            {
+                "Recipe_ID": 215728,
+                "Recipe_Name": "ESS OR - Soy Milk For T and C",
+                "Unit_Cost": 8.28
+            },
+            {
+                "Recipe_ID": 216368,
+                "Recipe_Name": "ESS OR - Almond Milk For T and C",
+                "Unit_Cost": 8.28
+            }
+        ],
+        "total_unit_cost": 49.39
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Hot Beverages",
+        "Date": "12-01-2025",
+        "Day": "Friday",
+        "Recipes": [
+            {
+                "Recipe_ID": 215712,
+                "Recipe_Name": "ESS OR - Low Fat Milk For T and C",
+                "Unit_Cost": 11.73
+            },
+            {
+                "Recipe_ID": 215680,
+                "Recipe_Name": "ESS OR - Full Cream Milk For T and C",
+                "Unit_Cost": 12.82
+            },
+            {
+                "Recipe_ID": 215696,
+                "Recipe_Name": "ESS OR - Lactose Free Milk For T and C",
+                "Unit_Cost": 8.28
+            },
+            {
+                "Recipe_ID": 215728,
+                "Recipe_Name": "ESS OR - Soy Milk For T and C",
+                "Unit_Cost": 8.28
+            },
+            {
+                "Recipe_ID": 216368,
+                "Recipe_Name": "ESS OR - Almond Milk For T and C",
+                "Unit_Cost": 8.28
+            }
+        ],
+        "total_unit_cost": 49.39
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Hot Beverages",
+        "Date": "13-01-2025",
+        "Day": "Saturday",
+        "Recipes": [
+            {
+                "Recipe_ID": 215712,
+                "Recipe_Name": "ESS OR - Low Fat Milk For T and C",
+                "Unit_Cost": 11.73
+            },
+            {
+                "Recipe_ID": 215680,
+                "Recipe_Name": "ESS OR - Full Cream Milk For T and C",
+                "Unit_Cost": 12.82
+            },
+            {
+                "Recipe_ID": 215696,
+                "Recipe_Name": "ESS OR - Lactose Free Milk For T and C",
+                "Unit_Cost": 8.28
+            },
+            {
+                "Recipe_ID": 215728,
+                "Recipe_Name": "ESS OR - Soy Milk For T and C",
+                "Unit_Cost": 8.28
+            },
+            {
+                "Recipe_ID": 216368,
+                "Recipe_Name": "ESS OR - Almond Milk For T and C",
+                "Unit_Cost": 8.28
+            }
+        ],
+        "total_unit_cost": 49.39
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Hot Beverages",
+        "Date": "14-01-2025",
+        "Day": "Sunday",
+        "Recipes": [
+            {
+                "Recipe_ID": 215712,
+                "Recipe_Name": "ESS OR - Low Fat Milk For T and C",
+                "Unit_Cost": 11.73
+            },
+            {
+                "Recipe_ID": 215680,
+                "Recipe_Name": "ESS OR - Full Cream Milk For T and C",
+                "Unit_Cost": 12.82
+            },
+            {
+                "Recipe_ID": 215696,
+                "Recipe_Name": "ESS OR - Lactose Free Milk For T and C",
+                "Unit_Cost": 8.28
+            },
+            {
+                "Recipe_ID": 215728,
+                "Recipe_Name": "ESS OR - Soy Milk For T and C",
+                "Unit_Cost": 8.28
+            },
+            {
+                "Recipe_ID": 216368,
+                "Recipe_Name": "ESS OR - Almond Milk For T and C",
+                "Unit_Cost": 8.28
+            }
+        ],
+        "total_unit_cost": 49.39
+    }
+]

@@ -1,0 +1,268 @@
+[
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Bakery",
+        "Date": "01-01-2025",
+        "Day": "Monday",
+        "Recipes": [
+            {
+                "Recipe_ID": 193872,
+                "Recipe_Name": "ESS OR - GF Bread Selection",
+                "Unit_Cost": 0.62
+            },
+            {
+                "Recipe_ID": 113872,
+                "Recipe_Name": "ESS OR - Sliced Bread - Multigrain, Wholemeal and White",
+                "Unit_Cost": 2.6
+            }
+        ],
+        "total_unit_cost": 3.21
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Bakery",
+        "Date": "02-01-2025",
+        "Day": "Tuesday",
+        "Recipes": [
+            {
+                "Recipe_ID": 193872,
+                "Recipe_Name": "ESS OR - GF Bread Selection",
+                "Unit_Cost": 0.62
+            },
+            {
+                "Recipe_ID": 113872,
+                "Recipe_Name": "ESS OR - Sliced Bread - Multigrain, Wholemeal and White",
+                "Unit_Cost": 2.6
+            }
+        ],
+        "total_unit_cost": 3.21
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Bakery",
+        "Date": "03-01-2025",
+        "Day": "Wednesday",
+        "Recipes": [
+            {
+                "Recipe_ID": 193872,
+                "Recipe_Name": "ESS OR - GF Bread Selection",
+                "Unit_Cost": 0.62
+            },
+            {
+                "Recipe_ID": 113872,
+                "Recipe_Name": "ESS OR - Sliced Bread - Multigrain, Wholemeal and White",
+                "Unit_Cost": 2.6
+            }
+        ],
+        "total_unit_cost": 3.21
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Bakery",
+        "Date": "04-01-2025",
+        "Day": "Thursday",
+        "Recipes": [
+            {
+                "Recipe_ID": 193872,
+                "Recipe_Name": "ESS OR - GF Bread Selection",
+                "Unit_Cost": 0.62
+            },
+            {
+                "Recipe_ID": 113872,
+                "Recipe_Name": "ESS OR - Sliced Bread - Multigrain, Wholemeal and White",
+                "Unit_Cost": 2.6
+            }
+        ],
+        "total_unit_cost": 3.21
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Bakery",
+        "Date": "05-01-2025",
+        "Day": "Friday",
+        "Recipes": [
+            {
+                "Recipe_ID": 193872,
+                "Recipe_Name": "ESS OR - GF Bread Selection",
+                "Unit_Cost": 0.62
+            },
+            {
+                "Recipe_ID": 113872,
+                "Recipe_Name": "ESS OR - Sliced Bread - Multigrain, Wholemeal and White",
+                "Unit_Cost": 2.6
+            }
+        ],
+        "total_unit_cost": 3.21
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Bakery",
+        "Date": "06-01-2025",
+        "Day": "Saturday",
+        "Recipes": [
+            {
+                "Recipe_ID": 193872,
+                "Recipe_Name": "ESS OR - GF Bread Selection",
+                "Unit_Cost": 0.62
+            },
+            {
+                "Recipe_ID": 113872,
+                "Recipe_Name": "ESS OR - Sliced Bread - Multigrain, Wholemeal and White",
+                "Unit_Cost": 2.6
+            }
+        ],
+        "total_unit_cost": 3.21
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Bakery",
+        "Date": "07-01-2025",
+        "Day": "Sunday",
+        "Recipes": [
+            {
+                "Recipe_ID": 193872,
+                "Recipe_Name": "ESS OR - GF Bread Selection",
+                "Unit_Cost": 0.62
+            },
+            {
+                "Recipe_ID": 113872,
+                "Recipe_Name": "ESS OR - Sliced Bread - Multigrain, Wholemeal and White",
+                "Unit_Cost": 2.6
+            }
+        ],
+        "total_unit_cost": 3.21
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Bakery",
+        "Date": "08-01-2025",
+        "Day": "Monday",
+        "Recipes": [
+            {
+                "Recipe_ID": 193872,
+                "Recipe_Name": "ESS OR - GF Bread Selection",
+                "Unit_Cost": 0.62
+            },
+            {
+                "Recipe_ID": 113872,
+                "Recipe_Name": "ESS OR - Sliced Bread - Multigrain, Wholemeal and White",
+                "Unit_Cost": 2.6
+            }
+        ],
+        "total_unit_cost": 3.21
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Bakery",
+        "Date": "09-01-2025",
+        "Day": "Tuesday",
+        "Recipes": [
+            {
+                "Recipe_ID": 193872,
+                "Recipe_Name": "ESS OR - GF Bread Selection",
+                "Unit_Cost": 0.62
+            },
+            {
+                "Recipe_ID": 113872,
+                "Recipe_Name": "ESS OR - Sliced Bread - Multigrain, Wholemeal and White",
+                "Unit_Cost": 2.6
+            }
+        ],
+        "total_unit_cost": 3.21
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Bakery",
+        "Date": "10-01-2025",
+        "Day": "Wednesday",
+        "Recipes": [
+            {
+                "Recipe_ID": 193872,
+                "Recipe_Name": "ESS OR - GF Bread Selection",
+                "Unit_Cost": 0.62
+            },
+            {
+                "Recipe_ID": 113872,
+                "Recipe_Name": "ESS OR - Sliced Bread - Multigrain, Wholemeal and White",
+                "Unit_Cost": 2.6
+            }
+        ],
+        "total_unit_cost": 3.21
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Bakery",
+        "Date": "11-01-2025",
+        "Day": "Thursday",
+        "Recipes": [
+            {
+                "Recipe_ID": 193872,
+                "Recipe_Name": "ESS OR - GF Bread Selection",
+                "Unit_Cost": 0.62
+            },
+            {
+                "Recipe_ID": 113872,
+                "Recipe_Name": "ESS OR - Sliced Bread - Multigrain, Wholemeal and White",
+                "Unit_Cost": 2.6
+            }
+        ],
+        "total_unit_cost": 3.21
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Bakery",
+        "Date": "12-01-2025",
+        "Day": "Friday",
+        "Recipes": [
+            {
+                "Recipe_ID": 193872,
+                "Recipe_Name": "ESS OR - GF Bread Selection",
+                "Unit_Cost": 0.62
+            },
+            {
+                "Recipe_ID": 113872,
+                "Recipe_Name": "ESS OR - Sliced Bread - Multigrain, Wholemeal and White",
+                "Unit_Cost": 2.6
+            }
+        ],
+        "total_unit_cost": 3.21
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Bakery",
+        "Date": "13-01-2025",
+        "Day": "Saturday",
+        "Recipes": [
+            {
+                "Recipe_ID": 193872,
+                "Recipe_Name": "ESS OR - GF Bread Selection",
+                "Unit_Cost": 0.62
+            },
+            {
+                "Recipe_ID": 113872,
+                "Recipe_Name": "ESS OR - Sliced Bread - Multigrain, Wholemeal and White",
+                "Unit_Cost": 2.6
+            }
+        ],
+        "total_unit_cost": 3.21
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Bakery",
+        "Date": "14-01-2025",
+        "Day": "Sunday",
+        "Recipes": [
+            {
+                "Recipe_ID": 193872,
+                "Recipe_Name": "ESS OR - GF Bread Selection",
+                "Unit_Cost": 0.62
+            },
+            {
+                "Recipe_ID": 113872,
+                "Recipe_Name": "ESS OR - Sliced Bread - Multigrain, Wholemeal and White",
+                "Unit_Cost": 2.6
+            }
+        ],
+        "total_unit_cost": 3.21
+    }
+]

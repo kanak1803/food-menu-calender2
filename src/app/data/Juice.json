@@ -1,0 +1,338 @@
+[
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Cold Beverages",
+        "Date": "01-01-2025",
+        "Day": "Monday",
+        "Recipes": [
+            {
+                "Recipe_ID": 147728,
+                "Recipe_Name": "ESS OR - Orange Juice (Buy In)",
+                "Unit_Cost": 2.51
+            },
+            {
+                "Recipe_ID": 129120,
+                "Recipe_Name": "ESS OR - Orange and Mango juice",
+                "Unit_Cost": 1.73
+            },
+            {
+                "Recipe_ID": 128976, 
+                "Recipe_Name": "ESS OR - Tropical juice",
+                "Unit_Cost": 1.73
+            }
+        ],
+        "total_unit_cost": 5.96
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Cold Beverages",
+        "Date": "02-01-2025",
+        "Day": "Tuesday",
+        "Recipes": [
+            {
+                "Recipe_ID": 147728,
+                "Recipe_Name": "ESS OR - Orange Juice (Buy In)",
+                "Unit_Cost": 2.51
+            },
+            {
+                "Recipe_ID": 129120,
+                "Recipe_Name": "ESS OR - Orange and Mango juice",
+                "Unit_Cost": 1.73
+            },
+            {
+                "Recipe_ID": 128976,
+                "Recipe_Name": "ESS OR - Tropical juice",
+                "Unit_Cost": 1.73
+            }
+        ],
+        "total_unit_cost": 5.96
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Cold Beverages",
+        "Date": "03-01-2025",
+        "Day": "Wednesday",
+        "Recipes": [
+            {
+                "Recipe_ID": 147728,
+                "Recipe_Name": "ESS OR - Orange Juice (Buy In)",
+                "Unit_Cost": 2.51
+            },
+            {
+                "Recipe_ID": 129120,
+                "Recipe_Name": "ESS OR - Orange and Mango juice",
+                "Unit_Cost": 1.73
+            },
+            {
+                "Recipe_ID": 128976,
+                "Recipe_Name": "ESS OR - Tropical juice",
+                "Unit_Cost": 1.73
+            }
+        ],
+        "total_unit_cost": 5.96
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Cold Beverages",
+        "Date": "04-01-2025",
+        "Day": "Thursday",
+        "Recipes": [
+            {
+                "Recipe_ID": 147728,
+                "Recipe_Name": "ESS OR - Orange Juice (Buy In)",
+                "Unit_Cost": 2.51
+            },
+            {
+                "Recipe_ID": 129120,
+                "Recipe_Name": "ESS OR - Orange and Mango juice",
+                "Unit_Cost": 1.73
+            },
+            {
+                "Recipe_ID": 128976,
+                "Recipe_Name": "ESS OR - Tropical juice",
+                "Unit_Cost": 1.73
+            }
+        ],
+        "total_unit_cost": 5.96
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Cold Beverages",
+        "Date": "05-01-2025",
+        "Day": "Friday",
+        "Recipes": [
+            {
+                "Recipe_ID": 147728,
+                "Recipe_Name": "ESS OR - Orange Juice (Buy In)",
+                "Unit_Cost": 2.51
+            },
+            {
+                "Recipe_ID": 129120,
+                "Recipe_Name": "ESS OR - Orange and Mango juice",
+                "Unit_Cost": 1.73
+            },
+            {
+                "Recipe_ID": 128976,
+                "Recipe_Name": "ESS OR - Tropical juice",
+                "Unit_Cost": 1.73
+            }
+        ],
+        "total_unit_cost": 5.96
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Cold Beverages",
+        "Date": "06-01-2025",
+        "Day": "Saturday",
+        "Recipes": [
+            {
+                "Recipe_ID": 147728,
+                "Recipe_Name": "ESS OR - Orange Juice (Buy In)",
+                "Unit_Cost": 2.51
+            },
+            {
+                "Recipe_ID": 129120,
+                "Recipe_Name": "ESS OR - Orange and Mango juice",
+                "Unit_Cost": 1.73
+            },
+            {
+                "Recipe_ID": 128976,
+                "Recipe_Name": "ESS OR - Tropical juice",
+                "Unit_Cost": 1.73
+            }
+        ],
+        "total_unit_cost": 5.96
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Cold Beverages",
+        "Date": "07-01-2025",
+        "Day": "Sunday",
+        "Recipes": [
+            {
+                "Recipe_ID": 147728,
+                "Recipe_Name": "ESS OR - Orange Juice (Buy In)",
+                "Unit_Cost": 2.51
+            },
+            {
+                "Recipe_ID": 129120,
+                "Recipe_Name": "ESS OR - Orange and Mango juice",
+                "Unit_Cost": 1.73
+            },
+            {
+                "Recipe_ID": 128976,
+                "Recipe_Name": "ESS OR - Tropical juice",
+                "Unit_Cost": 1.73
+            }
+        ],
+        "total_unit_cost": 5.96
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Cold Beverages",
+        "Date": "08-01-2025",
+        "Day": "Monday",
+        "Recipes": [
+            {
+                "Recipe_ID": 147728,
+                "Recipe_Name": "ESS OR - Orange Juice (Buy In)",
+                "Unit_Cost": 2.51
+            },
+            {
+                "Recipe_ID": 129120,
+                "Recipe_Name": "ESS OR - Orange and Mango juice",
+                "Unit_Cost": 1.73
+            },
+            {
+                "Recipe_ID": 128976,
+                "Recipe_Name": "ESS OR - Tropical juice",
+                "Unit_Cost": 1.73
+            }
+        ],
+        "total_unit_cost": 5.96
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Cold Beverages",
+        "Date": "09-01-2025",
+        "Day": "Tuesday",
+        "Recipes": [
+            {
+                "Recipe_ID": 147728,
+                "Recipe_Name": "ESS OR - Orange Juice (Buy In)",
+                "Unit_Cost": 2.51
+            },
+            {
+                "Recipe_ID": 129120,
+                "Recipe_Name": "ESS OR - Orange and Mango juice",
+                "Unit_Cost": 1.73
+            },
+            {
+                "Recipe_ID": 128976,
+                "Recipe_Name": "ESS OR - Tropical juice",
+                "Unit_Cost": 1.73
+            }
+        ],
+        "total_unit_cost": 5.96
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Cold Beverages",
+        "Date": "10-01-2025",
+        "Day": "Wednesday",
+        "Recipes": [
+            {
+                "Recipe_ID": 147728,
+                "Recipe_Name": "ESS OR - Orange Juice (Buy In)",
+                "Unit_Cost": 2.51
+            },
+            {
+                "Recipe_ID": 129120,
+                "Recipe_Name": "ESS OR - Orange and Mango juice",
+                "Unit_Cost": 1.73
+            },
+            {
+                "Recipe_ID": 128976,
+                "Recipe_Name": "ESS OR - Tropical juice",
+                "Unit_Cost": 1.73
+            }
+        ],
+        "total_unit_cost": 5.96
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Cold Beverages",
+        "Date": "11-01-2025",
+        "Day": "Thursday",
+        "Recipes": [
+            {
+                "Recipe_ID": 147728,
+                "Recipe_Name": "ESS OR - Orange Juice (Buy In)",
+                "Unit_Cost": 2.51
+            },
+            {
+                "Recipe_ID": 129120,
+                "Recipe_Name": "ESS OR - Orange and Mango juice",
+                "Unit_Cost": 1.73
+            },
+            {
+                "Recipe_ID": 128976,
+                "Recipe_Name": "ESS OR - Tropical juice",
+                "Unit_Cost": 1.73
+            }
+        ],
+        "total_unit_cost": 5.96
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Cold Beverages",
+        "Date": "12-01-2025",
+        "Day": "Friday",
+        "Recipes": [
+            {
+                "Recipe_ID": 147728,
+                "Recipe_Name": "ESS OR - Orange Juice (Buy In)",
+                "Unit_Cost": 2.51
+            },
+            {
+                "Recipe_ID": 129120,
+                "Recipe_Name": "ESS OR - Orange and Mango juice",
+                "Unit_Cost": 1.73
+            },
+            {
+                "Recipe_ID": 128976,
+                "Recipe_Name": "ESS OR - Tropical juice",
+                "Unit_Cost": 1.73
+            }
+        ],
+        "total_unit_cost": 5.96
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Cold Beverages",
+        "Date": "13-01-2025",
+        "Day": "Saturday",
+        "Recipes": [
+            {
+                "Recipe_ID": 147728,
+                "Recipe_Name": "ESS OR - Orange Juice (Buy In)",
+                "Unit_Cost": 2.51
+            },
+            {
+                "Recipe_ID": 129120,
+                "Recipe_Name": "ESS OR - Orange and Mango juice",
+                "Unit_Cost": 1.73
+            },
+            {
+                "Recipe_ID": 128976,
+                "Recipe_Name": "ESS OR - Tropical juice",
+                "Unit_Cost": 1.73
+            }
+        ],
+        "total_unit_cost": 5.96
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Cold Beverages",
+        "Date": "14-01-2025",
+        "Day": "Sunday",
+        "Recipes": [
+            {
+                "Recipe_ID": 147728,
+                "Recipe_Name": "ESS OR - Orange Juice (Buy In)",
+                "Unit_Cost": 2.51
+            },
+            {
+                "Recipe_ID": 129120,
+                "Recipe_Name": "ESS OR - Orange and Mango juice",
+                "Unit_Cost": 1.73
+            },
+            {
+                "Recipe_ID": 128976,
+                "Recipe_Name": "ESS OR - Tropical juice",
+                "Unit_Cost": 1.73
+            }
+        ],
+        "total_unit_cost": 5.96
+    }
+]

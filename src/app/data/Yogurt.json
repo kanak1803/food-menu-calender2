@@ -1,0 +1,198 @@
+[
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Yoghurts",
+        "Date": "01-01-2025",
+        "Day": "Monday",
+        "Recipes": [
+            {
+                "Recipe_ID": 117776,
+                "Recipe_Name": "ESS OR - Yoghurt - all meals",
+                "Unit_Cost": 2.03
+            }
+        ],
+        "total_unit_cost": 2.03
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Yoghurts",
+        "Date": "02-01-2025",
+        "Day": "Tuesday",
+        "Recipes": [
+            {
+                "Recipe_ID": 117776,
+                "Recipe_Name": "ESS OR - Yoghurt - all meals",
+                "Unit_Cost": 2.03
+            }
+        ],
+        "total_unit_cost": 2.03
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Yoghurts",
+        "Date": "03-01-2025",
+        "Day": "Wednesday",
+        "Recipes": [
+            {
+                "Recipe_ID": 117776,
+                "Recipe_Name": "ESS OR - Yoghurt - all meals",
+                "Unit_Cost": 2.03
+            }
+        ],
+        "total_unit_cost": 2.03
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Yoghurts",
+        "Date": "04-01-2025",
+        "Day": "Thursday",
+        "Recipes": [
+            {
+                "Recipe_ID": 117776,
+                "Recipe_Name": "ESS OR - Yoghurt - all meals",
+                "Unit_Cost": 2.03
+            }
+        ],
+        "total_unit_cost": 2.03
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Yoghurts",
+        "Date": "05-01-2025",
+        "Day": "Friday",
+        "Recipes": [
+            {
+                "Recipe_ID": 117776,
+                "Recipe_Name": "ESS OR - Yoghurt - all meals",
+                "Unit_Cost": 2.03
+            }
+        ],
+        "total_unit_cost": 2.03
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Yoghurts",
+        "Date": "06-01-2025",
+        "Day": "Saturday",
+        "Recipes": [
+            {
+                "Recipe_ID": 117776,
+                "Recipe_Name": "ESS OR - Yoghurt - all meals",
+                "Unit_Cost": 2.03
+            }
+        ],
+        "total_unit_cost": 2.03
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Yoghurts",
+        "Date": "07-01-2025",
+        "Day": "Sunday",
+        "Recipes": [
+            {
+                "Recipe_ID": 117776,
+                "Recipe_Name": "ESS OR - Yoghurt - all meals",
+                "Unit_Cost": 2.03
+            }
+        ],
+        "total_unit_cost": 2.03
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Yoghurts",
+        "Date": "08-01-2025",
+        "Day": "Monday",
+        "Recipes": [
+            {
+                "Recipe_ID": 117776,
+                "Recipe_Name": "ESS OR - Yoghurt - all meals",
+                "Unit_Cost": 2.03
+            }
+        ],
+        "total_unit_cost": 2.03
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Yoghurts",
+        "Date": "09-01-2025",
+        "Day": "Tuesday",
+        "Recipes": [
+            {
+                "Recipe_ID": 117776,
+                "Recipe_Name": "ESS OR - Yoghurt - all meals",
+                "Unit_Cost": 2.03
+            }
+        ],
+        "total_unit_cost": 2.03
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Yoghurts",
+        "Date": "10-01-2025",
+        "Day": "Wednesday",
+        "Recipes": [
+            {
+                "Recipe_ID": 117776,
+                "Recipe_Name": "ESS OR - Yoghurt - all meals",
+                "Unit_Cost": 2.03
+            }
+        ],
+        "total_unit_cost": 2.03
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Yoghurts",
+        "Date": "11-01-2025",
+        "Day": "Thursday",
+        "Recipes": [
+            {
+                "Recipe_ID": 117776,
+                "Recipe_Name": "ESS OR - Yoghurt - all meals",
+                "Unit_Cost": 2.03
+            }
+        ],
+        "total_unit_cost": 2.03
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Yoghurts",
+        "Date": "12-01-2025",
+        "Day": "Friday",
+        "Recipes": [
+            {
+                "Recipe_ID": 117776,
+                "Recipe_Name": "ESS OR - Yoghurt - all meals",
+                "Unit_Cost": 2.03
+            }
+        ],
+        "total_unit_cost": 2.03
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Yoghurts",
+        "Date": "13-01-2025",
+        "Day": "Saturday",
+        "Recipes": [
+            {
+                "Recipe_ID": 117776,
+                "Recipe_Name": "ESS OR - Yoghurt - all meals",
+                "Unit_Cost": 2.03
+            }
+        ],
+        "total_unit_cost": 2.03
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Yoghurts",
+        "Date": "14-01-2025",
+        "Day": "Sunday",
+        "Recipes": [
+            {
+                "Recipe_ID": 117776,
+                "Recipe_Name": "ESS OR - Yoghurt - all meals",
+                "Unit_Cost": 2.03
+            }
+        ],
+        "total_unit_cost": 2.03
+    }
+]

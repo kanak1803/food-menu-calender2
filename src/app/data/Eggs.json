@@ -1,0 +1,418 @@
+[
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Eggs",
+        "Date": "01-01-2025",
+        "Day": "Monday",
+        "Recipes": [
+            {
+                "Recipe_ID": 192608,
+                "Recipe_Name": "ESS OR - Omelette - Basic Station",
+                "Unit_Cost": 0.53
+            },
+            {
+                "Recipe_ID": 157872,
+                "Recipe_Name": "ESS OR - 2 Poached Eggs",
+                "Unit_Cost": 0.69
+            },
+            {
+                "Recipe_ID": 157888,
+                "Recipe_Name": "ESS OR - 2 Boiled Eggs",
+                "Unit_Cost": 0.69
+            },
+            {
+                "Recipe_ID": 157920,
+                "Recipe_Name": "ESS OR - 2 Fried Free Range Eggs",
+                "Unit_Cost": 0.66
+            }
+        ],
+        "total_unit_cost": 2.58
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Eggs",
+        "Date": "02-01-2025",
+        "Day": "Tuesday",
+        "Recipes": [
+            {
+                "Recipe_ID": 192608,
+                "Recipe_Name": "ESS OR - Omelette - Basic Station",
+                "Unit_Cost": 0.53
+            },
+            {
+                "Recipe_ID": 157872,
+                "Recipe_Name": "ESS OR - 2 Poached Eggs",
+                "Unit_Cost": 0.69
+            },
+            {
+                "Recipe_ID": 157888,
+                "Recipe_Name": "ESS OR - 2 Boiled Eggs",
+                "Unit_Cost": 0.69
+            },
+            {
+                "Recipe_ID": 157920,
+                "Recipe_Name": "ESS OR - 2 Fried Free Range Eggs",
+                "Unit_Cost": 0.66
+            }
+        ],
+        "total_unit_cost": 2.58
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Eggs",
+        "Date": "03-01-2025",
+        "Day": "Wednesday",
+        "Recipes": [
+            {
+                "Recipe_ID": 192608,
+                "Recipe_Name": "ESS OR - Omelette - Basic Station",
+                "Unit_Cost": 0.53
+            },
+            {
+                "Recipe_ID": 157872,
+                "Recipe_Name": "ESS OR - 2 Poached Eggs",
+                "Unit_Cost": 0.69
+            },
+            {
+                "Recipe_ID": 157888,
+                "Recipe_Name": "ESS OR - 2 Boiled Eggs",
+                "Unit_Cost": 0.69
+            },
+            {
+                "Recipe_ID": 157920,
+                "Recipe_Name": "ESS OR - 2 Fried Free Range Eggs",
+                "Unit_Cost": 0.66
+            }
+        ],
+        "total_unit_cost": 2.58
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Eggs",
+        "Date": "04-01-2025",
+        "Day": "Thursday",
+        "Recipes": [
+            {
+                "Recipe_ID": 192608,
+                "Recipe_Name": "ESS OR - Omelette - Basic Station",
+                "Unit_Cost": 0.53
+            },
+            {
+                "Recipe_ID": 157872,
+                "Recipe_Name": "ESS OR - 2 Poached Eggs",
+                "Unit_Cost": 0.69
+            },
+            {
+                "Recipe_ID": 157888,
+                "Recipe_Name": "ESS OR - 2 Boiled Eggs",
+                "Unit_Cost": 0.69
+            },
+            {
+                "Recipe_ID": 157920,
+                "Recipe_Name": "ESS OR - 2 Fried Free Range Eggs",
+                "Unit_Cost": 0.66
+            }
+        ],
+        "total_unit_cost": 2.58
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Eggs",
+        "Date": "05-01-2025",
+        "Day": "Friday",
+        "Recipes": [
+            {
+                "Recipe_ID": 192608,
+                "Recipe_Name": "ESS OR - Omelette - Basic Station",
+                "Unit_Cost": 0.53
+            },
+            {
+                "Recipe_ID": 157872,
+                "Recipe_Name": "ESS OR - 2 Poached Eggs",
+                "Unit_Cost": 0.69
+            },
+            {
+                "Recipe_ID": 157888,
+                "Recipe_Name": "ESS OR - 2 Boiled Eggs",
+                "Unit_Cost": 0.69
+            },
+            {
+                "Recipe_ID": 157920,
+                "Recipe_Name": "ESS OR - 2 Fried Free Range Eggs",
+                "Unit_Cost": 0.66
+            }
+        ],
+        "total_unit_cost": 2.58
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Eggs",
+        "Date": "06-01-2025",
+        "Day": "Saturday",
+        "Recipes": [
+            {
+                "Recipe_ID": 192608,
+                "Recipe_Name": "ESS OR - Omelette - Basic Station",
+                "Unit_Cost": 0.53
+            },
+            {
+                "Recipe_ID": 157872,
+                "Recipe_Name": "ESS OR - 2 Poached Eggs",
+                "Unit_Cost": 0.69
+            },
+            {
+                "Recipe_ID": 157888,
+                "Recipe_Name": "ESS OR - 2 Boiled Eggs",
+                "Unit_Cost": 0.69
+            },
+            {
+                "Recipe_ID": 157920,
+                "Recipe_Name": "ESS OR - 2 Fried Free Range Eggs",
+                "Unit_Cost": 0.66
+            }
+        ],
+        "total_unit_cost": 2.58
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Eggs",
+        "Date": "07-01-2025",
+        "Day": "Sunday",
+        "Recipes": [
+            {
+                "Recipe_ID": 192608,
+                "Recipe_Name": "ESS OR - Omelette - Basic Station",
+                "Unit_Cost": 0.53
+            },
+            {
+                "Recipe_ID": 157872,
+                "Recipe_Name": "ESS OR - 2 Poached Eggs",
+                "Unit_Cost": 0.69
+            },
+            {
+                "Recipe_ID": 157888,
+                "Recipe_Name": "ESS OR - 2 Boiled Eggs",
+                "Unit_Cost": 0.69
+            },
+            {
+                "Recipe_ID": 157920,
+                "Recipe_Name": "ESS OR - 2 Fried Free Range Eggs",
+                "Unit_Cost": 0.66
+            },
+            {
+                "Recipe_ID": 1080848,
+                "Recipe_Name": "ESS OR - Eggs Benedict BHP",
+                "Unit_Cost": 0.25
+            }
+        ],
+        "total_unit_cost": 2.82
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Eggs",
+        "Date": "08-01-2025",
+        "Day": "Monday",
+        "Recipes": [
+            {
+                "Recipe_ID": 192608,
+                "Recipe_Name": "ESS OR - Omelette - Basic Station",
+                "Unit_Cost": 0.53
+            },
+            {
+                "Recipe_ID": 157872,
+                "Recipe_Name": "ESS OR - 2 Poached Eggs",
+                "Unit_Cost": 0.69
+            },
+            {
+                "Recipe_ID": 157888,
+                "Recipe_Name": "ESS OR - 2 Boiled Eggs",
+                "Unit_Cost": 0.69
+            },
+            {
+                "Recipe_ID": 157920,
+                "Recipe_Name": "ESS OR - 2 Fried Free Range Eggs",
+                "Unit_Cost": 0.66
+            }
+        ],
+        "total_unit_cost": 2.58
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Eggs",
+        "Date": "09-01-2025",
+        "Day": "Tuesday",
+        "Recipes": [
+            {
+                "Recipe_ID": 192608,
+                "Recipe_Name": "ESS OR - Omelette - Basic Station",
+                "Unit_Cost": 0.53
+            },
+            {
+                "Recipe_ID": 157872,
+                "Recipe_Name": "ESS OR - 2 Poached Eggs",
+                "Unit_Cost": 0.69
+            },
+            {
+                "Recipe_ID": 157888,
+                "Recipe_Name": "ESS OR - 2 Boiled Eggs",
+                "Unit_Cost": 0.69
+            },
+            {
+                "Recipe_ID": 157920,
+                "Recipe_Name": "ESS OR - 2 Fried Free Range Eggs",
+                "Unit_Cost": 0.66
+            }
+        ],
+        "total_unit_cost": 2.58
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Eggs",
+        "Date": "10-01-2025",
+        "Day": "Wednesday",
+        "Recipes": [
+            {
+                "Recipe_ID": 192608,
+                "Recipe_Name": "ESS OR - Omelette - Basic Station",
+                "Unit_Cost": 0.53
+            },
+            {
+                "Recipe_ID": 157872,
+                "Recipe_Name": "ESS OR - 2 Poached Eggs",
+                "Unit_Cost": 0.69
+            },
+            {
+                "Recipe_ID": 157888,
+                "Recipe_Name": "ESS OR - 2 Boiled Eggs",
+                "Unit_Cost": 0.69
+            },
+            {
+                "Recipe_ID": 157920,
+                "Recipe_Name": "ESS OR - 2 Fried Free Range Eggs",
+                "Unit_Cost": 0.66
+            }
+        ],
+        "total_unit_cost": 2.58
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Eggs",
+        "Date": "11-01-2025",
+        "Day": "Thursday",
+        "Recipes": [
+            {
+                "Recipe_ID": 192608,
+                "Recipe_Name": "ESS OR - Omelette - Basic Station",
+                "Unit_Cost": 0.53
+            },
+            {
+                "Recipe_ID": 157872,
+                "Recipe_Name": "ESS OR - 2 Poached Eggs",
+                "Unit_Cost": 0.69
+            },
+            {
+                "Recipe_ID": 157888,
+                "Recipe_Name": "ESS OR - 2 Boiled Eggs",
+                "Unit_Cost": 0.69
+            },
+            {
+                "Recipe_ID": 157920,
+                "Recipe_Name": "ESS OR - 2 Fried Free Range Eggs",
+                "Unit_Cost": 0.66
+            }
+        ],
+        "total_unit_cost": 2.58
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Eggs",
+        "Date": "12-01-2025",
+        "Day": "Friday",
+        "Recipes": [
+            {
+                "Recipe_ID": 192608,
+                "Recipe_Name": "ESS OR - Omelette - Basic Station",
+                "Unit_Cost": 0.53
+            },
+            {
+                "Recipe_ID": 157872,
+                "Recipe_Name": "ESS OR - 2 Poached Eggs",
+                "Unit_Cost": 0.69
+            },
+            {
+                "Recipe_ID": 157888,
+                "Recipe_Name": "ESS OR - 2 Boiled Eggs",
+                "Unit_Cost": 0.69
+            },
+            {
+                "Recipe_ID": 157920,
+                "Recipe_Name": "ESS OR - 2 Fried Free Range Eggs",
+                "Unit_Cost": 0.66
+            }
+        ],
+        "total_unit_cost": 2.58
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Eggs",
+        "Date": "13-01-2025",
+        "Day": "Saturday",
+        "Recipes": [
+            {
+                "Recipe_ID": 192608,
+                "Recipe_Name": "ESS OR - Omelette - Basic Station",
+                "Unit_Cost": 0.53
+            },
+            {
+                "Recipe_ID": 157872,
+                "Recipe_Name": "ESS OR - 2 Poached Eggs",
+                "Unit_Cost": 0.69
+            },
+            {
+                "Recipe_ID": 157888,
+                "Recipe_Name": "ESS OR - 2 Boiled Eggs",
+                "Unit_Cost": 0.69
+            },
+            {
+                "Recipe_ID": 157920,
+                "Recipe_Name": "ESS OR - 2 Fried Free Range Eggs",
+                "Unit_Cost": 0.66
+            }
+        ],
+        "total_unit_cost": 2.58
+    },
+    {
+        "Meal_period": "Breakfast",
+        "Section": "Eggs",
+        "Date": "14-01-2025",
+        "Day": "Sunday",
+        "Recipes": [
+            {
+                "Recipe_ID": 192608,
+                "Recipe_Name": "ESS OR - Omelette - Basic Station",
+                "Unit_Cost": 0.53
+            },
+            {
+                "Recipe_ID": 157872,
+                "Recipe_Name": "ESS OR - 2 Poached Eggs",
+                "Unit_Cost": 0.69
+            },
+            {
+                "Recipe_ID": 157888,
+                "Recipe_Name": "ESS OR - 2 Boiled Eggs",
+                "Unit_Cost": 0.69
+            },
+            {
+                "Recipe_ID": 157920,
+                "Recipe_Name": "ESS OR - 2 Fried Free Range Eggs",
+                "Unit_Cost": 0.66
+            },
+            {
+                "Recipe_ID": 1080848,
+                "Recipe_Name": "ESS OR - Eggs Benedict BHP",
+                "Unit_Cost": 0.25
+            }
+        ],
+        "total_unit_cost": 2.82
+    }
+]
