@@ -17,8 +17,8 @@ import vegetablesData from "@/app/data/Vegetables.json";
 import vegetarianData from "@/app/data/Vegetarian.json";
 
 const FoodCalendar = () => {
-  const [isExpanded, setIsExpanded] = useState(false); // Default to showing 7 days
-  const [dates, setDates] = useState([]); // Unique dates across all datasets
+  const [isExpanded, setIsExpanded] = useState(false); // default to showing 7 days
+  const [dates, setDates] = useState([]);
 
   useEffect(() => {
     const uniqueDates = [
@@ -29,7 +29,7 @@ const FoodCalendar = () => {
         ...milkData.map((item) => item.Date),
         ...yogurtData.map((item) => item.Date),
         ...meatData[0].map((item) => item.Date),
-        ...Grill.map((item) => item.Date || []), // Flatten and handle nested structure
+        ...Grill.map((item) => item.Date || []),
         ...pastaData.map((item) => item.Date),
         ...soupData.map((item) => item.Date),
         ...vegetablesData.map((item) => item.Date),
@@ -59,7 +59,7 @@ const FoodCalendar = () => {
               matchedItem.Recipes.map((recipe, recipeIndex) => (
                 <div
                   key={recipeIndex}
-                  className="p-3 mb-3 rounded-lg border bg-white text-sm"
+                  className="p-3 mb-3 rounded-lg border bg-white text-sm transition-transform duration-200 transform hover:scale-105"
                 >
                   <div className="font-semibold text-gray-700">
                     {recipe.Recipe_Name}
@@ -97,14 +97,22 @@ const FoodCalendar = () => {
               >
                 Meal Cost
               </th>
-              {dates.slice(0, isExpanded ? 14 : 7).map((date, index) => (
-                <th
-                  key={index}
-                  className="border border-gray-300 p-4 text-center font-semibold text-lg"
-                >
-                  {date}
-                </th>
-              ))}
+              {dates.slice(0, isExpanded ? 14 : 7).map((date, index) => {
+                // Find the corresponding day for this date in the data
+                const matchedItem = juiceData.find(
+                  (item) => item.Date === date
+                ); // You can use any dataset
+                const dayOfWeek = matchedItem ? matchedItem.Day : ""; // Get the day from the matched data
+
+                return (
+                  <th
+                    key={index}
+                    className="border border-gray-300 p-4 text-center font-semibold text-lg"
+                  >
+                    {dayOfWeek} <br /> {date}
+                  </th>
+                );
+              })}
             </tr>
           </thead>
 
