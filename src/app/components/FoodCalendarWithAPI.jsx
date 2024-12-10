@@ -35,6 +35,7 @@ const FetchRecipes = () => {
       setLoading(false); // Reset loading state
     }
   };
+
   console.log(recipes);
   console.log(query);
 
@@ -45,7 +46,7 @@ const FetchRecipes = () => {
       <div className="mb-4">
         <input
           type="text"
-          placeholder="Enter recipe name (e.g., Pasta)"
+          placeholder="Enter recipe name (e.g., Orange Mango Juice)"
           value={query}
           onChange={(e) => setQuery(e.target.value)}
           className="border border-gray-300 rounded-lg p-2 w-full"
@@ -65,13 +66,33 @@ const FetchRecipes = () => {
       <div className="mt-5">
         <h2 className="text-lg font-semibold mb-3">Results:</h2>
         {recipes.length > 0 ? (
-          <ul className="list-disc pl-5">
-            {recipes.map((recipe, index) => (
-              <li key={index} className="mb-2">
-                {recipe} {/* Display recipe information */}
-              </li>
-            ))}
-          </ul>
+          <table className="table-auto min-w-full border-collapse border-spacing-2">
+            <thead>
+              <tr className="bg-[#0D584F] text-white">
+                <th className="p-4 border">Meal Period</th>
+                <th className="p-4 border">Section</th>
+                <th className="p-4 border">Date</th>
+                <th className="p-4 border">Recipe Name</th>
+                <th className="p-4 border">Unit Cost</th>
+              </tr>
+            </thead>
+            <tbody>
+              {recipes.map((meal, index) => (
+                <tr key={index} className="bg-gray-100">
+                  <td className="p-4 border">{meal.Meal_period}</td>
+                  <td className="p-4 border">{meal.Section}</td>
+                  <td className="p-4 border">{meal.Date}</td>
+                  {/* Loop through Recipes array */}
+                  {meal.Recipes.map((recipe, recipeIndex) => (
+                    <React.Fragment key={recipeIndex}>
+                      <td className="p-4 border">{recipe.Recipe_Name}</td>
+                      <td className="p-4 border">${recipe.Unit_Cost}</td>
+                    </React.Fragment>
+                  ))}
+                </tr>
+              ))}
+            </tbody>
+          </table>
         ) : (
           !loading && <p>No recipes found. Try another query.</p>
         )}

@@ -1,0 +1,268 @@
+[
+    {
+        "Meal_period": "Dinner",
+        "Section": "Side Vegetables",
+        "Date": "01-01-2025",
+        "Day": "Monday",
+        "Recipes": [
+            {
+                "Recipe_ID": 167216,
+                "Recipe_Name": "ESS OR - Braised Cabbage and leeks",
+                "Unit_Cost": 1.47
+            },
+            {
+                "Recipe_ID": 122128,
+                "Recipe_Name": "ESS OR - Eggplant, zucchini and capsicums",
+                "Unit_Cost": 0.43
+            }
+        ],
+        "total_unit_cost": 1.9
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Side Vegetables",
+        "Date": "02-01-2025",
+        "Day": "Tuesday",
+        "Recipes": [
+            {
+                "Recipe_ID": 153776,
+                "Recipe_Name": "ESS OR - Mediterranean Veg",
+                "Unit_Cost": 0.43
+            },
+            {
+                "Recipe_ID": 210896,
+                "Recipe_Name": "ESS OR - Saute Green Beans with spinach and Asparagus",
+                "Unit_Cost": 0.57
+            }
+        ],
+        "total_unit_cost": 1.01
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Side Vegetables",
+        "Date": "03-01-2025",
+        "Day": "Wednesday",
+        "Recipes": [
+            {
+                "Recipe_ID": 167216,
+                "Recipe_Name": "ESS OR - Braised Cabbage and leeks",
+                "Unit_Cost": 1.47
+            },
+            {
+                "Recipe_ID": 122128,
+                "Recipe_Name": "ESS OR - Eggplant, zucchini and capsicums",
+                "Unit_Cost": 0.43
+            }
+        ],
+        "total_unit_cost": 1.9
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Side Vegetables",
+        "Date": "04-01-2025",
+        "Day": "Thursday",
+        "Recipes": [
+            {
+                "Recipe_ID": 153776,
+                "Recipe_Name": "ESS OR - Mediterranean Veg",
+                "Unit_Cost": 0.43
+            },
+            {
+                "Recipe_ID": 210896,
+                "Recipe_Name": "ESS OR - Saute Green Beans with spinach and Asparagus",
+                "Unit_Cost": 0.57
+            }
+        ],
+        "total_unit_cost": 1.01
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Side Vegetables",
+        "Date": "05-01-2025",
+        "Day": "Friday",
+        "Recipes": [
+            {
+                "Recipe_ID": 167216,
+                "Recipe_Name": "ESS OR - Braised Cabbage and leeks",
+                "Unit_Cost": 1.47
+            },
+            {
+                "Recipe_ID": 122128,
+                "Recipe_Name": "ESS OR - Eggplant, zucchini and capsicums",
+                "Unit_Cost": 0.43
+            }
+        ],
+        "total_unit_cost": 1.9
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Side Vegetables",
+        "Date": "06-01-2025",
+        "Day": "Saturday",
+        "Recipes": [
+            {
+                "Recipe_ID": 153776,
+                "Recipe_Name": "ESS OR - Mediterranean Veg",
+                "Unit_Cost": 0.43
+            },
+            {
+                "Recipe_ID": 210896,
+                "Recipe_Name": "ESS OR - Saute Green Beans with spinach and Asparagus",
+                "Unit_Cost": 0.57
+            }
+        ],
+        "total_unit_cost": 1.01
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Side Vegetables",
+        "Date": "07-01-2025",
+        "Day": "Sunday",
+        "Recipes": [
+            {
+                "Recipe_ID": 167216,
+                "Recipe_Name": "ESS OR - Braised Cabbage and leeks",
+                "Unit_Cost": 1.47
+            },
+            {
+                "Recipe_ID": 122128,
+                "Recipe_Name": "ESS OR - Eggplant, zucchini and capsicums",
+                "Unit_Cost": 0.43
+            }
+        ],
+        "total_unit_cost": 1.9
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Side Vegetables",
+        "Date": "08-01-2025",
+        "Day": "Monday",
+        "Recipes": [
+            {
+                "Recipe_ID": 153776,
+                "Recipe_Name": "ESS OR - Mediterranean Veg",
+                "Unit_Cost": 0.43
+            },
+            {
+                "Recipe_ID": 210896,
+                "Recipe_Name": "ESS OR - Saute Green Beans with spinach and Asparagus",
+                "Unit_Cost": 0.57
+            }
+        ],
+        "total_unit_cost": 1.01
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Side Vegetables",
+        "Date": "09-01-2025",
+        "Day": "Tuesday",
+        "Recipes": [
+            {
+                "Recipe_ID": 167216,
+                "Recipe_Name": "ESS OR - Braised Cabbage and leeks",
+                "Unit_Cost": 1.47
+            },
+            {
+                "Recipe_ID": 122128,
+                "Recipe_Name": "ESS OR - Eggplant, zucchini and capsicums",
+                "Unit_Cost": 0.43
+            }
+        ],
+        "total_unit_cost": 1.9
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Side Vegetables",
+        "Date": "10-01-2025",
+        "Day": "Wednesday",
+        "Recipes": [
+            {
+                "Recipe_ID": 153776,
+                "Recipe_Name": "ESS OR - Mediterranean Veg",
+                "Unit_Cost": 0.43
+            },
+            {
+                "Recipe_ID": 210896,
+                "Recipe_Name": "ESS OR - Saute Green Beans with spinach and Asparagus",
+                "Unit_Cost": 0.57
+            }
+        ],
+        "total_unit_cost": 1.01
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Side Vegetables",
+        "Date": "11-01-2025",
+        "Day": "Thursday",
+        "Recipes": [
+            {
+                "Recipe_ID": 167216,
+                "Recipe_Name": "ESS OR - Braised Cabbage and leeks",
+                "Unit_Cost": 1.47
+            },
+            {
+                "Recipe_ID": 122128,
+                "Recipe_Name": "ESS OR - Eggplant, zucchini and capsicums",
+                "Unit_Cost": 0.43
+            }
+        ],
+        "total_unit_cost": 1.9
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Side Vegetables",
+        "Date": "12-01-2025",
+        "Day": "Friday",
+        "Recipes": [
+            {
+                "Recipe_ID": 153776,
+                "Recipe_Name": "ESS OR - Mediterranean Veg",
+                "Unit_Cost": 0.43
+            },
+            {
+                "Recipe_ID": 210896,
+                "Recipe_Name": "ESS OR - Saute Green Beans with spinach and Asparagus",
+                "Unit_Cost": 0.57
+            }
+        ],
+        "total_unit_cost": 1.01
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Side Vegetables",
+        "Date": "13-01-2025",
+        "Day": "Saturday",
+        "Recipes": [
+            {
+                "Recipe_ID": 167216,
+                "Recipe_Name": "ESS OR - Braised Cabbage and leeks",
+                "Unit_Cost": 1.47
+            },
+            {
+                "Recipe_ID": 122128,
+                "Recipe_Name": "ESS OR - Eggplant, zucchini and capsicums",
+                "Unit_Cost": 0.43
+            }
+        ],
+        "total_unit_cost": 1.9
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Side Vegetables",
+        "Date": "14-01-2025",
+        "Day": "Sunday",
+        "Recipes": [
+            {
+                "Recipe_ID": 153776,
+                "Recipe_Name": "ESS OR - Mediterranean Veg",
+                "Unit_Cost": 0.43
+            },
+            {
+                "Recipe_ID": 210896,
+                "Recipe_Name": "ESS OR - Saute Green Beans with spinach and Asparagus",
+                "Unit_Cost": 0.57
+            }
+        ],
+        "total_unit_cost": 1.01
+    }
+]

@@ -1,0 +1,198 @@
+[
+    {
+        "Meal_period": "Dinner",
+        "Section": "Vegetarian",
+        "Date": "01-01-2025",
+        "Day": "Monday",
+        "Recipes": [
+            {
+                "Recipe_ID": 1186112,
+                "Recipe_Name": "BHP WAIO Chipotle BBQ Not Chicken",
+                "Unit_Cost": 0.26
+            }
+        ],
+        "total_unit_cost": 0.26
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Vegetarian",
+        "Date": "02-01-2025",
+        "Day": "Tuesday",
+        "Recipes": [
+            {
+                "Recipe_ID": 1187008,
+                "Recipe_Name": "BHP WAIO Plant Forward Schnitzel (vegan)",
+                "Unit_Cost": 0.22
+            }
+        ],
+        "total_unit_cost": 0.22
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Vegetarian",
+        "Date": "03-01-2025",
+        "Day": "Wednesday",
+        "Recipes": [
+            {
+                "Recipe_ID": 200976,
+                "Recipe_Name": "ESS OR - Kung Pao Cauliflower",
+                "Unit_Cost": 0.47
+            }
+        ],
+        "total_unit_cost": 0.47
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Vegetarian",
+        "Date": "04-01-2025",
+        "Day": "Thursday",
+        "Recipes": [
+            {
+                "Recipe_ID": 170096,
+                "Recipe_Name": "ESS OR - Chimichurri Mushrooms and White Bean Medley On Toast",
+                "Unit_Cost": 0.16
+            }
+        ],
+        "total_unit_cost": 0.16
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Vegetarian",
+        "Date": "05-01-2025",
+        "Day": "Friday",
+        "Recipes": [
+            {
+                "Recipe_ID": 202320,
+                "Recipe_Name": "ESS OR - Fried Tofu  | Coriander Omelette  | Miso Roasted Mushrooms - Ramen Station Vego",
+                "Unit_Cost": 0.33
+            }
+        ],
+        "total_unit_cost": 0.33
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Vegetarian",
+        "Date": "06-01-2025",
+        "Day": "Saturday",
+        "Recipes": [
+            {
+                "Recipe_ID": 1186112,
+                "Recipe_Name": "BHP WAIO Chipotle BBQ Not Chicken",
+                "Unit_Cost": 0.26
+            }
+        ],
+        "total_unit_cost": 0.26
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Vegetarian",
+        "Date": "07-01-2025",
+        "Day": "Sunday",
+        "Recipes": [
+            {
+                "Recipe_ID": 1187008,
+                "Recipe_Name": "BHP WAIO Plant Forward Schnitzel (vegan)",
+                "Unit_Cost": 0.22
+            }
+        ],
+        "total_unit_cost": 0.22
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Vegetarian",
+        "Date": "08-01-2025",
+        "Day": "Monday",
+        "Recipes": [
+            {
+                "Recipe_ID": 200976,
+                "Recipe_Name": "ESS OR - Kung Pao Cauliflower",
+                "Unit_Cost": 0.47
+            }
+        ],
+        "total_unit_cost": 0.47
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Vegetarian",
+        "Date": "09-01-2025",
+        "Day": "Tuesday",
+        "Recipes": [
+            {
+                "Recipe_ID": 170096,
+                "Recipe_Name": "ESS OR - Chimichurri Mushrooms and White Bean Medley On Toast",
+                "Unit_Cost": 0.16
+            }
+        ],
+        "total_unit_cost": 0.16
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Vegetarian",
+        "Date": "10-01-2025",
+        "Day": "Wednesday",
+        "Recipes": [
+            {
+                "Recipe_ID": 202320,
+                "Recipe_Name": "ESS OR - Fried Tofu  | Coriander Omelette  | Miso Roasted Mushrooms - Ramen Station Vego",
+                "Unit_Cost": 0.33
+            }
+        ],
+        "total_unit_cost": 0.33
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Vegetarian",
+        "Date": "11-01-2025",
+        "Day": "Thursday",
+        "Recipes": [
+            {
+                "Recipe_ID": 1186112,
+                "Recipe_Name": "BHP WAIO Chipotle BBQ Not Chicken",
+                "Unit_Cost": 0.26
+            }
+        ],
+        "total_unit_cost": 0.26
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Vegetarian",
+        "Date": "12-01-2025",
+        "Day": "Friday",
+        "Recipes": [
+            {
+                "Recipe_ID": 1187008,
+                "Recipe_Name": "BHP WAIO Plant Forward Schnitzel (vegan)",
+                "Unit_Cost": 0.22
+            }
+        ],
+        "total_unit_cost": 0.22
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Vegetarian",
+        "Date": "13-01-2025",
+        "Day": "Saturday",
+        "Recipes": [
+            {
+                "Recipe_ID": 200976,
+                "Recipe_Name": "ESS OR - Kung Pao Cauliflower",
+                "Unit_Cost": 0.47
+            }
+        ],
+        "total_unit_cost": 0.47
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Vegetarian",
+        "Date": "14-01-2025",
+        "Day": "Sunday",
+        "Recipes": [
+            {
+                "Recipe_ID": 170096,
+                "Recipe_Name": "ESS OR - Chimichurri Mushrooms and White Bean Medley On Toast",
+                "Unit_Cost": 0.16
+            }
+        ],
+        "total_unit_cost": 0.16
+    }
+]

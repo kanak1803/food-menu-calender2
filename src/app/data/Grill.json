@@ -1,0 +1,198 @@
+[
+  {
+    "Meal_period": "Dinner",
+    "Section": "Grills",
+    "Date": "01-01-2025",
+    "Day": "Monday",
+    "Recipes": [
+      {
+        "Recipe_ID": 199201,
+        "Recipe_Name": "Mediterranean Grilled Lamb Chops",
+        "Unit_Cost": 5.6
+      }
+    ],
+    "total_unit_cost": 5.6
+  },
+  {
+    "Meal_period": "Dinner",
+    "Section": "Grills",
+    "Date": "02-01-2025",
+    "Day": "Tuesday",
+    "Recipes": [
+      {
+        "Recipe_ID": 199180,
+        "Recipe_Name": "Pork Chops with Herb Rub",
+        "Unit_Cost": 4.5
+      }
+    ],
+    "total_unit_cost": 4.5
+  },
+  {
+    "Meal_period": "Dinner",
+    "Section": "Grills",
+    "Date": "03-01-2025",
+    "Day": "Wednesday",
+    "Recipes": [
+      {
+        "Recipe_ID": 199181,
+        "Recipe_Name": "Lamb Loin Chops with Rosemary",
+        "Unit_Cost": 5.3
+      }
+    ],
+    "total_unit_cost": 5.3
+  },
+  {
+    "Meal_period": "Dinner",
+    "Section": "Grills",
+    "Date": "04-01-2025",
+    "Day": "Thursday",
+    "Recipes": [
+      {
+        "Recipe_ID": 199201,
+        "Recipe_Name": "Mediterranean Grilled Lamb Chops",
+        "Unit_Cost": 5.6
+      }
+    ],
+    "total_unit_cost": 5.6
+  },
+  {
+    "Meal_period": "Dinner",
+    "Section": "Grills",
+    "Date": "05-01-2025",
+    "Day": "Friday",
+    "Recipes": [
+      {
+        "Recipe_ID": 199182,
+        "Recipe_Name": "Battered Fish Fillet (Friday Special)",
+        "Unit_Cost": 3.75
+      }
+    ],
+    "total_unit_cost": 3.75
+  },
+  {
+    "Meal_period": "Dinner",
+    "Section": "Grills",
+    "Date": "06-01-2025",
+    "Day": "Saturday",
+    "Recipes": [
+      {
+        "Recipe_ID": 199180,
+        "Recipe_Name": "Pork Chops with Herb Rub",
+        "Unit_Cost": 4.5
+      }
+    ],
+    "total_unit_cost": 4.5
+  },
+  {
+    "Meal_period": "Dinner",
+    "Section": "Grills",
+    "Date": "07-01-2025",
+    "Day": "Sunday",
+    "Recipes": [
+      {
+        "Recipe_ID": 199181,
+        "Recipe_Name": "Lamb Loin Chops with Rosemary",
+        "Unit_Cost": 5.3
+      }
+    ],
+    "total_unit_cost": 5.3
+  },
+  {
+    "Meal_period": "Dinner",
+    "Section": "Grills",
+    "Date": "08-01-2025",
+    "Day": "Monday",
+    "Recipes": [
+      {
+        "Recipe_ID": 199201,
+        "Recipe_Name": "Mediterranean Grilled Lamb Chops",
+        "Unit_Cost": 5.6
+      }
+    ],
+    "total_unit_cost": 5.6
+  },
+  {
+    "Meal_period": "Dinner",
+    "Section": "Grills",
+    "Date": "09-01-2025",
+    "Day": "Tuesday",
+    "Recipes": [
+      {
+        "Recipe_ID": 199180,
+        "Recipe_Name": "Pork Chops with Herb Rub",
+        "Unit_Cost": 4.5
+      }
+    ],
+    "total_unit_cost": 4.5
+  },
+  {
+    "Meal_period": "Dinner",
+    "Section": "Grills",
+    "Date": "10-01-2025",
+    "Day": "Wednesday",
+    "Recipes": [
+      {
+        "Recipe_ID": 199181,
+        "Recipe_Name": "Lamb Loin Chops with Rosemary",
+        "Unit_Cost": 5.3
+      }
+    ],
+    "total_unit_cost": 5.3
+  },
+  {
+    "Meal_period": "Dinner",
+    "Section": "Grills",
+    "Date": "11-01-2025",
+    "Day": "Thursday",
+    "Recipes": [
+      {
+        "Recipe_ID": 199201,
+        "Recipe_Name": "Mediterranean Grilled Lamb Chops",
+        "Unit_Cost": 5.6
+      }
+    ],
+    "total_unit_cost": 5.6
+  },
+  {
+    "Meal_period": "Dinner",
+    "Section": "Grills",
+    "Date": "12-01-2025",
+    "Day": "Friday",
+    "Recipes": [
+      {
+        "Recipe_ID": 199182,
+        "Recipe_Name": "Battered Fish Fillet (Friday Special)",
+        "Unit_Cost": 3.75
+      }
+    ],
+    "total_unit_cost": 3.75
+  },
+  {
+    "Meal_period": "Dinner",
+    "Section": "Grills",
+    "Date": "13-01-2025",
+    "Day": "Saturday",
+    "Recipes": [
+      {
+        "Recipe_ID": 199180,
+        "Recipe_Name": "Pork Chops with Herb Rub",
+        "Unit_Cost": 4.5
+      }
+    ],
+    "total_unit_cost": 4.5
+  },
+  {
+    "Meal_period": "Dinner",
+    "Section": "Grills",
+    "Date": "14-01-2025",
+    "Day": "Sunday",
+    "Recipes": [
+      {
+        "Recipe_ID": 199181,
+        "Recipe_Name": "Lamb Loin Chops with Rosemary",
+        "Unit_Cost": 5.3
+      }
+    ],
+    "total_unit_cost": 5.3
+  }
+]

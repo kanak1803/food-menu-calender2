@@ -1,0 +1,268 @@
+[
+    {
+        "Meal_period": "Dinner",
+        "Section": "Soups",
+        "Date": "01-01-2025",
+        "Day": "Monday",
+        "Recipes": [
+            {
+                "Recipe_ID": 128032,
+                "Recipe_Name": "ESS OR - Minestrone and Quinoa Soup",
+                "Unit_Cost": 0.63
+            },
+            {
+                "Recipe_ID": 165888,
+                "Recipe_Name": "ESS OR - Carrot and Ginger Soup",
+                "Unit_Cost": 1.7
+            }
+        ],
+        "total_unit_cost": 2.33
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Soups",
+        "Date": "02-01-2025",
+        "Day": "Tuesday",
+        "Recipes": [
+            {
+                "Recipe_ID": 134464,
+                "Recipe_Name": "ESS OR - Cream of tomato soup with herb crutons",
+                "Unit_Cost": 0.71
+            },
+            {
+                "Recipe_ID": 120160,
+                "Recipe_Name": "ESS OR - Vegetable Tom Yum Soup",
+                "Unit_Cost": 0.42
+            }
+        ],
+        "total_unit_cost": 1.12
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Soups",
+        "Date": "03-01-2025",
+        "Day": "Wednesday",
+        "Recipes": [
+            {
+                "Recipe_ID": 98288,
+                "Recipe_Name": "ESS OR - Roast Pumpkin Soup",
+                "Unit_Cost": 2.69
+            },
+            {
+                "Recipe_ID": 1081456,
+                "Recipe_Name": "ESS OR - Asian Style Corn and Noodle Soup with Vermicelli Noodles BHP",
+                "Unit_Cost": 1.21
+            }
+        ],
+        "total_unit_cost": 3.9
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Soups",
+        "Date": "04-01-2025",
+        "Day": "Thursday",
+        "Recipes": [
+            {
+                "Recipe_ID": 189360,
+                "Recipe_Name": "ESS OR - Miso and tofu soup",
+                "Unit_Cost": 1.33
+            },
+            {
+                "Recipe_ID": 165888,
+                "Recipe_Name": "ESS OR - Carrot and Ginger Soup",
+                "Unit_Cost": 1.7
+            }
+        ],
+        "total_unit_cost": 3.03
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Soups",
+        "Date": "05-01-2025",
+        "Day": "Friday",
+        "Recipes": [
+            {
+                "Recipe_ID": 134464,
+                "Recipe_Name": "ESS OR - Cream of tomato soup with herb crutons",
+                "Unit_Cost": 0.71
+            },
+            {
+                "Recipe_ID": 128032,
+                "Recipe_Name": "ESS OR - Minestrone and Quinoa Soup",
+                "Unit_Cost": 0.63
+            }
+        ],
+        "total_unit_cost": 1.34
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Soups",
+        "Date": "06-01-2025",
+        "Day": "Saturday",
+        "Recipes": [
+            {
+                "Recipe_ID": 120160,
+                "Recipe_Name": "ESS OR - Vegetable Tom Yum Soup",
+                "Unit_Cost": 0.42
+            },
+            {
+                "Recipe_ID": 1081456,
+                "Recipe_Name": "ESS OR - Asian Style Corn and Noodle Soup with Vermicelli Noodles BHP",
+                "Unit_Cost": 1.21
+            }
+        ],
+        "total_unit_cost": 1.63
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Soups",
+        "Date": "07-01-2025",
+        "Day": "Sunday",
+        "Recipes": [
+            {
+                "Recipe_ID": 189360,
+                "Recipe_Name": "ESS OR - Miso and tofu soup",
+                "Unit_Cost": 1.33
+            },
+            {
+                "Recipe_ID": 98288,
+                "Recipe_Name": "ESS OR - Roast Pumpkin Soup",
+                "Unit_Cost": 2.69
+            }
+        ],
+        "total_unit_cost": 4.02
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Soups",
+        "Date": "08-01-2025",
+        "Day": "Monday",
+        "Recipes": [
+            {
+                "Recipe_ID": 128032,
+                "Recipe_Name": "ESS OR - Minestrone and Quinoa Soup",
+                "Unit_Cost": 0.63
+            },
+            {
+                "Recipe_ID": 165888,
+                "Recipe_Name": "ESS OR - Carrot and Ginger Soup",
+                "Unit_Cost": 1.7
+            }
+        ],
+        "total_unit_cost": 2.33
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Soups",
+        "Date": "09-01-2025",
+        "Day": "Tuesday",
+        "Recipes": [
+            {
+                "Recipe_ID": 134464,
+                "Recipe_Name": "ESS OR - Cream of tomato soup with herb crutons",
+                "Unit_Cost": 0.71
+            },
+            {
+                "Recipe_ID": 120160,
+                "Recipe_Name": "ESS OR - Vegetable Tom Yum Soup",
+                "Unit_Cost": 0.42
+            }
+        ],
+        "total_unit_cost": 1.12
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Soups",
+        "Date": "10-01-2025",
+        "Day": "Wednesday",
+        "Recipes": [
+            {
+                "Recipe_ID": 98288,
+                "Recipe_Name": "ESS OR - Roast Pumpkin Soup",
+                "Unit_Cost": 2.69
+            },
+            {
+                "Recipe_ID": 1081456,
+                "Recipe_Name": "ESS OR - Asian Style Corn and Noodle Soup with Vermicelli Noodles BHP",
+                "Unit_Cost": 1.21
+            }
+        ],
+        "total_unit_cost": 3.9
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Soups",
+        "Date": "11-01-2025",
+        "Day": "Thursday",
+        "Recipes": [
+            {
+                "Recipe_ID": 189360,
+                "Recipe_Name": "ESS OR - Miso and tofu soup",
+                "Unit_Cost": 1.33
+            },
+            {
+                "Recipe_ID": 165888,
+                "Recipe_Name": "ESS OR - Carrot and Ginger Soup",
+                "Unit_Cost": 1.7
+            }
+        ],
+        "total_unit_cost": 3.03
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Soups",
+        "Date": "12-01-2025",
+        "Day": "Friday",
+        "Recipes": [
+            {
+                "Recipe_ID": 134464,
+                "Recipe_Name": "ESS OR - Cream of tomato soup with herb crutons",
+                "Unit_Cost": 0.71
+            },
+            {
+                "Recipe_ID": 128032,
+                "Recipe_Name": "ESS OR - Minestrone and Quinoa Soup",
+                "Unit_Cost": 0.63
+            }
+        ],
+        "total_unit_cost": 1.34
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Soups",
+        "Date": "13-01-2025",
+        "Day": "Saturday",
+        "Recipes": [
+            {
+                "Recipe_ID": 120160,
+                "Recipe_Name": "ESS OR - Vegetable Tom Yum Soup",
+                "Unit_Cost": 0.42
+            },
+            {
+                "Recipe_ID": 1081456,
+                "Recipe_Name": "ESS OR - Asian Style Corn and Noodle Soup with Vermicelli Noodles BHP",
+                "Unit_Cost": 1.21
+            }
+        ],
+        "total_unit_cost": 1.63
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Soups",
+        "Date": "14-01-2025",
+        "Day": "Sunday",
+        "Recipes": [
+            {
+                "Recipe_ID": 189360,
+                "Recipe_Name": "ESS OR - Miso and tofu soup",
+                "Unit_Cost": 1.33
+            },
+            {
+                "Recipe_ID": 98288,
+                "Recipe_Name": "ESS OR - Roast Pumpkin Soup",
+                "Unit_Cost": 2.69
+            }
+        ],
+        "total_unit_cost": 4.02
+    }
+]

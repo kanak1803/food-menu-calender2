@@ -1,0 +1,198 @@
+[
+    {
+        "Meal_period": "Dinner",
+        "Section": "Pasta, Noodle, Rice",
+        "Date": "01-01-2025",
+        "Day": "Monday",
+        "Recipes": [
+            {
+                "Recipe_ID": 199204,
+                "Recipe_Name": "Classic Beef Lasagne",
+                "Unit_Cost": 4.25
+            }
+        ],
+        "total_unit_cost": 4.25
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Pasta, Noodle, Rice",
+        "Date": "02-01-2025",
+        "Day": "Tuesday",
+        "Recipes": [
+            {
+                "Recipe_ID": 199206,
+                "Recipe_Name": "Singapore Noodles",
+                "Unit_Cost": 2.85
+            }
+        ],
+        "total_unit_cost": 2.85
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Pasta, Noodle, Rice",
+        "Date": "03-01-2025",
+        "Day": "Wednesday",
+        "Recipes": [
+            {
+                "Recipe_ID": 199208,
+                "Recipe_Name": "Vegetable Fried Rice",
+                "Unit_Cost": 2.5
+            }
+        ],
+        "total_unit_cost": 2.5
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Pasta, Noodle, Rice",
+        "Date": "04-01-2025",
+        "Day": "Thursday",
+        "Recipes": [
+            {
+                "Recipe_ID": 199209,
+                "Recipe_Name": "Prawn Risotto",
+                "Unit_Cost": 3.75
+            }
+        ],
+        "total_unit_cost": 3.75
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Pasta, Noodle, Rice",
+        "Date": "05-01-2025",
+        "Day": "Friday",
+        "Recipes": [
+            {
+                "Recipe_ID": 199211,
+                "Recipe_Name": "Beef Stroganoff with Egg Noodles",
+                "Unit_Cost": 3.3
+            }
+        ],
+        "total_unit_cost": 3.3
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Pasta, Noodle, Rice",
+        "Date": "06-01-2025",
+        "Day": "Saturday",
+        "Recipes": [
+            {
+                "Recipe_ID": 199213,
+                "Recipe_Name": "Mushroom Risotto",
+                "Unit_Cost": 3.75
+            }
+        ],
+        "total_unit_cost": 3.75
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Pasta, Noodle, Rice",
+        "Date": "07-01-2025",
+        "Day": "Sunday",
+        "Recipes": [
+            {
+                "Recipe_ID": 199215,
+                "Recipe_Name": "Shrimp Pad See Ew",
+                "Unit_Cost": 3.75
+            }
+        ],
+        "total_unit_cost": 3.75
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Pasta, Noodle, Rice",
+        "Date": "08-01-2025",
+        "Day": "Monday",
+        "Recipes": [
+            {
+                "Recipe_ID": 199217,
+                "Recipe_Name": "Teriyaki Chicken Stir-Fry with Noodles",
+                "Unit_Cost": 3.25
+            }
+        ],
+        "total_unit_cost": 3.25
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Pasta, Noodle, Rice",
+        "Date": "09-01-2025",
+        "Day": "Tuesday",
+        "Recipes": [
+            {
+                "Recipe_ID": 199222,
+                "Recipe_Name": "Pork Fried Rice",
+                "Unit_Cost": 2.5
+            }
+        ],
+        "total_unit_cost": 2.5
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Pasta, Noodle, Rice",
+        "Date": "10-01-2025",
+        "Day": "Wednesday",
+        "Recipes": [
+            {
+                "Recipe_ID": 199223,
+                "Recipe_Name": "Classic Italian Gnocchi",
+                "Unit_Cost": 4.5
+            }
+        ],
+        "total_unit_cost": 4.5
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Pasta, Noodle, Rice",
+        "Date": "11-01-2025",
+        "Day": "Thursday",
+        "Recipes": [
+            {
+                "Recipe_ID": 199225,
+                "Recipe_Name": "Vegetable Stir-Fried Udon",
+                "Unit_Cost": 3.25
+            }
+        ],
+        "total_unit_cost": 3.25
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Pasta, Noodle, Rice",
+        "Date": "12-01-2025",
+        "Day": "Friday",
+        "Recipes": [
+            {
+                "Recipe_ID": 199227,
+                "Recipe_Name": "Beef and Tomato Ragu with Pappardelle",
+                "Unit_Cost": 4.0
+            }
+        ],
+        "total_unit_cost": 4.0
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Pasta, Noodle, Rice",
+        "Date": "13-01-2025",
+        "Day": "Saturday",
+        "Recipes": [
+            {
+                "Recipe_ID": 199204,
+                "Recipe_Name": "Classic Beef Lasagne",
+                "Unit_Cost": 4.25
+            }
+        ],
+        "total_unit_cost": 4.25
+    },
+    {
+        "Meal_period": "Dinner",
+        "Section": "Pasta, Noodle, Rice",
+        "Date": "14-01-2025",
+        "Day": "Sunday",
+        "Recipes": [
+            {
+                "Recipe_ID": 199206,
+                "Recipe_Name": "Singapore Noodles",
+                "Unit_Cost": 2.85
+            }
+        ],
+        "total_unit_cost": 2.85
+    }
+]

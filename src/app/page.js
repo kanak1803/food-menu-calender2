@@ -3,7 +3,8 @@ import Calendar from "./components/CalenderMenu";
 import FetchRecipes from "./components/FetchRecipes";
 import FoodMenuCalendar from "./components/FoodMenuCalender";
 import CalenderMenu from "./components/CalenderMenu";
-import FoodCalendar from "./components/FoodTable";
+import FoodCalendar from "./components/FoodCalendar";
+import FoodCalendarWithAPI from "./components/FoodCalendarWithAPI";
 
 
 export default function Home() {
@@ -13,11 +14,9 @@ export default function Home() {
         <title>Food Menu Calendar</title>
       </Head>
       <main>
-        {/* <FetchRecipes /> */}
-        {/* <JuicePage/> */}
-        {/* <CalenderMenu /> */}
+        
         <FoodCalendar/>
-        {/* <FoodMenuCalendar /> */}
+        {/* <FoodCalendarWithAPI/> */}
       </main>
     </div>
   );
