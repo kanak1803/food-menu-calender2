@@ -101,7 +101,7 @@ const FoodCalendar = () => {
                 // Find the corresponding day for this date in the data
                 const matchedItem = juiceData.find(
                   (item) => item.Date === date
-                ); // You can use any dataset
+                ); 
                 const dayOfWeek = matchedItem ? matchedItem.Day : ""; // Get the day from the matched data
 
                 return (
@@ -109,7 +109,7 @@ const FoodCalendar = () => {
                     key={index}
                     className="border border-gray-300 p-4 text-center font-semibold text-lg"
                   >
-                    {dayOfWeek} <br /> {date}
+                    {dayOfWeek}, {date}
                   </th>
                 );
               })}
