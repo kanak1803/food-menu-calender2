@@ -42,7 +42,7 @@ const FoodCalendar = () => {
 
   const renderCategoryRows = (categoryName, categoryData, mealCost) => (
     <tr>
-      <td className="border border-gray-300 p-4 text-center text-white font-semibold bg-[#498b83] text-lg">
+      <td className="border border-gray-300 p-4 text-center text-white font-semibold bg-[#1f7167] text-lg">
         {categoryName}
       </td>
       <td className="border border-gray-300 p-4 text-center bg-teal-100 text-lg">
