@@ -15,14 +15,9 @@
                     "Recipe_ID": 123152,
                     "Recipe_Name": "ESS OR - Cold display Rice/Pasta/Noodle/Grain - BHP Crib",
                     "Unit_Cost": 1.76
-                },
-                {
-                    "Recipe_ID": 1075136,
-                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
-                    "Unit_Cost": 1.16
                 }
             ],
-            "total_unit_cost": 4.36
+            "total_unit_cost": 3.2
         },
         {
             "Meal_period": "Crib",
@@ -31,22 +26,17 @@
             "Day": "Tuesday",
             "Recipes": [
                 {
-                    "Recipe_ID": 185696,
-                    "Recipe_Name": "ESS OR - 3 * Salad Leaves - BHP Crib",
-                    "Unit_Cost": 1.44
-                },
-                {
                     "Recipe_ID": 123152,
                     "Recipe_Name": "ESS OR - Cold display Rice/Pasta/Noodle/Grain - BHP Crib",
                     "Unit_Cost": 1.76
                 },
                 {
-                    "Recipe_ID": 1075136,
-                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
-                    "Unit_Cost": 1.16
+                    "Recipe_ID": 199380,
+                    "Recipe_Name": "Waldorf Salad",
+                    "Unit_Cost": 4.0
                 }
             ],
-            "total_unit_cost": 4.36
+            "total_unit_cost": 5.76
         },
         {
             "Meal_period": "Crib",
@@ -60,17 +50,12 @@
                     "Unit_Cost": 1.44
                 },
                 {
-                    "Recipe_ID": 123152,
-                    "Recipe_Name": "ESS OR - Cold display Rice/Pasta/Noodle/Grain - BHP Crib",
-                    "Unit_Cost": 1.76
-                },
-                {
-                    "Recipe_ID": 1075136,
-                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
-                    "Unit_Cost": 1.16
+                    "Recipe_ID": 199380,
+                    "Recipe_Name": "Waldorf Salad",
+                    "Unit_Cost": 4.0
                 }
             ],
-            "total_unit_cost": 4.36
+            "total_unit_cost": 5.44
         },
         {
             "Meal_period": "Crib",
@@ -87,14 +72,9 @@
                     "Recipe_ID": 123152,
                     "Recipe_Name": "ESS OR - Cold display Rice/Pasta/Noodle/Grain - BHP Crib",
                     "Unit_Cost": 1.76
-                },
-                {
-                    "Recipe_ID": 1075136,
-                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
-                    "Unit_Cost": 1.16
                 }
             ],
-            "total_unit_cost": 4.36
+            "total_unit_cost": 3.2
         },
         {
             "Meal_period": "Crib",
@@ -103,22 +83,17 @@
             "Day": "Friday",
             "Recipes": [
                 {
-                    "Recipe_ID": 185696,
-                    "Recipe_Name": "ESS OR - 3 * Salad Leaves - BHP Crib",
-                    "Unit_Cost": 1.44
-                },
-                {
                     "Recipe_ID": 123152,
                     "Recipe_Name": "ESS OR - Cold display Rice/Pasta/Noodle/Grain - BHP Crib",
                     "Unit_Cost": 1.76
                 },
                 {
-                    "Recipe_ID": 1075136,
-                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
-                    "Unit_Cost": 1.16
+                    "Recipe_ID": 199380,
+                    "Recipe_Name": "Waldorf Salad",
+                    "Unit_Cost": 4.0
                 }
             ],
-            "total_unit_cost": 4.36
+            "total_unit_cost": 5.76
         },
         {
             "Meal_period": "Crib",
@@ -132,17 +107,12 @@
                     "Unit_Cost": 1.44
                 },
                 {
-                    "Recipe_ID": 123152,
-                    "Recipe_Name": "ESS OR - Cold display Rice/Pasta/Noodle/Grain - BHP Crib",
-                    "Unit_Cost": 1.76
-                },
-                {
-                    "Recipe_ID": 1075136,
-                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
-                    "Unit_Cost": 1.16
+                    "Recipe_ID": 199380,
+                    "Recipe_Name": "Waldorf Salad",
+                    "Unit_Cost": 4.0
                 }
             ],
-            "total_unit_cost": 4.36
+            "total_unit_cost": 5.44
         },
         {
             "Meal_period": "Crib",
@@ -159,14 +129,9 @@
                     "Recipe_ID": 123152,
                     "Recipe_Name": "ESS OR - Cold display Rice/Pasta/Noodle/Grain - BHP Crib",
                     "Unit_Cost": 1.76
-                },
-                {
-                    "Recipe_ID": 1075136,
-                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
-                    "Unit_Cost": 1.16
                 }
             ],
-            "total_unit_cost": 4.36
+            "total_unit_cost": 3.2
         },
         {
             "Meal_period": "Crib",
@@ -175,22 +140,17 @@
             "Day": "Monday",
             "Recipes": [
                 {
-                    "Recipe_ID": 185696,
-                    "Recipe_Name": "ESS OR - 3 * Salad Leaves - BHP Crib",
-                    "Unit_Cost": 1.44
-                },
-                {
                     "Recipe_ID": 123152,
                     "Recipe_Name": "ESS OR - Cold display Rice/Pasta/Noodle/Grain - BHP Crib",
                     "Unit_Cost": 1.76
                 },
                 {
-                    "Recipe_ID": 1075136,
-                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
-                    "Unit_Cost": 1.16
+                    "Recipe_ID": 199380,
+                    "Recipe_Name": "Waldorf Salad",
+                    "Unit_Cost": 4.0
                 }
             ],
-            "total_unit_cost": 4.36
+            "total_unit_cost": 5.76
         },
         {
             "Meal_period": "Crib",
@@ -204,17 +164,12 @@
                     "Unit_Cost": 1.44
                 },
                 {
-                    "Recipe_ID": 123152,
-                    "Recipe_Name": "ESS OR - Cold display Rice/Pasta/Noodle/Grain - BHP Crib",
-                    "Unit_Cost": 1.76
-                },
-                {
-                    "Recipe_ID": 1075136,
-                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
-                    "Unit_Cost": 1.16
+                    "Recipe_ID": 199380,
+                    "Recipe_Name": "Waldorf Salad",
+                    "Unit_Cost": 4.0
                 }
             ],
-            "total_unit_cost": 4.36
+            "total_unit_cost": 5.44
         },
         {
             "Meal_period": "Crib",
@@ -231,14 +186,9 @@
                     "Recipe_ID": 123152,
                     "Recipe_Name": "ESS OR - Cold display Rice/Pasta/Noodle/Grain - BHP Crib",
                     "Unit_Cost": 1.76
-                },
-                {
-                    "Recipe_ID": 1075136,
-                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
-                    "Unit_Cost": 1.16
                 }
             ],
-            "total_unit_cost": 4.36
+            "total_unit_cost": 3.2
         },
         {
             "Meal_period": "Crib",
@@ -247,22 +197,17 @@
             "Day": "Thursday",
             "Recipes": [
                 {
-                    "Recipe_ID": 185696,
-                    "Recipe_Name": "ESS OR - 3 * Salad Leaves - BHP Crib",
-                    "Unit_Cost": 1.44
-                },
-                {
                     "Recipe_ID": 123152,
                     "Recipe_Name": "ESS OR - Cold display Rice/Pasta/Noodle/Grain - BHP Crib",
                     "Unit_Cost": 1.76
                 },
                 {
-                    "Recipe_ID": 1075136,
-                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
-                    "Unit_Cost": 1.16
+                    "Recipe_ID": 199380,
+                    "Recipe_Name": "Waldorf Salad",
+                    "Unit_Cost": 4.0
                 }
             ],
-            "total_unit_cost": 4.36
+            "total_unit_cost": 5.76
         },
         {
             "Meal_period": "Crib",
@@ -276,17 +221,12 @@
                     "Unit_Cost": 1.44
                 },
                 {
-                    "Recipe_ID": 123152,
-                    "Recipe_Name": "ESS OR - Cold display Rice/Pasta/Noodle/Grain - BHP Crib",
-                    "Unit_Cost": 1.76
-                },
-                {
-                    "Recipe_ID": 1075136,
-                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
-                    "Unit_Cost": 1.16
+                    "Recipe_ID": 199380,
+                    "Recipe_Name": "Waldorf Salad",
+                    "Unit_Cost": 4.0
                 }
             ],
-            "total_unit_cost": 4.36
+            "total_unit_cost": 5.44
         },
         {
             "Meal_period": "Crib",
@@ -303,14 +243,9 @@
                     "Recipe_ID": 123152,
                     "Recipe_Name": "ESS OR - Cold display Rice/Pasta/Noodle/Grain - BHP Crib",
                     "Unit_Cost": 1.76
-                },
-                {
-                    "Recipe_ID": 1075136,
-                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
-                    "Unit_Cost": 1.16
                 }
             ],
-            "total_unit_cost": 4.36
+            "total_unit_cost": 3.2
         },
         {
             "Meal_period": "Crib",
@@ -319,22 +254,17 @@
             "Day": "Sunday",
             "Recipes": [
                 {
-                    "Recipe_ID": 185696,
-                    "Recipe_Name": "ESS OR - 3 * Salad Leaves - BHP Crib",
-                    "Unit_Cost": 1.44
-                },
-                {
                     "Recipe_ID": 123152,
                     "Recipe_Name": "ESS OR - Cold display Rice/Pasta/Noodle/Grain - BHP Crib",
                     "Unit_Cost": 1.76
                 },
                 {
-                    "Recipe_ID": 1075136,
-                    "Recipe_Name": "ESS OR -  Salad Ingredients Core Range - MYO Salad Bar BHP",
-                    "Unit_Cost": 1.16
+                    "Recipe_ID": 199380,
+                    "Recipe_Name": "Waldorf Salad",
+                    "Unit_Cost": 4.0
                 }
             ],
-            "total_unit_cost": 4.36
+            "total_unit_cost": 5.76
         }
     ],
     [

@@ -161,7 +161,7 @@ const FoodCalendar = () => {
             {renderCategoryRows("Grills", Grill, 5.6)}
             {renderCategoryRows("Pasta, Noodle, Rice", pastaData, 1.01)}
             {renderCategoryRows("Soup", soupData, 1.01)}
-            {renderCategoryRows("Vegetables", vegetablesData, 1.01)}
+            {renderCategoryRows("Vegetables", vegetablesData[0], 1.01)}
             {renderCategoryRows("Vegetarian", vegetarianData, 1.01)}
           </tbody>
         </table>

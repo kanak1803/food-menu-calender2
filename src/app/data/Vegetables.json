@@ -1,268 +1,678 @@
 [
-    {
-        "Meal_period": "Dinner",
-        "Section": "Side Vegetables",
-        "Date": "01-01-2025",
-        "Day": "Monday",
-        "Recipes": [
-            {
-                "Recipe_ID": 167216,
-                "Recipe_Name": "ESS OR - Braised Cabbage and leeks",
-                "Unit_Cost": 1.47
-            },
-            {
-                "Recipe_ID": 122128,
-                "Recipe_Name": "ESS OR - Eggplant, zucchini and capsicums",
-                "Unit_Cost": 0.43
-            }
-        ],
-        "total_unit_cost": 1.9
-    },
-    {
-        "Meal_period": "Dinner",
-        "Section": "Side Vegetables",
-        "Date": "02-01-2025",
-        "Day": "Tuesday",
-        "Recipes": [
-            {
-                "Recipe_ID": 153776,
-                "Recipe_Name": "ESS OR - Mediterranean Veg",
-                "Unit_Cost": 0.43
-            },
-            {
-                "Recipe_ID": 210896,
-                "Recipe_Name": "ESS OR - Saute Green Beans with spinach and Asparagus",
-                "Unit_Cost": 0.57
-            }
-        ],
-        "total_unit_cost": 1.01
-    },
-    {
-        "Meal_period": "Dinner",
-        "Section": "Side Vegetables",
-        "Date": "03-01-2025",
-        "Day": "Wednesday",
-        "Recipes": [
-            {
-                "Recipe_ID": 167216,
-                "Recipe_Name": "ESS OR - Braised Cabbage and leeks",
-                "Unit_Cost": 1.47
-            },
-            {
-                "Recipe_ID": 122128,
-                "Recipe_Name": "ESS OR - Eggplant, zucchini and capsicums",
-                "Unit_Cost": 0.43
-            }
-        ],
-        "total_unit_cost": 1.9
-    },
-    {
-        "Meal_period": "Dinner",
-        "Section": "Side Vegetables",
-        "Date": "04-01-2025",
-        "Day": "Thursday",
-        "Recipes": [
-            {
-                "Recipe_ID": 153776,
-                "Recipe_Name": "ESS OR - Mediterranean Veg",
-                "Unit_Cost": 0.43
-            },
-            {
-                "Recipe_ID": 210896,
-                "Recipe_Name": "ESS OR - Saute Green Beans with spinach and Asparagus",
-                "Unit_Cost": 0.57
-            }
-        ],
-        "total_unit_cost": 1.01
-    },
-    {
-        "Meal_period": "Dinner",
-        "Section": "Side Vegetables",
-        "Date": "05-01-2025",
-        "Day": "Friday",
-        "Recipes": [
-            {
-                "Recipe_ID": 167216,
-                "Recipe_Name": "ESS OR - Braised Cabbage and leeks",
-                "Unit_Cost": 1.47
-            },
-            {
-                "Recipe_ID": 122128,
-                "Recipe_Name": "ESS OR - Eggplant, zucchini and capsicums",
-                "Unit_Cost": 0.43
-            }
-        ],
-        "total_unit_cost": 1.9
-    },
-    {
-        "Meal_period": "Dinner",
-        "Section": "Side Vegetables",
-        "Date": "06-01-2025",
-        "Day": "Saturday",
-        "Recipes": [
-            {
-                "Recipe_ID": 153776,
-                "Recipe_Name": "ESS OR - Mediterranean Veg",
-                "Unit_Cost": 0.43
-            },
-            {
-                "Recipe_ID": 210896,
-                "Recipe_Name": "ESS OR - Saute Green Beans with spinach and Asparagus",
-                "Unit_Cost": 0.57
-            }
-        ],
-        "total_unit_cost": 1.01
-    },
-    {
-        "Meal_period": "Dinner",
-        "Section": "Side Vegetables",
-        "Date": "07-01-2025",
-        "Day": "Sunday",
-        "Recipes": [
-            {
-                "Recipe_ID": 167216,
-                "Recipe_Name": "ESS OR - Braised Cabbage and leeks",
-                "Unit_Cost": 1.47
-            },
-            {
-                "Recipe_ID": 122128,
-                "Recipe_Name": "ESS OR - Eggplant, zucchini and capsicums",
-                "Unit_Cost": 0.43
-            }
-        ],
-        "total_unit_cost": 1.9
-    },
-    {
-        "Meal_period": "Dinner",
-        "Section": "Side Vegetables",
-        "Date": "08-01-2025",
-        "Day": "Monday",
-        "Recipes": [
-            {
-                "Recipe_ID": 153776,
-                "Recipe_Name": "ESS OR - Mediterranean Veg",
-                "Unit_Cost": 0.43
-            },
-            {
-                "Recipe_ID": 210896,
-                "Recipe_Name": "ESS OR - Saute Green Beans with spinach and Asparagus",
-                "Unit_Cost": 0.57
-            }
-        ],
-        "total_unit_cost": 1.01
-    },
-    {
-        "Meal_period": "Dinner",
-        "Section": "Side Vegetables",
-        "Date": "09-01-2025",
-        "Day": "Tuesday",
-        "Recipes": [
-            {
-                "Recipe_ID": 167216,
-                "Recipe_Name": "ESS OR - Braised Cabbage and leeks",
-                "Unit_Cost": 1.47
-            },
-            {
-                "Recipe_ID": 122128,
-                "Recipe_Name": "ESS OR - Eggplant, zucchini and capsicums",
-                "Unit_Cost": 0.43
-            }
-        ],
-        "total_unit_cost": 1.9
-    },
-    {
-        "Meal_period": "Dinner",
-        "Section": "Side Vegetables",
-        "Date": "10-01-2025",
-        "Day": "Wednesday",
-        "Recipes": [
-            {
-                "Recipe_ID": 153776,
-                "Recipe_Name": "ESS OR - Mediterranean Veg",
-                "Unit_Cost": 0.43
-            },
-            {
-                "Recipe_ID": 210896,
-                "Recipe_Name": "ESS OR - Saute Green Beans with spinach and Asparagus",
-                "Unit_Cost": 0.57
-            }
-        ],
-        "total_unit_cost": 1.01
-    },
-    {
-        "Meal_period": "Dinner",
-        "Section": "Side Vegetables",
-        "Date": "11-01-2025",
-        "Day": "Thursday",
-        "Recipes": [
-            {
-                "Recipe_ID": 167216,
-                "Recipe_Name": "ESS OR - Braised Cabbage and leeks",
-                "Unit_Cost": 1.47
-            },
-            {
-                "Recipe_ID": 122128,
-                "Recipe_Name": "ESS OR - Eggplant, zucchini and capsicums",
-                "Unit_Cost": 0.43
-            }
-        ],
-        "total_unit_cost": 1.9
-    },
-    {
-        "Meal_period": "Dinner",
-        "Section": "Side Vegetables",
-        "Date": "12-01-2025",
-        "Day": "Friday",
-        "Recipes": [
-            {
-                "Recipe_ID": 153776,
-                "Recipe_Name": "ESS OR - Mediterranean Veg",
-                "Unit_Cost": 0.43
-            },
-            {
-                "Recipe_ID": 210896,
-                "Recipe_Name": "ESS OR - Saute Green Beans with spinach and Asparagus",
-                "Unit_Cost": 0.57
-            }
-        ],
-        "total_unit_cost": 1.01
-    },
-    {
-        "Meal_period": "Dinner",
-        "Section": "Side Vegetables",
-        "Date": "13-01-2025",
-        "Day": "Saturday",
-        "Recipes": [
-            {
-                "Recipe_ID": 167216,
-                "Recipe_Name": "ESS OR - Braised Cabbage and leeks",
-                "Unit_Cost": 1.47
-            },
-            {
-                "Recipe_ID": 122128,
-                "Recipe_Name": "ESS OR - Eggplant, zucchini and capsicums",
-                "Unit_Cost": 0.43
-            }
-        ],
-        "total_unit_cost": 1.9
-    },
-    {
-        "Meal_period": "Dinner",
-        "Section": "Side Vegetables",
-        "Date": "14-01-2025",
-        "Day": "Sunday",
-        "Recipes": [
-            {
-                "Recipe_ID": 153776,
-                "Recipe_Name": "ESS OR - Mediterranean Veg",
-                "Unit_Cost": 0.43
-            },
-            {
-                "Recipe_ID": 210896,
-                "Recipe_Name": "ESS OR - Saute Green Beans with spinach and Asparagus",
-                "Unit_Cost": 0.57
-            }
-        ],
-        "total_unit_cost": 1.01
-    }
+    [
+        {
+            "Meal_period": "Dinner",
+            "Section": "Vegetarian",
+            "Date": "01-01-2025",
+            "Day": "Monday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 199237,
+                    "Recipe_Name": "Tempeh Stir-Fry with Vegetables",
+                    "Unit_Cost": 4.0
+                },
+                {
+                    "Recipe_ID": 199243,
+                    "Recipe_Name": "Chickpea and Couscous Stuffed Peppers",
+                    "Unit_Cost": 2.4
+                }
+            ],
+            "total_unit_cost": 6.4
+        },
+        {
+            "Meal_period": "Dinner",
+            "Section": "Vegetarian",
+            "Date": "02-01-2025",
+            "Day": "Tuesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 170096,
+                    "Recipe_Name": "ESS OR - Chimichurri Mushrooms and White Bean Medley On Toast",
+                    "Unit_Cost": 0.16
+                },
+                {
+                    "Recipe_ID": 200976,
+                    "Recipe_Name": "ESS OR - Kung Pao Cauliflower",
+                    "Unit_Cost": 0.47
+                }
+            ],
+            "total_unit_cost": 0.63
+        },
+        {
+            "Meal_period": "Dinner",
+            "Section": "Vegetarian",
+            "Date": "03-01-2025",
+            "Day": "Wednesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 199229,
+                    "Recipe_Name": "Spinach and Feta Lentil Bake",
+                    "Unit_Cost": 3.0
+                },
+                {
+                    "Recipe_ID": 199237,
+                    "Recipe_Name": "Tempeh Stir-Fry with Vegetables",
+                    "Unit_Cost": 4.0
+                }
+            ],
+            "total_unit_cost": 7.0
+        },
+        {
+            "Meal_period": "Dinner",
+            "Section": "Vegetarian",
+            "Date": "04-01-2025",
+            "Day": "Thursday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 200976,
+                    "Recipe_Name": "ESS OR - Kung Pao Cauliflower",
+                    "Unit_Cost": 0.47
+                },
+                {
+                    "Recipe_ID": 199243,
+                    "Recipe_Name": "Chickpea and Couscous Stuffed Peppers",
+                    "Unit_Cost": 2.4
+                }
+            ],
+            "total_unit_cost": 2.87
+        },
+        {
+            "Meal_period": "Dinner",
+            "Section": "Vegetarian",
+            "Date": "05-01-2025",
+            "Day": "Friday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 170096,
+                    "Recipe_Name": "ESS OR - Chimichurri Mushrooms and White Bean Medley On Toast",
+                    "Unit_Cost": 0.16
+                },
+                {
+                    "Recipe_ID": 199229,
+                    "Recipe_Name": "Spinach and Feta Lentil Bake",
+                    "Unit_Cost": 3.0
+                }
+            ],
+            "total_unit_cost": 3.16
+        },
+        {
+            "Meal_period": "Dinner",
+            "Section": "Vegetarian",
+            "Date": "06-01-2025",
+            "Day": "Saturday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 199237,
+                    "Recipe_Name": "Tempeh Stir-Fry with Vegetables",
+                    "Unit_Cost": 4.0
+                },
+                {
+                    "Recipe_ID": 199243,
+                    "Recipe_Name": "Chickpea and Couscous Stuffed Peppers",
+                    "Unit_Cost": 2.4
+                }
+            ],
+            "total_unit_cost": 6.4
+        },
+        {
+            "Meal_period": "Dinner",
+            "Section": "Vegetarian",
+            "Date": "07-01-2025",
+            "Day": "Sunday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 170096,
+                    "Recipe_Name": "ESS OR - Chimichurri Mushrooms and White Bean Medley On Toast",
+                    "Unit_Cost": 0.16
+                },
+                {
+                    "Recipe_ID": 200976,
+                    "Recipe_Name": "ESS OR - Kung Pao Cauliflower",
+                    "Unit_Cost": 0.47
+                }
+            ],
+            "total_unit_cost": 0.63
+        },
+        {
+            "Meal_period": "Dinner",
+            "Section": "Vegetarian",
+            "Date": "08-01-2025",
+            "Day": "Monday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 199229,
+                    "Recipe_Name": "Spinach and Feta Lentil Bake",
+                    "Unit_Cost": 3.0
+                },
+                {
+                    "Recipe_ID": 199237,
+                    "Recipe_Name": "Tempeh Stir-Fry with Vegetables",
+                    "Unit_Cost": 4.0
+                }
+            ],
+            "total_unit_cost": 7.0
+        },
+        {
+            "Meal_period": "Dinner",
+            "Section": "Vegetarian",
+            "Date": "09-01-2025",
+            "Day": "Tuesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 200976,
+                    "Recipe_Name": "ESS OR - Kung Pao Cauliflower",
+                    "Unit_Cost": 0.47
+                },
+                {
+                    "Recipe_ID": 199243,
+                    "Recipe_Name": "Chickpea and Couscous Stuffed Peppers",
+                    "Unit_Cost": 2.4
+                }
+            ],
+            "total_unit_cost": 2.87
+        },
+        {
+            "Meal_period": "Dinner",
+            "Section": "Vegetarian",
+            "Date": "10-01-2025",
+            "Day": "Wednesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 170096,
+                    "Recipe_Name": "ESS OR - Chimichurri Mushrooms and White Bean Medley On Toast",
+                    "Unit_Cost": 0.16
+                },
+                {
+                    "Recipe_ID": 199229,
+                    "Recipe_Name": "Spinach and Feta Lentil Bake",
+                    "Unit_Cost": 3.0
+                }
+            ],
+            "total_unit_cost": 3.16
+        },
+        {
+            "Meal_period": "Dinner",
+            "Section": "Vegetarian",
+            "Date": "11-01-2025",
+            "Day": "Thursday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 199237,
+                    "Recipe_Name": "Tempeh Stir-Fry with Vegetables",
+                    "Unit_Cost": 4.0
+                },
+                {
+                    "Recipe_ID": 199243,
+                    "Recipe_Name": "Chickpea and Couscous Stuffed Peppers",
+                    "Unit_Cost": 2.4
+                }
+            ],
+            "total_unit_cost": 6.4
+        },
+        {
+            "Meal_period": "Dinner",
+            "Section": "Vegetarian",
+            "Date": "12-01-2025",
+            "Day": "Friday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 170096,
+                    "Recipe_Name": "ESS OR - Chimichurri Mushrooms and White Bean Medley On Toast",
+                    "Unit_Cost": 0.16
+                },
+                {
+                    "Recipe_ID": 200976,
+                    "Recipe_Name": "ESS OR - Kung Pao Cauliflower",
+                    "Unit_Cost": 0.47
+                }
+            ],
+            "total_unit_cost": 0.63
+        },
+        {
+            "Meal_period": "Dinner",
+            "Section": "Vegetarian",
+            "Date": "13-01-2025",
+            "Day": "Saturday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 199229,
+                    "Recipe_Name": "Spinach and Feta Lentil Bake",
+                    "Unit_Cost": 3.0
+                },
+                {
+                    "Recipe_ID": 199237,
+                    "Recipe_Name": "Tempeh Stir-Fry with Vegetables",
+                    "Unit_Cost": 4.0
+                }
+            ],
+            "total_unit_cost": 7.0
+        },
+        {
+            "Meal_period": "Dinner",
+            "Section": "Vegetarian",
+            "Date": "14-01-2025",
+            "Day": "Sunday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 200976,
+                    "Recipe_Name": "ESS OR - Kung Pao Cauliflower",
+                    "Unit_Cost": 0.47
+                },
+                {
+                    "Recipe_ID": 199243,
+                    "Recipe_Name": "Chickpea and Couscous Stuffed Peppers",
+                    "Unit_Cost": 2.4
+                }
+            ],
+            "total_unit_cost": 2.87
+        }
+    ],
+    [
+        {
+            "Meal_period": "Dinner",
+            "Section": "Side Vegetables",
+            "Date": "01-01-2025",
+            "Day": "Monday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 122608,
+                    "Recipe_Name": "ESS OR - Steamed corn kernels",
+                    "Unit_Cost": 3.61
+                },
+                {
+                    "Recipe_ID": 100464,
+                    "Recipe_Name": "ESS OR - Steamed Broccoli (Fresh)",
+                    "Unit_Cost": 0.76
+                },
+                {
+                    "Recipe_ID": 164736,
+                    "Recipe_Name": "ESS OR - Steamed Broccoli and Cauliflower (Fresh)",
+                    "Unit_Cost": 1.35
+                },
+                {
+                    "Recipe_ID": 177232,
+                    "Recipe_Name": "ESS OR - Steamed Bok Choy, Choy Sum and Green Beans with Soy-Ginger Drizzle",
+                    "Unit_Cost": 1.12
+                }
+            ],
+            "total_unit_cost": 6.85
+        },
+        {
+            "Meal_period": "Dinner",
+            "Section": "Side Vegetables",
+            "Date": "02-01-2025",
+            "Day": "Tuesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 122608,
+                    "Recipe_Name": "ESS OR - Steamed corn kernels",
+                    "Unit_Cost": 3.61
+                },
+                {
+                    "Recipe_ID": 100464,
+                    "Recipe_Name": "ESS OR - Steamed Broccoli (Fresh)",
+                    "Unit_Cost": 0.76
+                },
+                {
+                    "Recipe_ID": 164736,
+                    "Recipe_Name": "ESS OR - Steamed Broccoli and Cauliflower (Fresh)",
+                    "Unit_Cost": 1.35
+                },
+                {
+                    "Recipe_ID": 177232,
+                    "Recipe_Name": "ESS OR - Steamed Bok Choy, Choy Sum and Green Beans with Soy-Ginger Drizzle",
+                    "Unit_Cost": 1.12
+                }
+            ],
+            "total_unit_cost": 6.85
+        },
+        {
+            "Meal_period": "Dinner",
+            "Section": "Side Vegetables",
+            "Date": "03-01-2025",
+            "Day": "Wednesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 122608,
+                    "Recipe_Name": "ESS OR - Steamed corn kernels",
+                    "Unit_Cost": 3.61
+                },
+                {
+                    "Recipe_ID": 100464,
+                    "Recipe_Name": "ESS OR - Steamed Broccoli (Fresh)",
+                    "Unit_Cost": 0.76
+                },
+                {
+                    "Recipe_ID": 164736,
+                    "Recipe_Name": "ESS OR - Steamed Broccoli and Cauliflower (Fresh)",
+                    "Unit_Cost": 1.35
+                },
+                {
+                    "Recipe_ID": 177232,
+                    "Recipe_Name": "ESS OR - Steamed Bok Choy, Choy Sum and Green Beans with Soy-Ginger Drizzle",
+                    "Unit_Cost": 1.12
+                }
+            ],
+            "total_unit_cost": 6.85
+        },
+        {
+            "Meal_period": "Dinner",
+            "Section": "Side Vegetables",
+            "Date": "04-01-2025",
+            "Day": "Thursday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 122608,
+                    "Recipe_Name": "ESS OR - Steamed corn kernels",
+                    "Unit_Cost": 3.61
+                },
+                {
+                    "Recipe_ID": 100464,
+                    "Recipe_Name": "ESS OR - Steamed Broccoli (Fresh)",
+                    "Unit_Cost": 0.76
+                },
+                {
+                    "Recipe_ID": 164736,
+                    "Recipe_Name": "ESS OR - Steamed Broccoli and Cauliflower (Fresh)",
+                    "Unit_Cost": 1.35
+                },
+                {
+                    "Recipe_ID": 177232,
+                    "Recipe_Name": "ESS OR - Steamed Bok Choy, Choy Sum and Green Beans with Soy-Ginger Drizzle",
+                    "Unit_Cost": 1.12
+                }
+            ],
+            "total_unit_cost": 6.85
+        },
+        {
+            "Meal_period": "Dinner",
+            "Section": "Side Vegetables",
+            "Date": "05-01-2025",
+            "Day": "Friday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 122608,
+                    "Recipe_Name": "ESS OR - Steamed corn kernels",
+                    "Unit_Cost": 3.61
+                },
+                {
+                    "Recipe_ID": 100464,
+                    "Recipe_Name": "ESS OR - Steamed Broccoli (Fresh)",
+                    "Unit_Cost": 0.76
+                },
+                {
+                    "Recipe_ID": 164736,
+                    "Recipe_Name": "ESS OR - Steamed Broccoli and Cauliflower (Fresh)",
+                    "Unit_Cost": 1.35
+                },
+                {
+                    "Recipe_ID": 177232,
+                    "Recipe_Name": "ESS OR - Steamed Bok Choy, Choy Sum and Green Beans with Soy-Ginger Drizzle",
+                    "Unit_Cost": 1.12
+                }
+            ],
+            "total_unit_cost": 6.85
+        },
+        {
+            "Meal_period": "Dinner",
+            "Section": "Side Vegetables",
+            "Date": "06-01-2025",
+            "Day": "Saturday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 122608,
+                    "Recipe_Name": "ESS OR - Steamed corn kernels",
+                    "Unit_Cost": 3.61
+                },
+                {
+                    "Recipe_ID": 100464,
+                    "Recipe_Name": "ESS OR - Steamed Broccoli (Fresh)",
+                    "Unit_Cost": 0.76
+                },
+                {
+                    "Recipe_ID": 164736,
+                    "Recipe_Name": "ESS OR - Steamed Broccoli and Cauliflower (Fresh)",
+                    "Unit_Cost": 1.35
+                },
+                {
+                    "Recipe_ID": 177232,
+                    "Recipe_Name": "ESS OR - Steamed Bok Choy, Choy Sum and Green Beans with Soy-Ginger Drizzle",
+                    "Unit_Cost": 1.12
+                }
+            ],
+            "total_unit_cost": 6.85
+        },
+        {
+            "Meal_period": "Dinner",
+            "Section": "Side Vegetables",
+            "Date": "07-01-2025",
+            "Day": "Sunday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 122608,
+                    "Recipe_Name": "ESS OR - Steamed corn kernels",
+                    "Unit_Cost": 3.61
+                },
+                {
+                    "Recipe_ID": 100464,
+                    "Recipe_Name": "ESS OR - Steamed Broccoli (Fresh)",
+                    "Unit_Cost": 0.76
+                },
+                {
+                    "Recipe_ID": 164736,
+                    "Recipe_Name": "ESS OR - Steamed Broccoli and Cauliflower (Fresh)",
+                    "Unit_Cost": 1.35
+                },
+                {
+                    "Recipe_ID": 177232,
+                    "Recipe_Name": "ESS OR - Steamed Bok Choy, Choy Sum and Green Beans with Soy-Ginger Drizzle",
+                    "Unit_Cost": 1.12
+                }
+            ],
+            "total_unit_cost": 6.85
+        },
+        {
+            "Meal_period": "Dinner",
+            "Section": "Side Vegetables",
+            "Date": "08-01-2025",
+            "Day": "Monday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 122608,
+                    "Recipe_Name": "ESS OR - Steamed corn kernels",
+                    "Unit_Cost": 3.61
+                },
+                {
+                    "Recipe_ID": 100464,
+                    "Recipe_Name": "ESS OR - Steamed Broccoli (Fresh)",
+                    "Unit_Cost": 0.76
+                },
+                {
+                    "Recipe_ID": 164736,
+                    "Recipe_Name": "ESS OR - Steamed Broccoli and Cauliflower (Fresh)",
+                    "Unit_Cost": 1.35
+                },
+                {
+                    "Recipe_ID": 177232,
+                    "Recipe_Name": "ESS OR - Steamed Bok Choy, Choy Sum and Green Beans with Soy-Ginger Drizzle",
+                    "Unit_Cost": 1.12
+                }
+            ],
+            "total_unit_cost": 6.85
+        },
+        {
+            "Meal_period": "Dinner",
+            "Section": "Side Vegetables",
+            "Date": "09-01-2025",
+            "Day": "Tuesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 122608,
+                    "Recipe_Name": "ESS OR - Steamed corn kernels",
+                    "Unit_Cost": 3.61
+                },
+                {
+                    "Recipe_ID": 100464,
+                    "Recipe_Name": "ESS OR - Steamed Broccoli (Fresh)",
+                    "Unit_Cost": 0.76
+                },
+                {
+                    "Recipe_ID": 164736,
+                    "Recipe_Name": "ESS OR - Steamed Broccoli and Cauliflower (Fresh)",
+                    "Unit_Cost": 1.35
+                },
+                {
+                    "Recipe_ID": 177232,
+                    "Recipe_Name": "ESS OR - Steamed Bok Choy, Choy Sum and Green Beans with Soy-Ginger Drizzle",
+                    "Unit_Cost": 1.12
+                }
+            ],
+            "total_unit_cost": 6.85
+        },
+        {
+            "Meal_period": "Dinner",
+            "Section": "Side Vegetables",
+            "Date": "10-01-2025",
+            "Day": "Wednesday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 122608,
+                    "Recipe_Name": "ESS OR - Steamed corn kernels",
+                    "Unit_Cost": 3.61
+                },
+                {
+                    "Recipe_ID": 100464,
+                    "Recipe_Name": "ESS OR - Steamed Broccoli (Fresh)",
+                    "Unit_Cost": 0.76
+                },
+                {
+                    "Recipe_ID": 164736,
+                    "Recipe_Name": "ESS OR - Steamed Broccoli and Cauliflower (Fresh)",
+                    "Unit_Cost": 1.35
+                },
+                {
+                    "Recipe_ID": 177232,
+                    "Recipe_Name": "ESS OR - Steamed Bok Choy, Choy Sum and Green Beans with Soy-Ginger Drizzle",
+                    "Unit_Cost": 1.12
+                }
+            ],
+            "total_unit_cost": 6.85
+        },
+        {
+            "Meal_period": "Dinner",
+            "Section": "Side Vegetables",
+            "Date": "11-01-2025",
+            "Day": "Thursday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 122608,
+                    "Recipe_Name": "ESS OR - Steamed corn kernels",
+                    "Unit_Cost": 3.61
+                },
+                {
+                    "Recipe_ID": 100464,
+                    "Recipe_Name": "ESS OR - Steamed Broccoli (Fresh)",
+                    "Unit_Cost": 0.76
+                },
+                {
+                    "Recipe_ID": 164736,
+                    "Recipe_Name": "ESS OR - Steamed Broccoli and Cauliflower (Fresh)",
+                    "Unit_Cost": 1.35
+                },
+                {
+                    "Recipe_ID": 177232,
+                    "Recipe_Name": "ESS OR - Steamed Bok Choy, Choy Sum and Green Beans with Soy-Ginger Drizzle",
+                    "Unit_Cost": 1.12
+                }
+            ],
+            "total_unit_cost": 6.85
+        },
+        {
+            "Meal_period": "Dinner",
+            "Section": "Side Vegetables",
+            "Date": "12-01-2025",
+            "Day": "Friday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 122608,
+                    "Recipe_Name": "ESS OR - Steamed corn kernels",
+                    "Unit_Cost": 3.61
+                },
+                {
+                    "Recipe_ID": 100464,
+                    "Recipe_Name": "ESS OR - Steamed Broccoli (Fresh)",
+                    "Unit_Cost": 0.76
+                },
+                {
+                    "Recipe_ID": 164736,
+                    "Recipe_Name": "ESS OR - Steamed Broccoli and Cauliflower (Fresh)",
+                    "Unit_Cost": 1.35
+                },
+                {
+                    "Recipe_ID": 177232,
+                    "Recipe_Name": "ESS OR - Steamed Bok Choy, Choy Sum and Green Beans with Soy-Ginger Drizzle",
+                    "Unit_Cost": 1.12
+                }
+            ],
+            "total_unit_cost": 6.85
+        },
+        {
+            "Meal_period": "Dinner",
+            "Section": "Side Vegetables",
+            "Date": "13-01-2025",
+            "Day": "Saturday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 122608,
+                    "Recipe_Name": "ESS OR - Steamed corn kernels",
+                    "Unit_Cost": 3.61
+                },
+                {
+                    "Recipe_ID": 100464,
+                    "Recipe_Name": "ESS OR - Steamed Broccoli (Fresh)",
+                    "Unit_Cost": 0.76
+                },
+                {
+                    "Recipe_ID": 164736,
+                    "Recipe_Name": "ESS OR - Steamed Broccoli and Cauliflower (Fresh)",
+                    "Unit_Cost": 1.35
+                },
+                {
+                    "Recipe_ID": 177232,
+                    "Recipe_Name": "ESS OR - Steamed Bok Choy, Choy Sum and Green Beans with Soy-Ginger Drizzle",
+                    "Unit_Cost": 1.12
+                }
+            ],
+            "total_unit_cost": 6.85
+        },
+        {
+            "Meal_period": "Dinner",
+            "Section": "Side Vegetables",
+            "Date": "14-01-2025",
+            "Day": "Sunday",
+            "Recipes": [
+                {
+                    "Recipe_ID": 122608,
+                    "Recipe_Name": "ESS OR - Steamed corn kernels",
+                    "Unit_Cost": 3.61
+                },
+                {
+                    "Recipe_ID": 100464,
+                    "Recipe_Name": "ESS OR - Steamed Broccoli (Fresh)",
+                    "Unit_Cost": 0.76
+                },
+                {
+                    "Recipe_ID": 164736,
+                    "Recipe_Name": "ESS OR - Steamed Broccoli and Cauliflower (Fresh)",
+                    "Unit_Cost": 1.35
+                },
+                {
+                    "Recipe_ID": 177232,
+                    "Recipe_Name": "ESS OR - Steamed Bok Choy, Choy Sum and Green Beans with Soy-Ginger Drizzle",
+                    "Unit_Cost": 1.12
+                }
+            ],
+            "total_unit_cost": 6.85
+        }
+    ]
 ]
