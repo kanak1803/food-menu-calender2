@@ -1,12 +1,12 @@
 "use client";
 
 import React, { useState, useEffect } from "react";
-import juiceData from "@/app/data/juice.json";
-import eggsData from "@/app/data/eggs.json";
-import breadData from "@/app/data/bread.json";
-import milkData from "@/app/data/milk.json";
-import yogurtData from "@/app/data/yogurt.json";
-import meatData from "@/app/data/meat.json";
+import juiceData from "@/app/data/Juice.json";
+import eggsData from "@/app/data/Eggs.json";
+import breadData from "@/app/data/Bread.json";
+import milkData from "@/app/data/Milk.json";
+import yogurtData from "@/app/data/Yogurt.json";
+import meatData from "@/app/data/Meat.json";
 import pastriesandpies from "@/app/data/Pastriesandpies.json";
 import PrePackedCribs from "@/app/data/Pre-PackedCribs.json";
 import SaladsandCheese from "@/app/data/SaladsandCheese.json";
@@ -101,7 +101,7 @@ const FoodCalendar = () => {
                 // Find the corresponding day for this date in the data
                 const matchedItem = juiceData.find(
                   (item) => item.Date === date
-                ); 
+                );
                 const dayOfWeek = matchedItem ? matchedItem.Day : ""; // Get the day from the matched data
 
                 return (
